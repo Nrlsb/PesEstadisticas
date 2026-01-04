@@ -76,14 +76,16 @@ export default function GlobalGoldenBoot({ allLeaguesData, allCompetitionsData =
                 // Es un historial, buscamos la temporada
                 const seasonComp = comp.find(c => c.season === activeSeason);
                 if (seasonComp && seasonComp.top_scorers && seasonComp.type === 'cup') {
-                    processScorers(seasonComp.top_scorers, seasonComp.name, activeSeason, 'Cup');
-                    processedCompetitions.add(seasonComp.name);
+                    const compName = seasonComp.name || seasonComp.league || 'Copa';
+                    processScorers(seasonComp.top_scorers, compName, activeSeason, 'Cup');
+                    processedCompetitions.add(compName);
                 }
             }
             // Caso: Objeto único (si existe alguno así en tu data)
             else if (comp.season === activeSeason && comp.top_scorers && comp.type === 'cup') {
-                processScorers(comp.top_scorers, comp.name, activeSeason, 'Cup');
-                processedCompetitions.add(comp.name);
+                const compName = comp.name || comp.league || 'Copa';
+                processScorers(comp.top_scorers, compName, activeSeason, 'Cup');
+                processedCompetitions.add(compName);
             }
         });
 
