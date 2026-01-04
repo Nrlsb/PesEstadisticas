@@ -33,35 +33,41 @@ export default function CupBracket({ data, leagueName }) {
 
                         <div className="divide-y divide-slate-800/50">
                             {round.matches.map((match, mIndex) => (
-                                <div key={mIndex} className="p-4 flex flex-col md:flex-row items-center justify-between gap-4 hover:bg-slate-800/30 transition-colors">
+                                <div key={mIndex} className="p-2 md:p-4 flex flex-row items-center justify-between gap-1 md:gap-4 hover:bg-slate-800/30 transition-colors">
 
                                     {/* Home Team */}
-                                    <div className={`flex items-center gap-3 flex-1 justify-end ${match.homeScore > match.awayScore ? 'text-white font-bold' : 'text-slate-400'}`}>
-                                        <span className="text-right">{match.home}</span>
+                                    <div className={`flex items-center gap-2 md:gap-3 flex-1 justify-end ${match.homeScore > match.awayScore ? 'text-white font-bold' : 'text-slate-400'}`}>
+                                        <span className="text-right text-[11px] md:text-base leading-tight">
+                                            <span className="md:hidden">{match.home}</span>
+                                            <span className="hidden md:inline">{match.home}</span>
+                                        </span>
                                         {match.homeLogo ? (
-                                            <img src={match.homeLogo} alt={match.home} className="w-8 h-8 object-contain" />
+                                            <img src={match.homeLogo} alt={match.home} className="w-5 h-5 md:w-8 md:h-8 object-contain" />
                                         ) : (
-                                            <div className="w-8 h-8 rounded-full bg-slate-800 flex items-center justify-center text-[10px] uppercase font-bold text-slate-500">
+                                            <div className="w-5 h-5 md:w-8 md:h-8 rounded-full bg-slate-800 flex items-center justify-center text-[8px] md:text-[10px] uppercase font-bold text-slate-500">
                                                 {match.home.substring(0, 2)}
                                             </div>
                                         )}
                                     </div>
 
                                     {/* Score */}
-                                    <div className="px-4 py-1 bg-slate-950 rounded-lg border border-slate-800 font-mono text-xl font-bold text-white min-w-[100px] text-center">
+                                    <div className="px-2 py-1 bg-slate-950/50 rounded md:rounded-lg border border-slate-800 font-mono text-sm md:text-xl font-bold text-white min-w-[50px] md:min-w-[100px] text-center whitespace-nowrap">
                                         {match.homeScore} - {match.awayScore}
                                     </div>
 
                                     {/* Away Team */}
-                                    <div className={`flex items-center gap-3 flex-1 justify-start ${match.awayScore > match.homeScore ? 'text-white font-bold' : 'text-slate-400'}`}>
+                                    <div className={`flex items-center gap-2 md:gap-3 flex-1 justify-start ${match.awayScore > match.homeScore ? 'text-white font-bold' : 'text-slate-400'}`}>
                                         {match.awayLogo ? (
-                                            <img src={match.awayLogo} alt={match.away} className="w-8 h-8 object-contain" />
+                                            <img src={match.awayLogo} alt={match.away} className="w-5 h-5 md:w-8 md:h-8 object-contain" />
                                         ) : (
-                                            <div className="w-8 h-8 rounded-full bg-slate-800 flex items-center justify-center text-[10px] uppercase font-bold text-slate-500">
+                                            <div className="w-5 h-5 md:w-8 md:h-8 rounded-full bg-slate-800 flex items-center justify-center text-[8px] md:text-[10px] uppercase font-bold text-slate-500">
                                                 {match.away.substring(0, 2)}
                                             </div>
                                         )}
-                                        <span>{match.away}</span>
+                                        <span className="text-left text-[11px] md:text-base leading-tight">
+                                            <span className="md:hidden">{match.away}</span>
+                                            <span className="hidden md:inline">{match.away}</span>
+                                        </span>
                                     </div>
                                 </div>
                             ))}
