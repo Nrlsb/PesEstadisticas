@@ -29,18 +29,18 @@ export default function AnalysisDashboard({
                     <p className="text-slate-400 text-sm mt-1">Explora métricas profundas y comparativas globales.</p>
                 </div>
 
-                <div className="flex p-1 bg-slate-900/80 rounded-xl border border-slate-800 backdrop-blur-sm">
+                <div className="flex overflow-x-auto no-scrollbar max-w-full p-1 bg-slate-900/80 rounded-xl border border-slate-800 backdrop-blur-sm">
                     {TABS.map(tab => (
                         <button
                             key={tab.id}
                             onClick={() => setActiveTab(tab.id)}
-                            className={`flex items-center gap-2 px-4 py-2 text-sm font-bold rounded-lg transition-all ${activeTab === tab.id
+                            className={`flex items-center gap-2 px-4 py-2 text-sm font-bold rounded-lg transition-all whitespace-nowrap flex-shrink-0 ${activeTab === tab.id
                                 ? 'bg-emerald-600 text-white shadow-lg shadow-emerald-500/20'
                                 : 'text-slate-400 hover:text-white hover:bg-slate-800'
                                 }`}
                         >
                             <tab.icon size={16} />
-                            <span className="hidden sm:inline">{tab.label}</span>
+                            <span>{tab.label}</span>
                         </button>
                     ))}
                 </div>

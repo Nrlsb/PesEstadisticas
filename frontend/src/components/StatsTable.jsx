@@ -17,13 +17,13 @@ const StatsTable = ({ data, title, type, onPlayerClick }) => {
             </div>
 
             <div className="overflow-x-auto">
-                <table className="w-full text-left border-collapse">
+                <table className="w-full text-left border-collapse min-w-[500px]">
                     <thead>
                         <tr className="text-gray-400 text-xs uppercase tracking-wider border-b border-gray-800 bg-gray-900/50">
-                            <th className="px-6 py-4 font-semibold text-center w-16">Pos</th>
-                            <th className="px-6 py-4 font-semibold">Jugador</th>
-                            <th className="px-6 py-4 font-semibold">Equipo</th>
-                            <th className="px-6 py-4 font-semibold text-center">{type === 'goals' ? 'Goles' : 'Asistencias'}</th>
+                            <th className="px-4 py-4 font-semibold text-center w-12">Pos</th>
+                            <th className="px-4 py-4 font-semibold">Jugador</th>
+                            <th className="px-4 py-4 font-semibold">Equipo</th>
+                            <th className="px-4 py-4 font-semibold text-center">{type === 'goals' ? 'Goles' : 'Asistencias'}</th>
                         </tr>
                     </thead>
                     <tbody className="divide-y divide-gray-800">
@@ -36,7 +36,7 @@ const StatsTable = ({ data, title, type, onPlayerClick }) => {
                                 onClick={() => onPlayerClick && onPlayerClick(item)}
                                 className="hover:bg-gray-800/30 transition-colors duration-200 cursor-pointer"
                             >
-                                <td className="px-6 py-4 text-center">
+                                <td className="px-4 py-4 text-center">
                                     <span className={`
                                         inline-flex items-center justify-center w-6 h-6 rounded-full text-xs font-bold
                                         ${item.rank === 1 ? 'bg-yellow-500/20 text-yellow-400' :
@@ -46,12 +46,12 @@ const StatsTable = ({ data, title, type, onPlayerClick }) => {
                                         {item.rank}
                                     </span>
                                 </td>
-                                <td className="px-6 py-4 font-medium text-gray-200">{item.player}</td>
-                                <td className="px-6 py-4 text-gray-400 flex items-center gap-2">
+                                <td className="px-4 py-4 font-medium text-gray-200">{item.player}</td>
+                                <td className="px-4 py-4 text-gray-400 flex items-center gap-2">
                                     {item.team_logo && <img src={item.team_logo} alt={item.team} className="w-6 h-6 object-contain" />}
-                                    {item.team}
+                                    <span className="hidden sm:inline">{item.team}</span>
                                 </td>
-                                <td className="px-6 py-4 text-center font-bold text-white text-lg">
+                                <td className="px-4 py-4 text-center font-bold text-white text-lg">
                                     {type === 'goals' ? item.goals : item.assists}
                                 </td>
                             </motion.tr>

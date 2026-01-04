@@ -170,8 +170,8 @@ export default function GlobalGoldenBoot({ allLeaguesData, allCompetitionsData =
             </div>
 
             {/* Detailed Table */}
-            <div className="bg-slate-900/50 rounded-xl border border-slate-800 overflow-hidden backdrop-blur-sm">
-                <table className="w-full text-left border-collapse">
+            <div className="bg-slate-900/50 rounded-xl border border-slate-800 overflow-hidden backdrop-blur-sm overflow-x-auto">
+                <table className="w-full text-left border-collapse min-w-[600px]">
                     <thead>
                         <tr className="bg-slate-950/50 text-slate-400 text-xs uppercase tracking-wider border-b border-slate-800">
                             <th className="p-4 w-16 text-center">#</th>

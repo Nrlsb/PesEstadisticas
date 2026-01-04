@@ -331,12 +331,12 @@ function App() {
 
       <main className="max-w-7xl mx-auto space-y-8">
         {/* Category Tabs */}
-        <div className="flex flex-wrap justify-center gap-4 md:gap-8 border-b border-slate-800 pb-1 mb-8">
+        <div className="flex overflow-x-auto no-scrollbar md:flex-wrap md:justify-center gap-4 md:gap-8 border-b border-slate-800 pb-1 mb-6 md:mb-8 px-2 md:px-0">
           {Object.keys(CATEGORIES).map(category => (
             <button
               key={category}
               onClick={() => setActiveCategory(category)}
-              className={`pb-4 px-4 text-lg font-bold tracking-wide transition-all relative ${activeCategory === category
+              className={`pb-4 px-2 md:px-4 text-sm md:text-lg font-bold tracking-wide transition-all relative whitespace-nowrap flex-shrink-0 ${activeCategory === category
                 ? 'text-white'
                 : 'text-slate-500 hover:text-slate-300'
                 }`}
