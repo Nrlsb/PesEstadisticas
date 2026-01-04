@@ -1,0 +1,30 @@
+[
+    {
+        "award_name": "Mejor jugador del mundo 2025",
+        "date": "2025",
+        "rankings": [
+            {
+                "rank": 1,
+                "player": "Lucas Benitez",
+                "team": "FC Barcelona",
+                "votes": 864,
+                "position": "CD",
+                "nationality": "ARGENTINA"
+            },
+            {
+                "rank": 2,
+                "player": "Vinícius Júnior",
+                "team": "Real Madrid CF",
+                "votes": 552,
+                "position": "EXI"
+            },
+            {
+                "rank": 3,
+                "player": "Kylian Mbappé",
+                "team": "Real Madrid CF",
+                "votes": 368,
+                "position": "CD"
+            }
+        ]
+    }
+]

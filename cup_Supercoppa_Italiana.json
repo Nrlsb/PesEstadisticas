@@ -1,0 +1,46 @@
+[
+    {
+        "league": "Supercoppa Italiana",
+        "type": "cup",
+        "season": "25/26",
+        "rounds": [
+            {
+                "name": "Final",
+                "matches": [
+                    {
+                        "home": "SSC Napoli",
+                        "away": "Bologna FC",
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/113.svg",
+                        "awayLogo": "https://crests.football-data.org/103.svg"
+                    }
+                ]
+            }
+        ],
+        "top_scorers": [],
+        "top_assists": []
+    },
+    {
+        "league": "Supercoppa Italiana",
+        "type": "cup",
+        "season": "26/27",
+        "rounds": [
+            {
+                "name": "Final",
+                "matches": [
+                    {
+                        "home": "Inter Milan",
+                        "away": "SSC Napoli",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/108.svg",
+                        "awayLogo": "https://crests.football-data.org/113.svg"
+                    }
+                ]
+            }
+        ],
+        "top_scorers": [],
+        "top_assists": []
+    }
+]

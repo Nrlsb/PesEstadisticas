@@ -1,0 +1,803 @@
+[
+    {
+        "league": "Copa del Rey",
+        "type": "cup",
+        "season": "25/26",
+        "rounds": [
+            {
+                "name": "Round of 32",
+                "matches": [
+                    {
+                        "home": "Real Madrid CF",
+                        "away": "Córdoba CF",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/86.svg",
+                        "awayLogo": "https://crests.football-data.org/259.svg"
+                    },
+                    {
+                        "home": "UD Almería",
+                        "away": "Getafe CF",
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "awayLogo": "https://crests.football-data.org/82.svg",
+                        "homeLogo": "https://crests.football-data.org/267.svg"
+                    },
+                    {
+                        "home": "CA Osasuna",
+                        "away": "UD Las Palmas",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/79.svg"
+                    },
+                    {
+                        "home": "CD Leganés",
+                        "away": "Girona FC",
+                        "homeScore": 4,
+                        "awayScore": 1,
+                        "awayLogo": "https://crests.football-data.org/298.svg"
+                    },
+                    {
+                        "home": "Real Sociedad",
+                        "away": "Sporting Gijón",
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "homeLogo": "https://crests.football-data.org/92.svg",
+                        "awayLogo": "https://crests.football-data.org/96.svg"
+                    },
+                    {
+                        "home": "Cádiz CF",
+                        "away": "Sevilla FC",
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "awayLogo": "https://crests.football-data.org/559.svg",
+                        "homeLogo": "https://crests.football-data.org/264.svg"
+                    },
+                    {
+                        "home": "Real Oviedo",
+                        "away": "Elche CF",
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/4975.svg",
+                        "awayLogo": "https://crests.football-data.org/285.svg"
+                    },
+                    {
+                        "home": "Burgos CF",
+                        "away": "FC Barcelona",
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "awayLogo": "https://crests.football-data.org/81.svg"
+                    },
+                    {
+                        "home": "Atlético Madrid",
+                        "away": "Albacete Balompié",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/78.svg",
+                        "awayLogo": "https://crests.football-data.org/260.svg"
+                    },
+                    {
+                        "home": "Deportivo Alavés",
+                        "away": "RCD Mallorca",
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/263.svg",
+                        "awayLogo": "https://crests.football-data.org/89.svg"
+                    },
+                    {
+                        "home": "Celta de Vigo",
+                        "away": "Real Zaragoza",
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/558.svg"
+                    },
+                    {
+                        "home": "Granada CF",
+                        "away": "Villarreal CF",
+                        "homeScore": 0,
+                        "awayScore": 3,
+                        "awayLogo": "https://crests.football-data.org/94.svg",
+                        "homeLogo": "https://crests.football-data.org/83.svg"
+                    },
+                    {
+                        "home": "Real Betis",
+                        "away": "Málaga CF",
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/90.svg"
+                    },
+                    {
+                        "home": "Sociedad B",
+                        "away": "Valencia CF",
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "awayLogo": "https://crests.football-data.org/95.svg",
+                        "homeLogo": "https://crests.football-data.org/7004.svg"
+                    },
+                    {
+                        "home": "Rayo Vallecano",
+                        "away": "RCD Espanyol",
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "note": "Espanyol wins on penalties",
+                        "homeLogo": "https://crests.football-data.org/87.svg",
+                        "awayLogo": "https://crests.football-data.org/80.svg"
+                    },
+                    {
+                        "home": "Real Valladolid",
+                        "away": "Athletic Bilbao",
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "awayLogo": "https://crests.football-data.org/77.svg",
+                        "homeLogo": "https://crests.football-data.org/250.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Round of 16",
+                "matches": [
+                    {
+                        "home": "Real Madrid CF",
+                        "away": "Getafe CF",
+                        "homeScore": 4,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/86.svg",
+                        "awayLogo": "https://crests.football-data.org/82.svg"
+                    },
+                    {
+                        "home": "CA Osasuna",
+                        "away": "CD Leganés",
+                        "homeScore": 0,
+                        "awayScore": 4,
+                        "homeLogo": "https://crests.football-data.org/79.svg"
+                    },
+                    {
+                        "home": "Sporting Gijón",
+                        "away": "Sevilla FC",
+                        "homeScore": 3,
+                        "awayScore": 1,
+                        "awayLogo": "https://crests.football-data.org/559.svg",
+                        "homeLogo": "https://crests.football-data.org/96.svg"
+                    },
+                    {
+                        "home": "Elche CF",
+                        "away": "FC Barcelona",
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/285.svg",
+                        "awayLogo": "https://crests.football-data.org/81.svg"
+                    },
+                    {
+                        "home": "Atlético Madrid",
+                        "away": "RCD Mallorca",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/78.svg",
+                        "awayLogo": "https://crests.football-data.org/89.svg"
+                    },
+                    {
+                        "home": "Celta de Vigo",
+                        "away": "Villarreal CF",
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/558.svg",
+                        "awayLogo": "https://crests.football-data.org/94.svg"
+                    },
+                    {
+                        "home": "Real Betis",
+                        "away": "Valencia CF",
+                        "homeScore": 3,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/90.svg",
+                        "awayLogo": "https://crests.football-data.org/95.svg"
+                    },
+                    {
+                        "home": "RCD Espanyol",
+                        "away": "Athletic Bilbao",
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/80.svg",
+                        "awayLogo": "https://crests.football-data.org/77.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Quarter-Finals",
+                "matches": [
+                    {
+                        "home": "Real Madrid CF",
+                        "away": "CD Leganés",
+                        "homeScore": 3,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/86.svg"
+                    },
+                    {
+                        "home": "Sporting Gijón",
+                        "away": "FC Barcelona",
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "awayLogo": "https://crests.football-data.org/81.svg",
+                        "homeLogo": "https://crests.football-data.org/96.svg"
+                    },
+                    {
+                        "home": "Atlético Madrid",
+                        "away": "Villarreal CF",
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/78.svg",
+                        "awayLogo": "https://crests.football-data.org/94.svg"
+                    },
+                    {
+                        "home": "Real Betis",
+                        "away": "Athletic Bilbao",
+                        "homeScore": 3,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/90.svg",
+                        "awayLogo": "https://crests.football-data.org/77.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Semi-Finals",
+                "matches": [
+                    {
+                        "home": "Real Madrid CF",
+                        "away": "FC Barcelona",
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/86.svg",
+                        "awayLogo": "https://crests.football-data.org/81.svg"
+                    },
+                    {
+                        "home": "Villarreal CF",
+                        "away": "Real Betis",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/94.svg",
+                        "awayLogo": "https://crests.football-data.org/90.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Final",
+                "matches": [
+                    {
+                        "home": "FC Barcelona",
+                        "away": "Villarreal CF",
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/81.svg",
+                        "awayLogo": "https://crests.football-data.org/94.svg"
+                    }
+                ]
+            }
+        ],
+        "top_scorers": [
+            {
+                "rank": 1,
+                "player": "Lucas Benitez",
+                "team": "FC Barcelona",
+                "goals": 5,
+                "team_logo": "https://crests.football-data.org/81.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Cucho Hernández",
+                "team": "Real Betis",
+                "goals": 4,
+                "team_logo": "https://crests.football-data.org/90.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Juan Otero",
+                "team": "Sporting Gijón",
+                "goals": 3,
+                "team_logo": "https://crests.football-data.org/96.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Rodrygo",
+                "team": "Real Madrid CF",
+                "goals": 3,
+                "team_logo": "https://crests.football-data.org/86.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Lamine Yamal",
+                "team": "FC Barcelona",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/81.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Robert Lewandowski",
+                "team": "FC Barcelona",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/81.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Kevin Medina",
+                "team": "Córdoba CF",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/259.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Sergi Guardiola",
+                "team": "Córdoba CF",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/259.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Aritz Aldasoro",
+                "team": "Racing Santander",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/262.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Gaspar Campos",
+                "team": "Sporting Gijón",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/96.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Jordy Caicedo",
+                "team": "Sporting Gijón",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/96.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Curro Sánchez",
+                "team": "Burgos CF",
+                "goals": 2
+            },
+            {
+                "rank": 5,
+                "player": "Sergio Rodelas",
+                "team": "Granada CF",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/83.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Jorge Pascual",
+                "team": "Granada CF",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/83.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Vinícius Júnior",
+                "team": "Real Madrid CF",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/86.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Óscar Plano",
+                "team": "CD Leganés",
+                "goals": 2
+            }
+        ],
+        "top_assists": [
+            {
+                "rank": 1,
+                "player": "Seydouba Cissé",
+                "team": "CD Leganés",
+                "assists": 3
+            },
+            {
+                "rank": 2,
+                "player": "Frenkie de Jong",
+                "team": "FC Barcelona",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/81.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Rubén Alcaraz",
+                "team": "Granada CF",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/83.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Federico Valverde",
+                "team": "Real Madrid CF",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/86.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Amadou Diawara",
+                "team": "CD Leganés",
+                "assists": 2
+            },
+            {
+                "rank": 2,
+                "player": "Álex Corredera",
+                "team": "Sporting Gijón",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/96.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Brahim Díaz",
+                "team": "Real Madrid CF",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/86.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Pape Gueye",
+                "team": "Villarreal CF",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/94.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Lucas Benitez",
+                "team": "FC Barcelona",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/81.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Gavi",
+                "team": "FC Barcelona",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/81.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Theo Zidane",
+                "team": "Córdoba CF",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/259.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Yeray Cabanzón",
+                "team": "Racing Santander",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/262.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Cristian Gutiérrez",
+                "team": "UD Las Palmas",
+                "assists": 1
+            },
+            {
+                "rank": 9,
+                "player": "Jonathan Viera",
+                "team": "UD Las Palmas",
+                "assists": 1
+            },
+            {
+                "rank": 9,
+                "player": "Jesús Bernal",
+                "team": "Sporting Gijón",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/96.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Saúl del Cerro",
+                "team": "Burgos CF",
+                "assists": 1
+            }
+        ]
+    },
+    {
+        "league": "Copa del Rey",
+        "type": "cup",
+        "season": "26/27",
+        "rounds": [
+            {
+                "name": "Quarter-Finals",
+                "matches": [
+                    {
+                        "home": "FC Barcelona",
+                        "away": "Sociedad B",
+                        "homeScore": 4,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/81.svg",
+                        "awayLogo": "https://crests.football-data.org/7004.svg"
+                    },
+                    {
+                        "home": "Villarreal CF",
+                        "away": "Granada CF",
+                        "homeScore": 3,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/94.svg",
+                        "awayLogo": "https://crests.football-data.org/83.svg"
+                    },
+                    {
+                        "home": "CA Osasuna",
+                        "away": "Real Madrid CF",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/79.svg",
+                        "awayLogo": "https://crests.football-data.org/86.svg"
+                    },
+                    {
+                        "home": "Atlético Madrid",
+                        "away": "Rayo Vallecano",
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/78.svg",
+                        "awayLogo": "https://crests.football-data.org/87.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Semi-Finals",
+                "matches": [
+                    {
+                        "home": "FC Barcelona",
+                        "away": "Villarreal CF",
+                        "homeScore": 3,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/81.svg",
+                        "awayLogo": "https://crests.football-data.org/94.svg"
+                    },
+                    {
+                        "home": "CA Osasuna",
+                        "away": "Atlético Madrid",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/79.svg",
+                        "awayLogo": "https://crests.football-data.org/78.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Final",
+                "matches": [
+                    {
+                        "home": "FC Barcelona",
+                        "away": "CA Osasuna",
+                        "homeScore": 3,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/81.svg",
+                        "awayLogo": "https://crests.football-data.org/79.svg"
+                    }
+                ]
+            }
+        ],
+        "top_scorers": [
+            {
+                "rank": 1,
+                "player": "Lucas Benitez",
+                "team": "FC Barcelona",
+                "goals": 9,
+                "team_logo": "https://crests.football-data.org/81.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Gaspar Campos",
+                "team": "Sporting Gijón",
+                "goals": 4,
+                "team_logo": "https://crests.football-data.org/96.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Lamine Yamal",
+                "team": "FC Barcelona",
+                "goals": 3,
+                "team_logo": "https://crests.football-data.org/81.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Alberto Marí",
+                "team": "CD Mirandés",
+                "goals": 3,
+                "team_logo": "https://crests.football-data.org/277.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Dani Rodríguez",
+                "team": "RCD Mallorca",
+                "goals": 3,
+                "team_logo": "https://crests.football-data.org/89.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Rodrygo",
+                "team": "Real Madrid CF",
+                "goals": 3,
+                "team_logo": "https://crests.football-data.org/86.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Iago Aspas",
+                "team": "Celta de Vigo",
+                "goals": 3,
+                "team_logo": "https://crests.football-data.org/558.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Darío Ramírez",
+                "team": "Sociedad B",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/7004.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Álex Cardero",
+                "team": "CD Mirandés",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/277.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Nikolay Obolskiy",
+                "team": "Córdoba CF",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/259.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Adu Ares",
+                "team": "SD Eibar",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/278.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Lucas Boyé",
+                "team": "Deportivo Alavés",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/263.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Juanmi",
+                "team": "Getafe CF",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/82.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Mikel Rodríguez",
+                "team": "Sociedad B",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/7004.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Manu Trigueros",
+                "team": "Granada CF",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/83.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Brahim Díaz",
+                "team": "Real Madrid CF",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/86.svg"
+            }
+        ],
+        "top_assists": [
+            {
+                "rank": 1,
+                "player": "Frenkie de Jong",
+                "team": "FC Barcelona",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/81.svg"
+            },
+            {
+                "rank": 1,
+                "player": "Mikel Rodríguez",
+                "team": "Sociedad B",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/7004.svg"
+            },
+            {
+                "rank": 1,
+                "player": "Damián Rodríguez",
+                "team": "Celta de Vigo",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/558.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Pedri",
+                "team": "FC Barcelona",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/81.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Riki Rodríguez",
+                "team": "Albacete Balompié",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/260.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Álex Corredera",
+                "team": "Sporting Gijón",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/96.svg"
+            },
+            {
+                "rank": 4,
+                "player": "César Gelabert",
+                "team": "Sporting Gijón",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/96.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Denis Suárez",
+                "team": "Deportivo Alavés",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/263.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Mario Martín",
+                "team": "Getafe CF",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/82.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Ismael Barea",
+                "team": "CD Mirandés",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/277.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Eduardo Camavinga",
+                "team": "Real Madrid CF",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/86.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Samú Costa",
+                "team": "RCD Mallorca",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/89.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Ilaix Moriba",
+                "team": "Celta de Vigo",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/558.svg"
+            },
+            {
+                "rank": 14,
+                "player": "Lamine Yamal",
+                "team": "FC Barcelona",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/81.svg"
+            },
+            {
+                "rank": 14,
+                "player": "Íñigo Sainz-Maza",
+                "team": "Racing Santander",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/262.svg"
+            },
+            {
+                "rank": 14,
+                "player": "Gorka Gorosabel",
+                "team": "Sociedad B",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/7004.svg"
+            }
+        ]
+    }
+]

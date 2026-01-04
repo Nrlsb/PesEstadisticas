@@ -1,0 +1,725 @@
+[
+    {
+        "league": "UEFA Europa League",
+        "type": "cup",
+        "season": "25/26",
+        "rounds": [
+            {
+                "name": "Round of 16",
+                "matches": [
+                    {
+                        "home": "KAA Gent",
+                        "away": "PSV Eindhoven",
+                        "homeScore": 3,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/342.svg",
+                        "awayLogo": "https://crests.football-data.org/674.svg"
+                    },
+                    {
+                        "home": "AS Monaco",
+                        "away": "Juventus FC",
+                        "homeScore": 3,
+                        "awayScore": 5,
+                        "homeLogo": "https://crests.football-data.org/548.svg",
+                        "awayLogo": "https://crests.football-data.org/109.svg"
+                    },
+                    {
+                        "home": "Aston Villa FC",
+                        "away": "AS Roma",
+                        "homeScore": 4,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/58.svg",
+                        "awayLogo": "https://crests.football-data.org/100.svg"
+                    },
+                    {
+                        "home": "Trabzonspor",
+                        "away": "PAOK Thessaloniki",
+                        "homeScore": 3,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/601.svg",
+                        "awayLogo": "https://crests.football-data.org/394.svg"
+                    },
+                    {
+                        "home": "KRC Genk",
+                        "away": "Eintracht Frankfurt",
+                        "homeScore": 5,
+                        "awayScore": 2,
+                        "awayLogo": "https://crests.football-data.org/19.svg",
+                        "homeLogo": "https://crests.football-data.org/343.svg"
+                    },
+                    {
+                        "home": "Bayer 04 Leverkusen",
+                        "away": "OGC Nice",
+                        "homeScore": 4,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/3.svg",
+                        "awayLogo": "https://crests.football-data.org/522.svg"
+                    },
+                    {
+                        "home": "Panathinaikos FC",
+                        "away": "Club Brugge KV",
+                        "homeScore": 2,
+                        "awayScore": 6,
+                        "awayLogo": "https://crests.football-data.org/569.svg",
+                        "homeLogo": "https://crests.football-data.org/350.svg"
+                    },
+                    {
+                        "home": "Zenit St. Petersburg",
+                        "away": "Nottingham Forest",
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "awayLogo": "https://crests.football-data.org/351.svg",
+                        "homeLogo": "https://crests.football-data.org/669.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Quarter-Finals",
+                "matches": [
+                    {
+                        "home": "Aston Villa FC",
+                        "away": "Trabzonspor",
+                        "homeScore": 7,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/58.svg",
+                        "awayLogo": "https://crests.football-data.org/601.svg"
+                    },
+                    {
+                        "home": "Club Brugge KV",
+                        "away": "KRC Genk",
+                        "homeScore": 3,
+                        "awayScore": 4,
+                        "homeLogo": "https://crests.football-data.org/569.svg",
+                        "awayLogo": "https://crests.football-data.org/343.svg"
+                    },
+                    {
+                        "home": "Nottingham Forest",
+                        "away": "Bayer 04 Leverkusen",
+                        "homeScore": 2,
+                        "awayScore": 3,
+                        "homeLogo": "https://crests.football-data.org/351.svg",
+                        "awayLogo": "https://crests.football-data.org/3.svg"
+                    },
+                    {
+                        "home": "KAA Gent",
+                        "away": "Juventus FC",
+                        "homeScore": 1,
+                        "awayScore": 4,
+                        "awayLogo": "https://crests.football-data.org/109.svg",
+                        "homeLogo": "https://crests.football-data.org/342.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Semi-Finals",
+                "matches": [
+                    {
+                        "home": "Aston Villa FC",
+                        "away": "Juventus FC",
+                        "homeScore": 7,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/58.svg",
+                        "awayLogo": "https://crests.football-data.org/109.svg"
+                    },
+                    {
+                        "home": "KRC Genk",
+                        "away": "Bayer 04 Leverkusen",
+                        "homeScore": 3,
+                        "awayScore": 5,
+                        "awayLogo": "https://crests.football-data.org/3.svg",
+                        "homeLogo": "https://crests.football-data.org/343.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Final",
+                "matches": [
+                    {
+                        "home": "Aston Villa FC",
+                        "away": "Bayer 04 Leverkusen",
+                        "homeScore": 2,
+                        "awayScore": 4,
+                        "homeLogo": "https://crests.football-data.org/58.svg",
+                        "awayLogo": "https://crests.football-data.org/3.svg"
+                    }
+                ]
+            }
+        ],
+        "top_scorers": [
+            {
+                "rank": 1,
+                "player": "Loïs Openda",
+                "team": "Juventus FC",
+                "goals": 8,
+                "team_logo": "https://crests.football-data.org/109.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Ollie Watkins",
+                "team": "Aston Villa FC",
+                "goals": 7,
+                "team_logo": "https://crests.football-data.org/58.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Donyell Malen",
+                "team": "Aston Villa FC",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/58.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Chris Führich",
+                "team": "VfB Stuttgart",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/10.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Patrik Schick",
+                "team": "Bayer 04 Leverkusen",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/3.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Gustaf Nilsson",
+                "team": "Club Brugge KV",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/569.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Maghnes Akliouche",
+                "team": "AS Monaco",
+                "goals": 5,
+                "team_logo": "https://crests.football-data.org/548.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Igor Jesus",
+                "team": "Nottingham Forest",
+                "goals": 5,
+                "team_logo": "https://crests.football-data.org/351.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Georges Mikautadze",
+                "team": "Villarreal CF",
+                "goals": 5,
+                "team_logo": "https://crests.football-data.org/94.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Jonas Hofmann",
+                "team": "Bayer 04 Leverkusen",
+                "goals": 5,
+                "team_logo": "https://crests.football-data.org/3.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Aleix García",
+                "team": "Bayer 04 Leverkusen",
+                "goals": 5,
+                "team_logo": "https://crests.football-data.org/3.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Yira Sor",
+                "team": "KRC Genk",
+                "goals": 5,
+                "team_logo": "https://crests.football-data.org/343.svg"
+            }
+        ],
+        "top_assists": [
+            {
+                "rank": 1,
+                "player": "M. Gibbs-White",
+                "team": "Nottingham Forest",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/351.svg"
+            },
+            {
+                "rank": 1,
+                "player": "Daan Heymans",
+                "team": "KRC Genk",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/343.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Mario Götze",
+                "team": "Eintracht Frankfurt",
+                "assists": 5,
+                "team_logo": "https://crests.football-data.org/19.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Boubacar Kamara",
+                "team": "Aston Villa FC",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/58.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Angelo Stiller",
+                "team": "VfB Stuttgart",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/10.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Silas Wamangituka",
+                "team": "VfB Stuttgart",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/10.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Khéphren Thuram",
+                "team": "Juventus FC",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/109.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Manuel Locatelli",
+                "team": "Juventus FC",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/109.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Joseph Willock",
+                "team": "Newcastle United",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/67.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Miguel Crespo",
+                "team": "Istanbul Başakşehir FK",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/4410.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Robert Andrich",
+                "team": "Bayer 04 Leverkusen",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/3.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Petros Mantalos",
+                "team": "AEK Athens",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/609.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Mads Bidstrup",
+                "team": "RB Salzburg",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/2015.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Filip Kostić",
+                "team": "Juventus FC",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/109.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Heorhii Sudakov",
+                "team": "SL Benfica",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/1903.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Ozan Tufan",
+                "team": "Trabzonspor",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/601.svg"
+            }
+        ]
+    },
+    {
+        "league": "UEFA Europa League",
+        "type": "cup",
+        "season": "26/27",
+        "rounds": [
+            {
+                "name": "Round of 16",
+                "matches": [
+                    {
+                        "home": "Pafos FC",
+                        "away": "Juventus FC",
+                        "homeScore": 1,
+                        "awayScore": 4,
+                        "homeLogo": "https://crests.football-data.org/7007.svg",
+                        "awayLogo": "https://crests.football-data.org/109.svg"
+                    },
+                    {
+                        "home": "PSV Eindhoven",
+                        "away": "Dinamo Moskva",
+                        "homeScore": 3,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/674.svg",
+                        "awayLogo": "https://crests.football-data.org/7005.svg"
+                    },
+                    {
+                        "home": "Aston Villa FC",
+                        "away": "Tottenham Hotspur",
+                        "homeScore": 3,
+                        "awayScore": 3,
+                        "homeLogo": "https://crests.football-data.org/58.svg",
+                        "awayLogo": "https://crests.football-data.org/73.svg"
+                    },
+                    {
+                        "home": "Beşiktaş JK",
+                        "away": "Athletic Bilbao",
+                        "homeScore": 4,
+                        "awayScore": 3,
+                        "homeLogo": "https://crests.football-data.org/603.svg",
+                        "awayLogo": "https://crests.football-data.org/77.svg"
+                    },
+                    {
+                        "home": "Galatasaray SK",
+                        "away": "SS Lazio",
+                        "homeScore": 1,
+                        "awayScore": 8,
+                        "homeLogo": "https://crests.football-data.org/610.svg",
+                        "awayLogo": "https://crests.football-data.org/110.svg"
+                    },
+                    {
+                        "home": "Olympique Lyonnais",
+                        "away": "Borussia Dortmund",
+                        "homeScore": 4,
+                        "awayScore": 5,
+                        "homeLogo": "https://crests.football-data.org/528.svg",
+                        "awayLogo": "https://crests.football-data.org/4.svg"
+                    },
+                    {
+                        "home": "Aris Thessaloniki",
+                        "away": "Atalanta BC",
+                        "homeScore": 3,
+                        "awayScore": 4,
+                        "homeLogo": "https://crests.football-data.org/7008.svg",
+                        "awayLogo": "https://crests.football-data.org/102.svg"
+                    },
+                    {
+                        "home": "Sporting CP",
+                        "away": "Fenerbahçe SK",
+                        "homeScore": 3,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/498.svg",
+                        "awayLogo": "https://crests.football-data.org/607.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Quarter-Finals",
+                "matches": [
+                    {
+                        "home": "Borussia Dortmund",
+                        "away": "PSV Eindhoven",
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/4.svg",
+                        "awayLogo": "https://crests.football-data.org/674.svg"
+                    },
+                    {
+                        "home": "SS Lazio",
+                        "away": "Atalanta BC",
+                        "homeScore": 2,
+                        "awayScore": 4,
+                        "homeLogo": "https://crests.football-data.org/110.svg",
+                        "awayLogo": "https://crests.football-data.org/102.svg"
+                    },
+                    {
+                        "home": "Tottenham Hotspur",
+                        "away": "Juventus FC",
+                        "homeScore": 6,
+                        "awayScore": 5,
+                        "homeLogo": "https://crests.football-data.org/73.svg",
+                        "awayLogo": "https://crests.football-data.org/109.svg"
+                    },
+                    {
+                        "home": "Beşiktaş JK",
+                        "away": "Sporting CP",
+                        "homeScore": 3,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/603.svg",
+                        "awayLogo": "https://crests.football-data.org/498.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Semi-Finals",
+                "matches": [
+                    {
+                        "home": "Tottenham Hotspur",
+                        "away": "Beşiktaş JK",
+                        "homeScore": 5,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/73.svg",
+                        "awayLogo": "https://crests.football-data.org/603.svg"
+                    },
+                    {
+                        "home": "PSV Eindhoven",
+                        "away": "Atalanta BC",
+                        "homeScore": 6,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/674.svg",
+                        "awayLogo": "https://crests.football-data.org/102.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Final",
+                "matches": [
+                    {
+                        "home": "Tottenham Hotspur",
+                        "away": "PSV Eindhoven",
+                        "homeScore": 3,
+                        "awayScore": 3,
+                        "homeLogo": "https://crests.football-data.org/73.svg",
+                        "awayLogo": "https://crests.football-data.org/674.svg",
+                        "note": "Tottenham Hotspur wins on penalties"
+                    }
+                ]
+            }
+        ],
+        "top_scorers": [
+            {
+                "rank": 1,
+                "player": "Mathys Tel",
+                "team": "Tottenham Hotspur",
+                "goals": 10,
+                "team_logo": "https://crests.football-data.org/73.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Martín Satriano",
+                "team": "Olympique Lyonnais",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/528.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Jonathan David",
+                "team": "Juventus FC",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/109.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Mattia Zaccagni",
+                "team": "SS Lazio",
+                "goals": 5,
+                "team_logo": "https://crests.football-data.org/110.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Leroy Sané",
+                "team": "Galatasaray SK",
+                "goals": 5,
+                "team_logo": "https://crests.football-data.org/610.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Gianluca Scamacca",
+                "team": "Atalanta BC",
+                "goals": 5,
+                "team_logo": "https://crests.football-data.org/102.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Arthur Gomes",
+                "team": "Dinamo Moskva",
+                "goals": 5,
+                "team_logo": "https://crests.football-data.org/7005.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Dejan Kulusevski",
+                "team": "Tottenham Hotspur",
+                "goals": 5,
+                "team_logo": "https://crests.football-data.org/73.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Ruben van Bommel",
+                "team": "PSV Eindhoven",
+                "goals": 5,
+                "team_logo": "https://crests.football-data.org/674.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Boulaye Dia",
+                "team": "SS Lazio",
+                "goals": 5,
+                "team_logo": "https://crests.football-data.org/110.svg"
+            },
+            {
+                "rank": 11,
+                "player": "Manfred Ugalde",
+                "team": "Spartak Moskva",
+                "goals": 4,
+                "team_logo": "https://crests.football-data.org/7006.svg"
+            },
+            {
+                "rank": 11,
+                "player": "Matías Vecino",
+                "team": "SS Lazio",
+                "goals": 4,
+                "team_logo": "https://crests.football-data.org/110.svg"
+            },
+            {
+                "rank": 11,
+                "player": "Mislav Oršić",
+                "team": "Pafos FC",
+                "goals": 4,
+                "team_logo": "https://crests.football-data.org/7007.svg"
+            },
+            {
+                "rank": 11,
+                "player": "Federico Serra",
+                "team": "SS Lazio",
+                "goals": 4,
+                "team_logo": "https://crests.football-data.org/110.svg"
+            },
+            {
+                "rank": 11,
+                "player": "Taty Castellanos",
+                "team": "SS Lazio",
+                "goals": 4,
+                "team_logo": "https://crests.football-data.org/110.svg"
+            },
+            {
+                "rank": 11,
+                "player": "Anderson Silva",
+                "team": "Pafos FC",
+                "goals": 4,
+                "team_logo": "https://crests.football-data.org/7007.svg"
+            }
+        ],
+        "top_assists": [
+            {
+                "rank": 1,
+                "player": "Paul Pogba",
+                "team": "AS Monaco",
+                "assists": 5,
+                "team_logo": "https://crests.football-data.org/548.svg"
+            },
+            {
+                "rank": 1,
+                "player": "Orkun Kökçü",
+                "team": "Beşiktaş JK",
+                "assists": 5,
+                "team_logo": "https://crests.football-data.org/603.svg"
+            },
+            {
+                "rank": 1,
+                "player": "Rodrigo Bentancur",
+                "team": "Tottenham Hotspur",
+                "assists": 5,
+                "team_logo": "https://crests.football-data.org/73.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Danilo Cataldi",
+                "team": "SS Lazio",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/110.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Lazar Samardžić",
+                "team": "Atalanta BC",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/102.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Salih Uçan",
+                "team": "Beşiktaş JK",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/603.svg"
+            },
+            {
+                "rank": 4,
+                "player": "David Raum",
+                "team": "RB Leipzig",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/721.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Jerdy Schouten",
+                "team": "PSV Eindhoven",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/674.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Éderson Campos",
+                "team": "Atalanta BC",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/102.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Luis Chávez",
+                "team": "Dinamo Moskva",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/7005.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Pascal Groß",
+                "team": "Borussia Dortmund",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/4.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Tyler Morton",
+                "team": "Olympique Lyonnais",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/528.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Nemanja Matić",
+                "team": "US Sassuolo",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/471.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Calvin Twigt",
+                "team": "Go Ahead Eagles",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/7009.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Ege Tiknaz",
+                "team": "Beşiktaş JK",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/603.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Manolis Siopis",
+                "team": "Panathinaikos FC",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/350.svg"
+            }
+        ]
+    }
+]

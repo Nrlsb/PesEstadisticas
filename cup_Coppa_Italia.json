@@ -1,0 +1,1023 @@
+[
+    {
+        "league": "Coppa Italia",
+        "type": "cup",
+        "season": "25/26",
+        "rounds": [
+            {
+                "name": "Round of 32",
+                "matches": [
+                    {
+                        "home": "AC Milan",
+                        "away": "US Catanzaro",
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/98.svg",
+                        "awayLogo": "https://crests.football-data.org/7034.svg"
+                    },
+                    {
+                        "home": "Cagliari Calcio",
+                        "away": "US Sassuolo",
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/104.svg",
+                        "awayLogo": "https://crests.football-data.org/471.svg"
+                    },
+                    {
+                        "home": "Torino FC",
+                        "away": "Palermo FC",
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "note": "Palermo wins on penalties",
+                        "homeLogo": "https://crests.football-data.org/586.svg",
+                        "awayLogo": "https://crests.football-data.org/114.svg"
+                    },
+                    {
+                        "home": "Mantova 1911",
+                        "away": "SS Lazio",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "awayLogo": "https://crests.football-data.org/110.svg",
+                        "homeLogo": "https://crests.football-data.org/7037.svg"
+                    },
+                    {
+                        "home": "Juventus FC",
+                        "away": "Frosinone Calcio",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/109.svg",
+                        "awayLogo": "https://crests.football-data.org/470.svg"
+                    },
+                    {
+                        "home": "UC Sampdoria",
+                        "away": "Hellas Verona",
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "awayLogo": "https://crests.football-data.org/450.svg",
+                        "homeLogo": "https://crests.football-data.org/584.svg"
+                    },
+                    {
+                        "home": "AC Monza",
+                        "away": "Pisa Sporting Club",
+                        "homeScore": 3,
+                        "awayScore": 0,
+                        "awayLogo": "https://crests.football-data.org/5664.svg",
+                        "homeLogo": "https://crests.football-data.org/5911.svg"
+                    },
+                    {
+                        "home": "Calcio Padova",
+                        "away": "Inter Milan",
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "awayLogo": "https://crests.football-data.org/108.svg",
+                        "homeLogo": "https://crests.football-data.org/5004.svg"
+                    },
+                    {
+                        "home": "AS Roma",
+                        "away": "Delfino Pescara",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/100.svg",
+                        "awayLogo": "https://crests.football-data.org/7031.svg"
+                    },
+                    {
+                        "home": "Parma Calcio",
+                        "away": "US Cremonese",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/112.svg",
+                        "awayLogo": "https://crests.football-data.org/457.svg"
+                    },
+                    {
+                        "home": "Como 1907",
+                        "away": "US Lecce",
+                        "homeScore": 2,
+                        "awayScore": 2,
+                        "note": "Como wins on penalties",
+                        "homeLogo": "https://crests.football-data.org/73454.svg",
+                        "awayLogo": "https://crests.football-data.org/5890.svg"
+                    },
+                    {
+                        "home": "Spezia Calcio",
+                        "away": "ACF Fiorentina",
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "awayLogo": "https://crests.football-data.org/99.svg",
+                        "homeLogo": "https://crests.football-data.org/488.svg"
+                    },
+                    {
+                        "home": "Atalanta BC",
+                        "away": "SS Juve Stabia",
+                        "homeScore": 3,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/102.svg",
+                        "awayLogo": "https://crests.football-data.org/7036.svg"
+                    },
+                    {
+                        "home": "Venezia FC",
+                        "away": "Bologna FC",
+                        "homeScore": 0,
+                        "awayScore": 4,
+                        "awayLogo": "https://crests.football-data.org/103.svg",
+                        "homeLogo": "https://crests.football-data.org/454.svg"
+                    },
+                    {
+                        "home": "Genoa CFC",
+                        "away": "Udinese Calcio",
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/107.svg",
+                        "awayLogo": "https://crests.football-data.org/115.svg"
+                    },
+                    {
+                        "home": "AC Reggiana 1919",
+                        "away": "SSC Napoli",
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "awayLogo": "https://crests.football-data.org/113.svg",
+                        "homeLogo": "https://crests.football-data.org/7038.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Round of 16",
+                "matches": [
+                    {
+                        "home": "AC Milan",
+                        "away": "US Sassuolo",
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/98.svg",
+                        "awayLogo": "https://crests.football-data.org/471.svg"
+                    },
+                    {
+                        "home": "Palermo FC",
+                        "away": "Mantova 1911",
+                        "homeScore": 1,
+                        "awayScore": 4,
+                        "homeLogo": "https://crests.football-data.org/114.svg",
+                        "awayLogo": "https://crests.football-data.org/7037.svg"
+                    },
+                    {
+                        "home": "Juventus FC",
+                        "away": "UC Sampdoria",
+                        "homeScore": 0,
+                        "awayScore": 3,
+                        "homeLogo": "https://crests.football-data.org/109.svg",
+                        "awayLogo": "https://crests.football-data.org/584.svg"
+                    },
+                    {
+                        "home": "AC Monza",
+                        "away": "Inter Milan",
+                        "homeScore": 4,
+                        "awayScore": 2,
+                        "awayLogo": "https://crests.football-data.org/108.svg",
+                        "homeLogo": "https://crests.football-data.org/5911.svg"
+                    },
+                    {
+                        "home": "AS Roma",
+                        "away": "Parma Calcio",
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/100.svg",
+                        "awayLogo": "https://crests.football-data.org/112.svg"
+                    },
+                    {
+                        "home": "Como 1907",
+                        "away": "ACF Fiorentina",
+                        "homeScore": 3,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/73454.svg",
+                        "awayLogo": "https://crests.football-data.org/99.svg"
+                    },
+                    {
+                        "home": "Atalanta BC",
+                        "away": "Bologna FC",
+                        "homeScore": 1,
+                        "awayScore": 4,
+                        "homeLogo": "https://crests.football-data.org/102.svg",
+                        "awayLogo": "https://crests.football-data.org/103.svg"
+                    },
+                    {
+                        "home": "Genoa CFC",
+                        "away": "SSC Napoli",
+                        "homeScore": 2,
+                        "awayScore": 4,
+                        "homeLogo": "https://crests.football-data.org/107.svg",
+                        "awayLogo": "https://crests.football-data.org/113.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Quarter-Finals",
+                "matches": [
+                    {
+                        "home": "US Sassuolo",
+                        "away": "Mantova 1911",
+                        "homeScore": 3,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/471.svg",
+                        "awayLogo": "https://crests.football-data.org/7037.svg"
+                    },
+                    {
+                        "home": "UC Sampdoria",
+                        "away": "AC Monza",
+                        "homeScore": 0,
+                        "awayScore": 4,
+                        "homeLogo": "https://crests.football-data.org/584.svg",
+                        "awayLogo": "https://crests.football-data.org/5911.svg"
+                    },
+                    {
+                        "home": "Parma Calcio",
+                        "away": "Como 1907",
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/112.svg",
+                        "awayLogo": "https://crests.football-data.org/73454.svg"
+                    },
+                    {
+                        "home": "Bologna FC",
+                        "away": "SSC Napoli",
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/103.svg",
+                        "awayLogo": "https://crests.football-data.org/113.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Semi-Finals",
+                "matches": [
+                    {
+                        "home": "US Sassuolo",
+                        "away": "AC Monza",
+                        "homeScore": 3,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/471.svg",
+                        "awayLogo": "https://crests.football-data.org/5911.svg"
+                    },
+                    {
+                        "home": "Como 1907",
+                        "away": "SSC Napoli",
+                        "homeScore": 0,
+                        "awayScore": 3,
+                        "homeLogo": "https://crests.football-data.org/73454.svg",
+                        "awayLogo": "https://crests.football-data.org/113.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Final",
+                "matches": [
+                    {
+                        "home": "US Sassuolo",
+                        "away": "SSC Napoli",
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/471.svg",
+                        "awayLogo": "https://crests.football-data.org/113.svg"
+                    }
+                ]
+            }
+        ],
+        "top_scorers": [
+            {
+                "rank": 1,
+                "player": "Luca Moro",
+                "team": "US Sassuolo",
+                "goals": 5,
+                "team_logo": "https://crests.football-data.org/471.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Leonardo Mancuso",
+                "team": "Mantova 1911",
+                "goals": 4,
+                "team_logo": "https://crests.football-data.org/7037.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Andrea Colpani",
+                "team": "AC Monza",
+                "goals": 4,
+                "team_logo": "https://crests.football-data.org/5911.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Alessandro Gabrielloni",
+                "team": "SS Juve Stabia",
+                "goals": 3,
+                "team_logo": "https://crests.football-data.org/7036.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Benja Domínguez",
+                "team": "Bologna FC",
+                "goals": 3,
+                "team_logo": "https://crests.football-data.org/103.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Ciro Immobile",
+                "team": "Bologna FC",
+                "goals": 3,
+                "team_logo": "https://crests.football-data.org/103.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Matteo Politano",
+                "team": "SSC Napoli",
+                "goals": 3,
+                "team_logo": "https://crests.football-data.org/113.svg"
+            },
+            {
+                "rank": 8,
+                "player": "F. Di Francesco",
+                "team": "US Catanzaro",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/7034.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Kevin Lasagna",
+                "team": "Calcio Padova",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/5004.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Filippo Bandinelli",
+                "team": "Spezia Calcio",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/488.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Edoardo Saporiti",
+                "team": "FC Empoli",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/445.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Matteo Pessina",
+                "team": "AC Monza",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/5911.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Henrikh Mkhitaryan",
+                "team": "Inter Milan",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/108.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Patrick Cutrone",
+                "team": "Parma Calcio",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/112.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Nicolas Kühn",
+                "team": "Como 1907",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/73454.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Álvaro Morata",
+                "team": "Como 1907",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/73454.svg"
+            }
+        ],
+        "top_assists": [
+            {
+                "rank": 1,
+                "player": "Matteo Pessina",
+                "team": "AC Monza",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/5911.svg"
+            },
+            {
+                "rank": 1,
+                "player": "Andrea Colpani",
+                "team": "AC Monza",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/5911.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Remo Freuler",
+                "team": "Bologna FC",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/103.svg"
+            },
+            {
+                "rank": 4,
+                "player": "David Wieser",
+                "team": "Mantova 1911",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/7037.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Federico Zuccon",
+                "team": "SS Juve Stabia",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/7036.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Maxence Caqueret",
+                "team": "Como 1907",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/73454.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Tommaso Pobega",
+                "team": "Bologna FC",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/103.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Billy Gilmour",
+                "team": "SSC Napoli",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/113.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Matteo Politano",
+                "team": "SSC Napoli",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/113.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Daniel Boloca",
+                "team": "US Sassuolo",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/471.svg"
+            },
+            {
+                "rank": 11,
+                "player": "Niccolò Corrado",
+                "team": "Frosinone Calcio",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/470.svg"
+            },
+            {
+                "rank": 11,
+                "player": "Daniele Baselli",
+                "team": "Calcio Padova",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/5004.svg"
+            },
+            {
+                "rank": 11,
+                "player": "Kevin Varas",
+                "team": "Calcio Padova",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/5004.svg"
+            },
+            {
+                "rank": 11,
+                "player": "Papu Gómez",
+                "team": "Calcio Padova",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/5004.svg"
+            },
+            {
+                "rank": 11,
+                "player": "Niccolò Squizzato",
+                "team": "Delfino Pescara",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/7031.svg"
+            },
+            {
+                "rank": 11,
+                "player": "Matteo Francesconi",
+                "team": "Cesena FC",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/7032.svg"
+            }
+        ]
+    },
+    {
+        "league": "Coppa Italia",
+        "type": "cup",
+        "season": "26/27",
+        "rounds": [
+            {
+                "name": "Round of 32",
+                "matches": [
+                    {
+                        "home": "AC Milan",
+                        "away": "US Avellino",
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/98.svg",
+                        "awayLogo": "https://crests.football-data.org/7033.svg"
+                    },
+                    {
+                        "home": "Pisa Sporting Club",
+                        "away": "AC Monza",
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/5664.svg",
+                        "awayLogo": "https://crests.football-data.org/5911.svg"
+                    },
+                    {
+                        "home": "Bologna FC",
+                        "away": "Parma Calcio",
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/103.svg",
+                        "awayLogo": "https://crests.football-data.org/112.svg"
+                    },
+                    {
+                        "home": "Virtus Entella",
+                        "away": "ACF Fiorentina",
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/7030.svg",
+                        "awayLogo": "https://crests.football-data.org/99.svg"
+                    },
+                    {
+                        "home": "SS Lazio",
+                        "away": "Frosinone Calcio",
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/110.svg",
+                        "awayLogo": "https://crests.football-data.org/470.svg"
+                    },
+                    {
+                        "home": "Calcio Padova",
+                        "away": "Como 1907",
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/5004.svg",
+                        "awayLogo": "https://crests.football-data.org/73454.svg"
+                    },
+                    {
+                        "home": "Genoa CFC",
+                        "away": "Udinese Calcio",
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "note": "Udinese wins on penalties (inferred)",
+                        "homeLogo": "https://crests.football-data.org/107.svg",
+                        "awayLogo": "https://crests.football-data.org/115.svg"
+                    },
+                    {
+                        "home": "Delfino Pescara",
+                        "away": "Inter Milan",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/7031.svg",
+                        "awayLogo": "https://crests.football-data.org/108.svg"
+                    },
+                    {
+                        "home": "Juventus FC",
+                        "away": "AC Reggiana 1919",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/109.svg",
+                        "awayLogo": "https://crests.football-data.org/7038.svg"
+                    },
+                    {
+                        "home": "FC Empoli",
+                        "away": "Hellas Verona",
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/445.svg",
+                        "awayLogo": "https://crests.football-data.org/450.svg"
+                    },
+                    {
+                        "home": "Torino FC",
+                        "away": "Palermo FC",
+                        "homeScore": 3,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/586.svg",
+                        "awayLogo": "https://crests.football-data.org/114.svg"
+                    },
+                    {
+                        "home": "Venezia FC",
+                        "away": "AS Roma",
+                        "homeScore": 4,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/454.svg",
+                        "awayLogo": "https://crests.football-data.org/100.svg"
+                    },
+                    {
+                        "home": "Atalanta BC",
+                        "away": "Spezia Calcio",
+                        "homeScore": 4,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/102.svg",
+                        "awayLogo": "https://crests.football-data.org/488.svg"
+                    },
+                    {
+                        "home": "US Lecce",
+                        "away": "US Sassuolo",
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "note": "Sassuolo wins on penalties",
+                        "homeLogo": "https://crests.football-data.org/5890.svg",
+                        "awayLogo": "https://crests.football-data.org/471.svg"
+                    },
+                    {
+                        "home": "US Cremonese",
+                        "away": "Cagliari Calcio",
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/457.svg",
+                        "awayLogo": "https://crests.football-data.org/104.svg"
+                    },
+                    {
+                        "home": "US Catanzaro",
+                        "away": "SSC Napoli",
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "homeLogo": "https://crests.football-data.org/7034.svg",
+                        "awayLogo": "https://crests.football-data.org/113.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Round of 16",
+                "matches": [
+                    {
+                        "home": "AC Milan",
+                        "away": "Pisa Sporting Club",
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/98.svg",
+                        "awayLogo": "https://crests.football-data.org/5664.svg"
+                    },
+                    {
+                        "home": "Parma Calcio",
+                        "away": "Virtus Entella",
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "homeLogo": "https://crests.football-data.org/112.svg",
+                        "awayLogo": "https://crests.football-data.org/7030.svg"
+                    },
+                    {
+                        "home": "SS Lazio",
+                        "away": "Como 1907",
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/110.svg",
+                        "awayLogo": "https://crests.football-data.org/73454.svg"
+                    },
+                    {
+                        "home": "Udinese Calcio",
+                        "away": "Delfino Pescara",
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/115.svg",
+                        "awayLogo": "https://crests.football-data.org/7031.svg"
+                    },
+                    {
+                        "home": "Juventus FC",
+                        "away": "Hellas Verona",
+                        "homeScore": 3,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/109.svg",
+                        "awayLogo": "https://crests.football-data.org/450.svg"
+                    },
+                    {
+                        "home": "Torino FC",
+                        "away": "Venezia FC",
+                        "homeScore": 3,
+                        "awayScore": 4,
+                        "homeLogo": "https://crests.football-data.org/586.svg",
+                        "awayLogo": "https://crests.football-data.org/454.svg"
+                    },
+                    {
+                        "home": "Atalanta BC",
+                        "away": "US Sassuolo",
+                        "homeScore": 3,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/102.svg",
+                        "awayLogo": "https://crests.football-data.org/471.svg"
+                    },
+                    {
+                        "home": "Cagliari Calcio",
+                        "away": "SSC Napoli",
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/104.svg",
+                        "awayLogo": "https://crests.football-data.org/113.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Quarter-Finals",
+                "matches": [
+                    {
+                        "home": "AC Milan",
+                        "away": "Virtus Entella",
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/98.svg",
+                        "awayLogo": "https://crests.football-data.org/7030.svg"
+                    },
+                    {
+                        "home": "Como 1907",
+                        "away": "Delfino Pescara",
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/73454.svg",
+                        "awayLogo": "https://crests.football-data.org/7031.svg"
+                    },
+                    {
+                        "home": "Juventus FC",
+                        "away": "Venezia FC",
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "note": "Venezia wins on penalties (inferred)",
+                        "homeLogo": "https://crests.football-data.org/109.svg",
+                        "awayLogo": "https://crests.football-data.org/454.svg"
+                    },
+                    {
+                        "home": "Atalanta BC",
+                        "away": "Cagliari Calcio",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/102.svg",
+                        "awayLogo": "https://crests.football-data.org/104.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Semi-Finals",
+                "matches": [
+                    {
+                        "home": "Virtus Entella",
+                        "away": "Como 1907",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/7030.svg",
+                        "awayLogo": "https://crests.football-data.org/73454.svg"
+                    },
+                    {
+                        "home": "Venezia FC",
+                        "away": "Atalanta BC",
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/454.svg",
+                        "awayLogo": "https://crests.football-data.org/102.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Final",
+                "matches": [
+                    {
+                        "home": "Virtus Entella",
+                        "away": "Atalanta BC",
+                        "homeScore": 3,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/7030.svg",
+                        "awayLogo": "https://crests.football-data.org/102.svg"
+                    }
+                ]
+            }
+        ],
+        "top_scorers": [
+            {
+                "rank": 1,
+                "player": "Bernat Guiu",
+                "team": "Virtus Entella",
+                "goals": 3,
+                "team_logo": "https://crests.football-data.org/7030.svg"
+            },
+            {
+                "rank": 1,
+                "player": "Ivan Ilić",
+                "team": "Torino FC",
+                "goals": 3,
+                "team_logo": "https://crests.football-data.org/586.svg"
+            },
+            {
+                "rank": 1,
+                "player": "Stephan El Shaarawy",
+                "team": "AS Roma",
+                "goals": 3,
+                "team_logo": "https://crests.football-data.org/100.svg"
+            },
+            {
+                "rank": 1,
+                "player": "Gianluca Scamacca",
+                "team": "Atalanta BC",
+                "goals": 3,
+                "team_logo": "https://crests.football-data.org/102.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Cristian Shpendi",
+                "team": "Cesena FC",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/7032.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Orji Okwonkwo",
+                "team": "Delfino Pescara",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/7031.svg"
+            },
+            {
+                "rank": 5,
+                "player": "A. Debenedetti",
+                "team": "Virtus Entella",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/7030.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Gustav Isaksen",
+                "team": "SS Lazio",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/110.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Álvaro Morata",
+                "team": "Como 1907",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/73454.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Tomáš Suslov",
+                "team": "Hellas Verona",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/450.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Lazar Samardžić",
+                "team": "Atalanta BC",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/102.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Giuseppe Di Serio",
+                "team": "Spezia Calcio",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/488.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Pietro Iemmello",
+                "team": "US Catanzaro",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/7034.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Jonathan David",
+                "team": "Juventus FC",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/109.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Gift Orban",
+                "team": "Hellas Verona",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/450.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Evan Ferguson",
+                "team": "AS Roma",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/100.svg"
+            }
+        ],
+        "top_assists": [
+            {
+                "rank": 1,
+                "player": "Marten de Roon",
+                "team": "Atalanta BC",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/102.svg"
+            },
+            {
+                "rank": 1,
+                "player": "Ahmad Benali",
+                "team": "Virtus Entella",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/7030.svg"
+            },
+            {
+                "rank": 1,
+                "player": "Cheikh Niasse",
+                "team": "Hellas Verona",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/450.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Manolo Portanova",
+                "team": "AC Reggiana 1919",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/7038.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Youssouf Fofana",
+                "team": "AC Milan",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/98.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Marco Dalla Vecchia",
+                "team": "Virtus Entella",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/7030.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Filip Kostić",
+                "team": "Juventus FC",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/109.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Éderson Campos",
+                "team": "Atalanta BC",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/102.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Weston McKennie",
+                "team": "Juventus FC",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/109.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Sonny D'Angelo",
+                "team": "US Avellino",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/7033.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Simone Bastoni",
+                "team": "Cesena FC",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/7032.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Michele Castagnetti",
+                "team": "Cesena FC",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/7032.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Nermin Karić",
+                "team": "Virtus Entella",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/7030.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Francesco Gelli",
+                "team": "Frosinone Calcio",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/470.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Luca Valzania",
+                "team": "Delfino Pescara",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/7031.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Filippo Melegoni",
+                "team": "Carrarese Calcio",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/7035.svg"
+            }
+        ]
+    }
+]

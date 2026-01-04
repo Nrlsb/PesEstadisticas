@@ -1,0 +1,1008 @@
+[
+    {
+        "league": "FA Cup",
+        "type": "cup",
+        "season": "25/26",
+        "rounds": [
+            {
+                "name": "Round of 32",
+                "matches": [
+                    {
+                        "home": "Liverpool FC",
+                        "away": "Bristol City",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/64.svg"
+                    },
+                    {
+                        "home": "Leeds United",
+                        "away": "Brighton & Hove Albion",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/341.svg",
+                        "awayLogo": "https://crests.football-data.org/397.svg"
+                    },
+                    {
+                        "home": "Fulham FC",
+                        "away": "Sheffield United",
+                        "homeScore": 3,
+                        "awayScore": 4,
+                        "homeLogo": "https://crests.football-data.org/63.svg"
+                    },
+                    {
+                        "home": "Birmingham City",
+                        "away": "Chelsea FC",
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "awayLogo": "https://crests.football-data.org/61.svg",
+                        "homeLogo": "https://crests.football-data.org/332.svg"
+                    },
+                    {
+                        "home": "Newcastle United",
+                        "away": "Norwich City",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/67.svg",
+                        "awayLogo": "https://crests.football-data.org/68.svg"
+                    },
+                    {
+                        "home": "Leicester City",
+                        "away": "West Ham United",
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "homeLogo": "https://crests.football-data.org/338.svg",
+                        "awayLogo": "https://crests.football-data.org/563.svg"
+                    },
+                    {
+                        "home": "Brentford FC",
+                        "away": "Wolverhampton Wanderers",
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/402.svg",
+                        "awayLogo": "https://crests.football-data.org/76.svg"
+                    },
+                    {
+                        "home": "Stoke City",
+                        "away": "Manchester City",
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "awayLogo": "https://crests.football-data.org/65.svg",
+                        "homeLogo": "https://crests.football-data.org/70.svg"
+                    },
+                    {
+                        "home": "Arsenal FC",
+                        "away": "Middlesbrough FC",
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/57.svg"
+                    },
+                    {
+                        "home": "Sunderland AFC",
+                        "away": "AFC Bournemouth",
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/71.svg",
+                        "awayLogo": "https://crests.football-data.org/1044.svg"
+                    },
+                    {
+                        "home": "Nottingham Forest",
+                        "away": "Preston North End",
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/351.svg"
+                    },
+                    {
+                        "home": "Wrexham AFC",
+                        "away": "Tottenham Hotspur",
+                        "homeScore": 4,
+                        "awayScore": 3,
+                        "awayLogo": "https://crests.football-data.org/73.svg",
+                        "homeLogo": "https://crests.football-data.org/1083.svg"
+                    },
+                    {
+                        "home": "Aston Villa FC",
+                        "away": "Charlton Athletic",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/58.svg"
+                    },
+                    {
+                        "home": "Portsmouth FC",
+                        "away": "Crystal Palace FC",
+                        "homeScore": 4,
+                        "awayScore": 3,
+                        "awayLogo": "https://crests.football-data.org/354.svg",
+                        "homeLogo": "https://crests.football-data.org/325.svg"
+                    },
+                    {
+                        "home": "Everton FC",
+                        "away": "Burnley FC",
+                        "homeScore": 2,
+                        "awayScore": 3,
+                        "homeLogo": "https://crests.football-data.org/62.svg",
+                        "awayLogo": "https://crests.football-data.org/328.svg"
+                    },
+                    {
+                        "home": "Hull City",
+                        "away": "Manchester United",
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "awayLogo": "https://crests.football-data.org/66.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Round of 16",
+                "matches": [
+                    {
+                        "home": "Liverpool FC",
+                        "away": "Leeds United",
+                        "homeScore": 4,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/64.svg",
+                        "awayLogo": "https://crests.football-data.org/341.svg"
+                    },
+                    {
+                        "home": "Sheffield United",
+                        "away": "Chelsea FC",
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "awayLogo": "https://crests.football-data.org/61.svg"
+                    },
+                    {
+                        "home": "Newcastle United",
+                        "away": "West Ham United",
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/67.svg",
+                        "awayLogo": "https://crests.football-data.org/563.svg"
+                    },
+                    {
+                        "home": "Brentford FC",
+                        "away": "Manchester City",
+                        "homeScore": 3,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/402.svg",
+                        "awayLogo": "https://crests.football-data.org/65.svg"
+                    },
+                    {
+                        "home": "Middlesbrough FC",
+                        "away": "Sunderland AFC",
+                        "homeScore": 2,
+                        "awayScore": 2,
+                        "note": "Sunderland wins on penalties",
+                        "awayLogo": "https://crests.football-data.org/71.svg"
+                    },
+                    {
+                        "home": "Nottingham Forest",
+                        "away": "Wrexham AFC",
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/351.svg",
+                        "awayLogo": "https://crests.football-data.org/1083.svg"
+                    },
+                    {
+                        "home": "Aston Villa FC",
+                        "away": "Portsmouth FC",
+                        "homeScore": 4,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/58.svg",
+                        "awayLogo": "https://crests.football-data.org/325.svg"
+                    },
+                    {
+                        "home": "Burnley FC",
+                        "away": "Manchester United",
+                        "homeScore": 2,
+                        "awayScore": 3,
+                        "homeLogo": "https://crests.football-data.org/328.svg",
+                        "awayLogo": "https://crests.football-data.org/66.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Quarter-Finals",
+                "matches": [
+                    {
+                        "home": "Liverpool FC",
+                        "away": "Chelsea FC",
+                        "homeScore": 3,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/64.svg",
+                        "awayLogo": "https://crests.football-data.org/61.svg"
+                    },
+                    {
+                        "home": "West Ham United",
+                        "away": "Brentford FC",
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "homeLogo": "https://crests.football-data.org/563.svg",
+                        "awayLogo": "https://crests.football-data.org/402.svg"
+                    },
+                    {
+                        "home": "Sunderland AFC",
+                        "away": "Wrexham AFC",
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/71.svg",
+                        "awayLogo": "https://crests.football-data.org/1083.svg"
+                    },
+                    {
+                        "home": "Aston Villa FC",
+                        "away": "Manchester United",
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "homeLogo": "https://crests.football-data.org/58.svg",
+                        "awayLogo": "https://crests.football-data.org/66.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Semi-Finals",
+                "matches": [
+                    {
+                        "home": "Liverpool FC",
+                        "away": "Brentford FC",
+                        "homeScore": 3,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/64.svg",
+                        "awayLogo": "https://crests.football-data.org/402.svg"
+                    },
+                    {
+                        "home": "Wrexham AFC",
+                        "away": "Manchester United",
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "awayLogo": "https://crests.football-data.org/66.svg",
+                        "homeLogo": "https://crests.football-data.org/1083.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Final",
+                "matches": [
+                    {
+                        "home": "Liverpool FC",
+                        "away": "Manchester United",
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/64.svg",
+                        "awayLogo": "https://crests.football-data.org/66.svg"
+                    }
+                ]
+            }
+        ],
+        "top_scorers": [
+            {
+                "rank": 1,
+                "player": "Jean Mateta",
+                "team": "Crystal Palace FC",
+                "goals": 4,
+                "team_logo": "https://crests.football-data.org/354.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Sinclair Armstrong",
+                "team": "Bristol City",
+                "goals": 3
+            },
+            {
+                "rank": 2,
+                "player": "Mohamed Salah",
+                "team": "Liverpool FC",
+                "goals": 3,
+                "team_logo": "https://crests.football-data.org/64.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Cody Gakpo",
+                "team": "Liverpool FC",
+                "goals": 3,
+                "team_logo": "https://crests.football-data.org/64.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Fábio Carvalho",
+                "team": "Brentford FC",
+                "goals": 3,
+                "team_logo": "https://crests.football-data.org/402.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Amad Diallo",
+                "team": "Manchester United",
+                "goals": 3,
+                "team_logo": "https://crests.football-data.org/66.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Gustavo Hamer",
+                "team": "Sheffield United",
+                "goals": 2
+            },
+            {
+                "rank": 7,
+                "player": "Patrick Roberts",
+                "team": "Birmingham City",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/332.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Owen Eames",
+                "team": "Derby County",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/342.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Conor Chaplin",
+                "team": "Portsmouth FC",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/325.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Ryan Sessegnon",
+                "team": "Fulham FC",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/63.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Chiedozie Ogbene",
+                "team": "Sheffield United",
+                "goals": 2
+            },
+            {
+                "rank": 7,
+                "player": "João Pedro",
+                "team": "Chelsea FC",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/61.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Reiss Nelson",
+                "team": "Brentford FC",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/402.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Xavi Simons",
+                "team": "Tottenham Hotspur",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/73.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Beto",
+                "team": "Everton FC",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/62.svg"
+            }
+        ],
+        "top_assists": [
+            {
+                "rank": 1,
+                "player": "Bruno Fernandes",
+                "team": "Manchester United",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/66.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Gustavo Hamer",
+                "team": "Sheffield United",
+                "assists": 2
+            },
+            {
+                "rank": 2,
+                "player": "Soungoutou Magassa",
+                "team": "West Ham United",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/563.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Vitaly Janelt",
+                "team": "Brentford FC",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/402.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Adam Wharton",
+                "team": "Crystal Palace FC",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/354.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Alexis Mac Allister",
+                "team": "Liverpool FC",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/64.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Ao Tanaka",
+                "team": "Leeds United",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/341.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Archie Gray",
+                "team": "Tottenham Hotspur",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/73.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Joe Williams",
+                "team": "Bristol City",
+                "assists": 1
+            },
+            {
+                "rank": 9,
+                "player": "Jed Wallace",
+                "team": "West Bromwich Albion",
+                "assists": 1
+            },
+            {
+                "rank": 9,
+                "player": "Kanya Fujimoto",
+                "team": "Birmingham City",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/332.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Ebou Adams",
+                "team": "Derby County",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/342.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Mirko Topić",
+                "team": "Norwich City",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/68.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Oliver Skipp",
+                "team": "Leicester City",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/338.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Matt Grimes",
+                "team": "Coventry City",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/1076.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Jordan Thompson",
+                "team": "Preston North End",
+                "assists": 1
+            }
+        ]
+    },
+    {
+        "league": "FA Cup",
+        "type": "cup",
+        "season": "26/27",
+        "rounds": [
+            {
+                "name": "Round of 32",
+                "matches": [
+                    {
+                        "home": "Manchester City",
+                        "away": "Swansea City",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/65.svg",
+                        "awayLogo": "https://crests.football-data.org/72.svg"
+                    },
+                    {
+                        "home": "Brighton & Hove Albion",
+                        "away": "Leicester City",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/397.svg",
+                        "awayLogo": "https://crests.football-data.org/338.svg"
+                    },
+                    {
+                        "home": "Crystal Palace FC",
+                        "away": "Ipswich Town",
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/354.svg",
+                        "awayLogo": "https://crests.football-data.org/349.svg"
+                    },
+                    {
+                        "home": "Derby County",
+                        "away": "Newcastle United",
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/342.svg",
+                        "awayLogo": "https://crests.football-data.org/67.svg"
+                    },
+                    {
+                        "home": "Chelsea FC",
+                        "away": "Oxford United",
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "homeLogo": "https://crests.football-data.org/61.svg",
+                        "awayLogo": "https://crests.football-data.org/1079.svg"
+                    },
+                    {
+                        "home": "Sheffield Wednesday",
+                        "away": "Nottingham Forest",
+                        "homeScore": 2,
+                        "awayScore": 4,
+                        "homeLogo": "https://crests.football-data.org/345.svg",
+                        "awayLogo": "https://crests.football-data.org/351.svg"
+                    },
+                    {
+                        "home": "Brentford FC",
+                        "away": "Sunderland AFC",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/402.svg",
+                        "awayLogo": "https://crests.football-data.org/71.svg"
+                    },
+                    {
+                        "home": "Stoke City",
+                        "away": "Arsenal FC",
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/70.svg",
+                        "awayLogo": "https://crests.football-data.org/57.svg"
+                    },
+                    {
+                        "home": "Liverpool FC",
+                        "away": "Millwall FC",
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/64.svg",
+                        "awayLogo": "https://crests.football-data.org/384.svg"
+                    },
+                    {
+                        "home": "Wolverhampton Wanderers",
+                        "away": "AFC Bournemouth",
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/76.svg",
+                        "awayLogo": "https://crests.football-data.org/1044.svg"
+                    },
+                    {
+                        "home": "West Ham United",
+                        "away": "Portsmouth FC",
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/563.svg",
+                        "awayLogo": "https://crests.football-data.org/325.svg"
+                    },
+                    {
+                        "home": "Wrexham AFC",
+                        "away": "Aston Villa FC",
+                        "homeScore": 0,
+                        "awayScore": 3,
+                        "homeLogo": "https://crests.football-data.org/1083.svg",
+                        "awayLogo": "https://crests.football-data.org/58.svg"
+                    },
+                    {
+                        "home": "Tottenham Hotspur",
+                        "away": "Birmingham City",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/73.svg",
+                        "awayLogo": "https://crests.football-data.org/332.svg"
+                    },
+                    {
+                        "home": "Southampton FC",
+                        "away": "Fulham FC",
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "note": "Fulham wins on penalties",
+                        "homeLogo": "https://crests.football-data.org/340.svg",
+                        "awayLogo": "https://crests.football-data.org/63.svg"
+                    },
+                    {
+                        "home": "Everton FC",
+                        "away": "Burnley FC",
+                        "homeScore": 1,
+                        "awayScore": 4,
+                        "homeLogo": "https://crests.football-data.org/62.svg",
+                        "awayLogo": "https://crests.football-data.org/328.svg"
+                    },
+                    {
+                        "home": "Coventry City",
+                        "away": "Manchester United",
+                        "homeScore": 2,
+                        "awayScore": 2,
+                        "note": "Coventry City wins on penalties",
+                        "homeLogo": "https://crests.football-data.org/1076.svg",
+                        "awayLogo": "https://crests.football-data.org/66.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Round of 16",
+                "matches": [
+                    {
+                        "home": "Manchester City",
+                        "away": "Brighton & Hove Albion",
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/65.svg",
+                        "awayLogo": "https://crests.football-data.org/397.svg"
+                    },
+                    {
+                        "home": "Crystal Palace FC",
+                        "away": "Newcastle United",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/354.svg",
+                        "awayLogo": "https://crests.football-data.org/67.svg"
+                    },
+                    {
+                        "home": "Oxford United",
+                        "away": "Nottingham Forest",
+                        "homeScore": 2,
+                        "awayScore": 2,
+                        "note": "Nottingham Forest wins on penalties",
+                        "homeLogo": "https://crests.football-data.org/1079.svg",
+                        "awayLogo": "https://crests.football-data.org/351.svg"
+                    },
+                    {
+                        "home": "Brentford FC",
+                        "away": "Arsenal FC",
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/402.svg",
+                        "awayLogo": "https://crests.football-data.org/57.svg"
+                    },
+                    {
+                        "home": "Liverpool FC",
+                        "away": "AFC Bournemouth",
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/64.svg",
+                        "awayLogo": "https://crests.football-data.org/1044.svg"
+                    },
+                    {
+                        "home": "Portsmouth FC",
+                        "away": "Aston Villa FC",
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/325.svg",
+                        "awayLogo": "https://crests.football-data.org/58.svg"
+                    },
+                    {
+                        "home": "Tottenham Hotspur",
+                        "away": "Fulham FC",
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "homeLogo": "https://crests.football-data.org/73.svg",
+                        "awayLogo": "https://crests.football-data.org/63.svg"
+                    },
+                    {
+                        "home": "Burnley FC",
+                        "away": "Coventry City",
+                        "homeScore": 2,
+                        "awayScore": 2,
+                        "note": "Coventry City wins on penalties",
+                        "homeLogo": "https://crests.football-data.org/328.svg",
+                        "awayLogo": "https://crests.football-data.org/1076.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Quarter-Finals",
+                "matches": [
+                    {
+                        "home": "Brighton & Hove Albion",
+                        "away": "Crystal Palace FC",
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/397.svg",
+                        "awayLogo": "https://crests.football-data.org/354.svg"
+                    },
+                    {
+                        "home": "Nottingham Forest",
+                        "away": "Brentford FC",
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/351.svg",
+                        "awayLogo": "https://crests.football-data.org/402.svg"
+                    },
+                    {
+                        "home": "Liverpool FC",
+                        "away": "Portsmouth FC",
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/64.svg",
+                        "awayLogo": "https://crests.football-data.org/325.svg"
+                    },
+                    {
+                        "home": "Fulham FC",
+                        "away": "Coventry City",
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/63.svg",
+                        "awayLogo": "https://crests.football-data.org/1076.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Semi-Finals",
+                "matches": [
+                    {
+                        "home": "Crystal Palace FC",
+                        "away": "Nottingham Forest",
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/354.svg",
+                        "awayLogo": "https://crests.football-data.org/351.svg"
+                    },
+                    {
+                        "home": "Liverpool FC",
+                        "away": "Coventry City",
+                        "homeScore": 4,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/64.svg",
+                        "awayLogo": "https://crests.football-data.org/1076.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Final",
+                "matches": [
+                    {
+                        "home": "Crystal Palace FC",
+                        "away": "Liverpool FC",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/354.svg",
+                        "awayLogo": "https://crests.football-data.org/64.svg"
+                    }
+                ]
+            }
+        ],
+        "top_scorers": [
+            {
+                "rank": 1,
+                "player": "Mathys Tel",
+                "team": "Tottenham Hotspur",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/73.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Filip Krastev",
+                "team": "Oxford United",
+                "goals": 3,
+                "team_logo": "https://crests.football-data.org/1079.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Florian Bianchini",
+                "team": "Portsmouth FC",
+                "goals": 3,
+                "team_logo": "https://crests.football-data.org/325.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Ismaïla Sarr",
+                "team": "Crystal Palace FC",
+                "goals": 3,
+                "team_logo": "https://crests.football-data.org/354.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Jean Mateta",
+                "team": "Crystal Palace FC",
+                "goals": 3,
+                "team_logo": "https://crests.football-data.org/354.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Kasey McAteer",
+                "team": "Ipswich Town",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/349.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Chuba Akpom",
+                "team": "Ipswich Town",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/349.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Carlton Morris",
+                "team": "Derby County",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/342.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Louie Sibley",
+                "team": "Oxford United",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/1079.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Shea Charles",
+                "team": "Southampton FC",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/340.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Ephron Mason-Clark",
+                "team": "Coventry City",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/1076.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Georginio Rutter",
+                "team": "Brighton & Hove Albion",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/397.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Adam Wharton",
+                "team": "Crystal Palace FC",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/354.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Igor Jesus",
+                "team": "Nottingham Forest",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/351.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Igor Thiago",
+                "team": "Brentford FC",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/402.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Florian Wirtz",
+                "team": "Liverpool FC",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/64.svg"
+            }
+        ],
+        "top_assists": [
+            {
+                "rank": 1,
+                "player": "Florian Wirtz",
+                "team": "Liverpool FC",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/64.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Todd Cantwell",
+                "team": "Blackburn Rovers",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/59.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Jens Cajuste",
+                "team": "Ipswich Town",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/349.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Paik Seung-Ho",
+                "team": "Birmingham City",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/332.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Ephron Mason-Clark",
+                "team": "Coventry City",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/1076.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Cheick Doucouré",
+                "team": "Crystal Palace FC",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/354.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Dominik Szoboszlai",
+                "team": "Liverpool FC",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/64.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Victor Torp",
+                "team": "Coventry City",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/1076.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Yves Bissouma",
+                "team": "Tottenham Hotspur",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/73.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Callum Olusesi",
+                "team": "Tottenham Hotspur",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/73.svg"
+            },
+            {
+                "rank": 11,
+                "player": "Manuel Benson",
+                "team": "Swansea City",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/72.svg"
+            },
+            {
+                "rank": 11,
+                "player": "Azor Matusiwa",
+                "team": "Ipswich Town",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/349.svg"
+            },
+            {
+                "rank": 11,
+                "player": "Sammie Szmodics",
+                "team": "Ipswich Town",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/349.svg"
+            },
+            {
+                "rank": 11,
+                "player": "Mirko Topić",
+                "team": "Norwich City",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/68.svg"
+            },
+            {
+                "rank": 11,
+                "player": "Craig Forsyth",
+                "team": "Derby County",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/342.svg"
+            },
+            {
+                "rank": 11,
+                "player": "Darren Robinson",
+                "team": "Derby County",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/342.svg"
+            }
+        ]
+    }
+]

@@ -1,0 +1,286 @@
+[
+    {
+        "league": "FIFA Club World Cup",
+        "type": "cup",
+        "season": "25/26",
+        "rounds": [
+            {
+                "name": "Semi-Finals",
+                "matches": [
+                    {
+                        "home": "Paris Saint-Germain",
+                        "away": "Al Sadd SC",
+                        "homeScore": 3,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/524.svg",
+                        "awayLogo": "https://crests.football-data.org/7002.svg"
+                    },
+                    {
+                        "home": "CR Flamengo",
+                        "away": "Wydad Casablanca",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/7003.svg",
+                        "awayLogo": "https://crests.football-data.org/7001.svg"
+                    }
+                ]
+            },
+            {
+                "name": "3rd Place Match",
+                "matches": [
+                    {
+                        "home": "Al Sadd SC",
+                        "away": "Wydad Casablanca",
+                        "homeScore": 4,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/7002.svg",
+                        "awayLogo": "https://crests.football-data.org/7001.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Final",
+                "matches": [
+                    {
+                        "home": "Paris Saint-Germain",
+                        "away": "CR Flamengo",
+                        "homeScore": 3,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/524.svg",
+                        "awayLogo": "https://crests.football-data.org/7003.svg"
+                    }
+                ]
+            }
+        ],
+        "top_scorers": [
+            {
+                "rank": 1,
+                "player": "Ousmane Dembélé",
+                "team": "Paris Saint-Germain",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 1,
+                "player": "Lee Kang-In",
+                "team": "Paris Saint-Germain",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 1,
+                "player": "Hasan Al Haydos",
+                "team": "Al Sadd SC",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/7002.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Fabián Ruiz",
+                "team": "Paris Saint-Germain",
+                "goals": 1,
+                "team_logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 4,
+                "player": "K. Kvaratskhelia",
+                "team": "Paris Saint-Germain",
+                "goals": 1,
+                "team_logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Hashim Ali",
+                "team": "Al Sadd SC",
+                "goals": 1,
+                "team_logo": "https://crests.football-data.org/7002.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Giovani Amorim",
+                "team": "Al Sadd SC",
+                "goals": 1,
+                "team_logo": "https://crests.football-data.org/7002.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Nicolás De La Cruz",
+                "team": "CR Flamengo",
+                "goals": 1,
+                "team_logo": "https://crests.football-data.org/7003.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Pedro",
+                "team": "CR Flamengo",
+                "goals": 1,
+                "team_logo": "https://crests.football-data.org/7003.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Claudinho",
+                "team": "Al Sadd SC",
+                "goals": 1,
+                "team_logo": "https://crests.football-data.org/7002.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Youssef Abdel Razaq",
+                "team": "Al Sadd SC",
+                "goals": 1,
+                "team_logo": "https://crests.football-data.org/7002.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Nordin Amrabat",
+                "team": "Wydad Casablanca",
+                "goals": 1,
+                "team_logo": "https://crests.football-data.org/7001.svg"
+            }
+        ],
+        "top_assists": [
+            {
+                "rank": 1,
+                "player": "Fabián Ruiz",
+                "team": "Paris Saint-Germain",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 1,
+                "player": "Guilherme dos Santos",
+                "team": "Al Sadd SC",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/7002.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Roberto Firmino",
+                "team": "Al Sadd SC",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/7002.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Jorginho",
+                "team": "CR Flamengo",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/7003.svg"
+            }
+        ]
+    },
+    {
+        "league": "FIFA Club World Cup",
+        "type": "cup",
+        "season": "26/27",
+        "rounds": [
+            {
+                "name": "Semi-Finals",
+                "matches": [
+                    {
+                        "home": "FC Barcelona",
+                        "away": "Sepahan SC",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/81.svg",
+                        "awayLogo": "https://crests.football-data.org/7000.svg"
+                    },
+                    {
+                        "home": "Racing Club",
+                        "away": "Wydad Casablanca",
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/2068.svg",
+                        "awayLogo": "https://crests.football-data.org/7001.svg"
+                    }
+                ]
+            },
+            {
+                "name": "3rd Place Match",
+                "matches": [
+                    {
+                        "home": "Sepahan SC",
+                        "away": "Wydad Casablanca",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/7000.svg",
+                        "awayLogo": "https://crests.football-data.org/7001.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Final",
+                "matches": [
+                    {
+                        "home": "FC Barcelona",
+                        "away": "Racing Club",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/81.svg",
+                        "awayLogo": "https://crests.football-data.org/2068.svg"
+                    }
+                ]
+            }
+        ],
+        "top_scorers": [
+            {
+                "rank": 1,
+                "player": "Raphinha",
+                "team": "FC Barcelona",
+                "goals": 1,
+                "team_logo": "https://crests.football-data.org/81.svg"
+            },
+            {
+                "rank": 1,
+                "player": "Ferran Torres",
+                "team": "FC Barcelona",
+                "goals": 1,
+                "team_logo": "https://crests.football-data.org/81.svg"
+            },
+            {
+                "rank": 1,
+                "player": "Adrián Fernández",
+                "team": "Racing Club",
+                "goals": 1,
+                "team_logo": "https://crests.football-data.org/2068.svg"
+            },
+            {
+                "rank": 1,
+                "player": "Adrián Martínez",
+                "team": "Racing Club",
+                "goals": 1,
+                "team_logo": "https://crests.football-data.org/2068.svg"
+            },
+            {
+                "rank": 1,
+                "player": "Bryan Dabo",
+                "team": "Sepahan SC",
+                "goals": 1,
+                "team_logo": "https://crests.football-data.org/7000.svg"
+            }
+        ],
+        "top_assists": [
+            {
+                "rank": 1,
+                "player": "Frenkie de Jong",
+                "team": "FC Barcelona",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/81.svg"
+            },
+            {
+                "rank": 1,
+                "player": "Lamine Yamal",
+                "team": "FC Barcelona",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/81.svg"
+            },
+            {
+                "rank": 1,
+                "player": "Richard Sánchez",
+                "team": "Racing Club",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/2068.svg"
+            }
+        ]
+    }
+]

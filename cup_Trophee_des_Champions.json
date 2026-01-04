@@ -1,0 +1,46 @@
+[
+    {
+        "league": "Trophée des Champions",
+        "type": "cup",
+        "season": "25/26",
+        "rounds": [
+            {
+                "name": "Final",
+                "matches": [
+                    {
+                        "home": "Paris Saint-Germain",
+                        "away": "Olympique Marseille",
+                        "homeScore": 0,
+                        "awayScore": 3,
+                        "homeLogo": "https://crests.football-data.org/524.svg",
+                        "awayLogo": "https://crests.football-data.org/523.svg"
+                    }
+                ]
+            }
+        ],
+        "top_scorers": [],
+        "top_assists": []
+    },
+    {
+        "league": "Trophée des Champions",
+        "type": "cup",
+        "season": "26/27",
+        "rounds": [
+            {
+                "name": "Final",
+                "matches": [
+                    {
+                        "home": "Paris Saint-Germain",
+                        "away": "Olympique Marseille",
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/524.svg",
+                        "awayLogo": "https://crests.football-data.org/523.svg"
+                    }
+                ]
+            }
+        ],
+        "top_scorers": [],
+        "top_assists": []
+    }
+]

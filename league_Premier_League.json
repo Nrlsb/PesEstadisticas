@@ -1,0 +1,1912 @@
+[
+    {
+        "league": "Premier League",
+        "season": "25/26",
+        "round": "Mid-season",
+        "standings": [
+            {
+                "rank": 1,
+                "team": "Arsenal FC",
+                "points": 40,
+                "matches_played": 19,
+                "wins": 12,
+                "draws": 4,
+                "losses": 3,
+                "goals_for": 31,
+                "goals_against": 13,
+                "goal_diff": 18,
+                "logo": "https://crests.football-data.org/57.svg"
+            },
+            {
+                "rank": 2,
+                "team": "Manchester City",
+                "points": 39,
+                "matches_played": 19,
+                "wins": 12,
+                "draws": 3,
+                "losses": 4,
+                "goals_for": 35,
+                "goals_against": 21,
+                "goal_diff": 14,
+                "logo": "https://crests.football-data.org/65.svg"
+            },
+            {
+                "rank": 3,
+                "team": "Liverpool FC",
+                "points": 39,
+                "matches_played": 19,
+                "wins": 12,
+                "draws": 3,
+                "losses": 4,
+                "goals_for": 28,
+                "goals_against": 17,
+                "goal_diff": 11,
+                "logo": "https://crests.football-data.org/64.svg"
+            },
+            {
+                "rank": 4,
+                "team": "Manchester United",
+                "points": 35,
+                "matches_played": 19,
+                "wins": 10,
+                "draws": 5,
+                "losses": 4,
+                "goals_for": 25,
+                "goals_against": 16,
+                "goal_diff": 9,
+                "logo": "https://crests.football-data.org/66.svg"
+            },
+            {
+                "rank": 5,
+                "team": "Tottenham Hotspur",
+                "points": 34,
+                "matches_played": 19,
+                "wins": 10,
+                "draws": 4,
+                "losses": 5,
+                "goals_for": 22,
+                "goals_against": 13,
+                "goal_diff": 9,
+                "logo": "https://crests.football-data.org/73.svg"
+            },
+            {
+                "rank": 6,
+                "team": "Leeds United",
+                "points": 33,
+                "matches_played": 19,
+                "wins": 10,
+                "draws": 3,
+                "losses": 6,
+                "goals_for": 34,
+                "goals_against": 24,
+                "goal_diff": 10,
+                "logo": "https://crests.football-data.org/341.svg"
+            },
+            {
+                "rank": 7,
+                "team": "Aston Villa FC",
+                "points": 32,
+                "matches_played": 19,
+                "wins": 10,
+                "draws": 2,
+                "losses": 7,
+                "goals_for": 28,
+                "goals_against": 23,
+                "goal_diff": 5,
+                "logo": "https://crests.football-data.org/58.svg"
+            },
+            {
+                "rank": 8,
+                "team": "Everton FC",
+                "points": 30,
+                "matches_played": 19,
+                "wins": 9,
+                "draws": 3,
+                "losses": 7,
+                "goals_for": 31,
+                "goals_against": 28,
+                "goal_diff": 3,
+                "logo": "https://crests.football-data.org/62.svg"
+            },
+            {
+                "rank": 9,
+                "team": "Fulham FC",
+                "points": 27,
+                "matches_played": 19,
+                "wins": 8,
+                "draws": 3,
+                "losses": 8,
+                "goals_for": 25,
+                "goals_against": 19,
+                "goal_diff": 6,
+                "logo": "https://crests.football-data.org/63.svg"
+            },
+            {
+                "rank": 10,
+                "team": "Wolverhampton Wanderers",
+                "points": 27,
+                "matches_played": 19,
+                "wins": 7,
+                "draws": 6,
+                "losses": 6,
+                "goals_for": 24,
+                "goals_against": 22,
+                "goal_diff": 2,
+                "logo": "https://crests.football-data.org/76.svg"
+            },
+            {
+                "rank": 11,
+                "team": "Chelsea FC",
+                "points": 22,
+                "matches_played": 19,
+                "wins": 6,
+                "draws": 4,
+                "losses": 9,
+                "goals_for": 21,
+                "goals_against": 24,
+                "goal_diff": -3,
+                "logo": "https://crests.football-data.org/61.svg"
+            },
+            {
+                "rank": 12,
+                "team": "AFC Bournemouth",
+                "points": 22,
+                "matches_played": 19,
+                "wins": 6,
+                "draws": 4,
+                "losses": 9,
+                "goals_for": 28,
+                "goals_against": 33,
+                "goal_diff": -5,
+                "logo": "https://crests.football-data.org/1044.svg"
+            },
+            {
+                "rank": 13,
+                "team": "Sunderland AFC",
+                "points": 22,
+                "matches_played": 19,
+                "wins": 5,
+                "draws": 7,
+                "losses": 7,
+                "goals_for": 23,
+                "goals_against": 30,
+                "goal_diff": -7,
+                "logo": "https://crests.football-data.org/71.svg"
+            },
+            {
+                "rank": 14,
+                "team": "Crystal Palace FC",
+                "points": 21,
+                "matches_played": 19,
+                "wins": 5,
+                "draws": 6,
+                "losses": 8,
+                "goals_for": 21,
+                "goals_against": 23,
+                "goal_diff": -2,
+                "logo": "https://crests.football-data.org/354.svg"
+            },
+            {
+                "rank": 15,
+                "team": "Nottingham Forest",
+                "points": 21,
+                "matches_played": 19,
+                "wins": 6,
+                "draws": 3,
+                "losses": 10,
+                "goals_for": 19,
+                "goals_against": 29,
+                "goal_diff": -10,
+                "logo": "https://crests.football-data.org/351.svg"
+            },
+            {
+                "rank": 16,
+                "team": "Brighton & Hove Albion",
+                "points": 19,
+                "matches_played": 19,
+                "wins": 4,
+                "draws": 7,
+                "losses": 8,
+                "goals_for": 15,
+                "goals_against": 30,
+                "goal_diff": -15,
+                "logo": "https://crests.football-data.org/397.svg"
+            },
+            {
+                "rank": 17,
+                "team": "West Ham United",
+                "points": 18,
+                "matches_played": 19,
+                "wins": 4,
+                "draws": 6,
+                "losses": 9,
+                "goals_for": 18,
+                "goals_against": 27,
+                "goal_diff": -9,
+                "logo": "https://crests.football-data.org/563.svg"
+            },
+            {
+                "rank": 18,
+                "team": "Newcastle United",
+                "points": 16,
+                "matches_played": 19,
+                "wins": 4,
+                "draws": 4,
+                "losses": 11,
+                "goals_for": 17,
+                "goals_against": 28,
+                "goal_diff": -11,
+                "logo": "https://crests.football-data.org/67.svg"
+            },
+            {
+                "rank": 19,
+                "team": "Brentford FC",
+                "points": 16,
+                "matches_played": 19,
+                "wins": 4,
+                "draws": 4,
+                "losses": 11,
+                "goals_for": 18,
+                "goals_against": 31,
+                "goal_diff": -13,
+                "logo": "https://crests.football-data.org/402.svg"
+            },
+            {
+                "rank": 20,
+                "team": "Burnley FC",
+                "points": 14,
+                "matches_played": 19,
+                "wins": 3,
+                "draws": 5,
+                "losses": 11,
+                "goals_for": 16,
+                "goals_against": 28,
+                "goal_diff": -12,
+                "logo": "https://crests.football-data.org/328.svg"
+            }
+        ],
+        "top_scorers": [
+            {
+                "rank": 1,
+                "player": "Erling Haaland",
+                "team": "Manchester City",
+                "goals": 11,
+                "team_logo": "https://crests.football-data.org/65.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Bukayo Saka",
+                "team": "Arsenal FC",
+                "goals": 10,
+                "team_logo": "https://crests.football-data.org/57.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Mathys Tel",
+                "team": "Tottenham Hotspur",
+                "goals": 10,
+                "team_logo": "https://crests.football-data.org/73.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Viktor Gyökeres",
+                "team": "Arsenal FC",
+                "goals": 9,
+                "team_logo": "https://crests.football-data.org/57.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Cody Gakpo",
+                "team": "Liverpool FC",
+                "goals": 8,
+                "team_logo": "https://crests.football-data.org/64.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Thierno Barry",
+                "team": "Everton FC",
+                "goals": 8,
+                "team_logo": "https://crests.football-data.org/62.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Jhon Arias",
+                "team": "Wolverhampton Wanderers",
+                "goals": 8,
+                "team_logo": "https://crests.football-data.org/76.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Jean Mateta",
+                "team": "Crystal Palace FC",
+                "goals": 8,
+                "team_logo": "https://crests.football-data.org/354.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Igor Thiago",
+                "team": "Brentford FC",
+                "goals": 7,
+                "team_logo": "https://crests.football-data.org/402.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Phil Foden",
+                "team": "Manchester City",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/65.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Mohamed Salah",
+                "team": "Liverpool FC",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/64.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Matheus Cunha",
+                "team": "Manchester United",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/66.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Brennan Johnson",
+                "team": "Tottenham Hotspur",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/73.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Noah Okafor",
+                "team": "Leeds United",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/341.svg"
+            },
+            {
+                "rank": 10,
+                "player": "D. Calvert-Lewin",
+                "team": "Leeds United",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/341.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Simon Adingra",
+                "team": "Sunderland AFC",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/71.svg"
+            }
+        ],
+        "top_assists": [
+            {
+                "rank": 1,
+                "player": "Alexis Mac Allister",
+                "team": "Liverpool FC",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/64.svg"
+            },
+            {
+                "rank": 1,
+                "player": "John McGinn",
+                "team": "Aston Villa FC",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/58.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Manuel Ugarte",
+                "team": "Manchester United",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/66.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Sean Longstaff",
+                "team": "Leeds United",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/341.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Martín Zubimendi",
+                "team": "Arsenal FC",
+                "assists": 5,
+                "team_logo": "https://crests.football-data.org/57.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Rayan Cherki",
+                "team": "Manchester City",
+                "assists": 5,
+                "team_logo": "https://crests.football-data.org/65.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Bruno Fernandes",
+                "team": "Manchester United",
+                "assists": 5,
+                "team_logo": "https://crests.football-data.org/66.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Lucas Paquetá",
+                "team": "West Ham United",
+                "assists": 5,
+                "team_logo": "https://crests.football-data.org/563.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Declan Rice",
+                "team": "Arsenal FC",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/57.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Matheus Nunes",
+                "team": "Manchester City",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/65.svg"
+            },
+            {
+                "rank": 9,
+                "player": "James Garner",
+                "team": "Everton FC",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/62.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Sander Berge",
+                "team": "Fulham FC",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/63.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Adam Wharton",
+                "team": "Crystal Palace FC",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/354.svg"
+            },
+            {
+                "rank": 14,
+                "player": "Florian Wirtz",
+                "team": "Liverpool FC",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/64.svg"
+            },
+            {
+                "rank": 14,
+                "player": "Ilia Gruev",
+                "team": "Leeds United",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/341.svg"
+            },
+            {
+                "rank": 14,
+                "player": "Carlos Alcaraz",
+                "team": "Everton FC",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/62.svg"
+            }
+        ]
+    },
+    {
+        "league": "Premier League",
+        "season": "25/26",
+        "round": "Final",
+        "standings": [
+            {
+                "rank": 1,
+                "team": "Arsenal FC",
+                "points": 77,
+                "matches_played": 38,
+                "wins": 22,
+                "draws": 11,
+                "losses": 5,
+                "goals_for": 55,
+                "goals_against": 23,
+                "goal_diff": 32,
+                "logo": "https://crests.football-data.org/57.svg"
+            },
+            {
+                "rank": 2,
+                "team": "Liverpool FC",
+                "points": 75,
+                "matches_played": 38,
+                "wins": 22,
+                "draws": 9,
+                "losses": 7,
+                "goals_for": 59,
+                "goals_against": 32,
+                "goal_diff": 27,
+                "logo": "https://crests.football-data.org/64.svg"
+            },
+            {
+                "rank": 3,
+                "team": "Manchester City",
+                "points": 74,
+                "matches_played": 38,
+                "wins": 20,
+                "draws": 14,
+                "losses": 4,
+                "goals_for": 66,
+                "goals_against": 35,
+                "goal_diff": 31,
+                "logo": "https://crests.football-data.org/65.svg"
+            },
+            {
+                "rank": 4,
+                "team": "Manchester United",
+                "points": 63,
+                "matches_played": 38,
+                "wins": 18,
+                "draws": 9,
+                "losses": 11,
+                "goals_for": 45,
+                "goals_against": 31,
+                "goal_diff": 14,
+                "logo": "https://crests.football-data.org/66.svg"
+            },
+            {
+                "rank": 5,
+                "team": "Tottenham Hotspur",
+                "points": 60,
+                "matches_played": 38,
+                "wins": 17,
+                "draws": 9,
+                "losses": 12,
+                "goals_for": 44,
+                "goals_against": 37,
+                "goal_diff": 7,
+                "logo": "https://crests.football-data.org/73.svg"
+            },
+            {
+                "rank": 6,
+                "team": "Aston Villa FC",
+                "points": 58,
+                "matches_played": 38,
+                "wins": 17,
+                "draws": 7,
+                "losses": 14,
+                "goals_for": 53,
+                "goals_against": 45,
+                "goal_diff": 8,
+                "logo": "https://crests.football-data.org/58.svg"
+            },
+            {
+                "rank": 7,
+                "team": "Leeds United",
+                "points": 56,
+                "matches_played": 38,
+                "wins": 16,
+                "draws": 8,
+                "losses": 14,
+                "goals_for": 52,
+                "goals_against": 47,
+                "goal_diff": 5,
+                "logo": "https://crests.football-data.org/341.svg"
+            },
+            {
+                "rank": 8,
+                "team": "AFC Bournemouth",
+                "points": 55,
+                "matches_played": 38,
+                "wins": 16,
+                "draws": 7,
+                "losses": 15,
+                "goals_for": 47,
+                "goals_against": 47,
+                "goal_diff": 0,
+                "logo": "https://crests.football-data.org/1044.svg"
+            },
+            {
+                "rank": 9,
+                "team": "Wolverhampton Wanderers",
+                "points": 52,
+                "matches_played": 38,
+                "wins": 14,
+                "draws": 10,
+                "losses": 14,
+                "goals_for": 47,
+                "goals_against": 43,
+                "goal_diff": 4,
+                "logo": "https://crests.football-data.org/76.svg"
+            },
+            {
+                "rank": 10,
+                "team": "Everton FC",
+                "points": 49,
+                "matches_played": 38,
+                "wins": 14,
+                "draws": 7,
+                "losses": 17,
+                "goals_for": 41,
+                "goals_against": 51,
+                "goal_diff": -10,
+                "logo": "https://crests.football-data.org/62.svg"
+            },
+            {
+                "rank": 11,
+                "team": "Fulham FC",
+                "points": 47,
+                "matches_played": 38,
+                "wins": 13,
+                "draws": 8,
+                "losses": 17,
+                "goals_for": 41,
+                "goals_against": 43,
+                "goal_diff": -2,
+                "logo": "https://crests.football-data.org/63.svg"
+            },
+            {
+                "rank": 12,
+                "team": "Sunderland AFC",
+                "points": 46,
+                "matches_played": 38,
+                "wins": 11,
+                "draws": 13,
+                "losses": 14,
+                "goals_for": 45,
+                "goals_against": 59,
+                "goal_diff": -14,
+                "logo": "https://crests.football-data.org/71.svg"
+            },
+            {
+                "rank": 13,
+                "team": "Nottingham Forest",
+                "points": 45,
+                "matches_played": 38,
+                "wins": 12,
+                "draws": 9,
+                "losses": 17,
+                "goals_for": 40,
+                "goals_against": 51,
+                "goal_diff": -11,
+                "logo": "https://crests.football-data.org/351.svg"
+            },
+            {
+                "rank": 14,
+                "team": "Brighton & Hove Albion",
+                "points": 45,
+                "matches_played": 38,
+                "wins": 10,
+                "draws": 15,
+                "losses": 13,
+                "goals_for": 30,
+                "goals_against": 48,
+                "goal_diff": -18,
+                "logo": "https://crests.football-data.org/397.svg"
+            },
+            {
+                "rank": 15,
+                "team": "West Ham United",
+                "points": 43,
+                "matches_played": 38,
+                "wins": 10,
+                "draws": 13,
+                "losses": 15,
+                "goals_for": 34,
+                "goals_against": 41,
+                "goal_diff": -7,
+                "logo": "https://crests.football-data.org/563.svg"
+            },
+            {
+                "rank": 16,
+                "team": "Chelsea FC",
+                "points": 41,
+                "matches_played": 38,
+                "wins": 11,
+                "draws": 8,
+                "losses": 19,
+                "goals_for": 38,
+                "goals_against": 49,
+                "goal_diff": -11,
+                "logo": "https://crests.football-data.org/61.svg"
+            },
+            {
+                "rank": 17,
+                "team": "Newcastle United",
+                "points": 41,
+                "matches_played": 38,
+                "wins": 10,
+                "draws": 11,
+                "losses": 17,
+                "goals_for": 32,
+                "goals_against": 43,
+                "goal_diff": -11,
+                "logo": "https://crests.football-data.org/67.svg"
+            },
+            {
+                "rank": 18,
+                "team": "Crystal Palace FC",
+                "points": 41,
+                "matches_played": 38,
+                "wins": 11,
+                "draws": 8,
+                "losses": 19,
+                "goals_for": 35,
+                "goals_against": 47,
+                "goal_diff": -12,
+                "logo": "https://crests.football-data.org/354.svg"
+            },
+            {
+                "rank": 19,
+                "team": "Brentford FC",
+                "points": 41,
+                "matches_played": 38,
+                "wins": 11,
+                "draws": 8,
+                "losses": 19,
+                "goals_for": 36,
+                "goals_against": 49,
+                "goal_diff": -13,
+                "logo": "https://crests.football-data.org/402.svg"
+            },
+            {
+                "rank": 20,
+                "team": "Burnley FC",
+                "points": 35,
+                "matches_played": 38,
+                "wins": 9,
+                "draws": 8,
+                "losses": 21,
+                "goals_for": 30,
+                "goals_against": 49,
+                "goal_diff": -19,
+                "logo": "https://crests.football-data.org/328.svg"
+            }
+        ],
+        "top_scorers": [
+            {
+                "rank": 1,
+                "player": "Erling Haaland",
+                "team": "Manchester City",
+                "goals": 21,
+                "team_logo": "https://crests.football-data.org/65.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Mohamed Salah",
+                "team": "Liverpool FC",
+                "goals": 18,
+                "team_logo": "https://crests.football-data.org/64.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Jean Mateta",
+                "team": "Crystal Palace FC",
+                "goals": 15,
+                "team_logo": "https://crests.football-data.org/354.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Bukayo Saka",
+                "team": "Arsenal FC",
+                "goals": 14,
+                "team_logo": "https://crests.football-data.org/57.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Igor Thiago",
+                "team": "Brentford FC",
+                "goals": 14,
+                "team_logo": "https://crests.football-data.org/402.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Cody Gakpo",
+                "team": "Liverpool FC",
+                "goals": 13,
+                "team_logo": "https://crests.football-data.org/64.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Mathys Tel",
+                "team": "Tottenham Hotspur",
+                "goals": 13,
+                "team_logo": "https://crests.football-data.org/73.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Jhon Arias",
+                "team": "Wolverhampton Wanderers",
+                "goals": 13,
+                "team_logo": "https://crests.football-data.org/76.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Viktor Gyökeres",
+                "team": "Arsenal FC",
+                "goals": 12,
+                "team_logo": "https://crests.football-data.org/57.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Phil Foden",
+                "team": "Manchester City",
+                "goals": 12,
+                "team_logo": "https://crests.football-data.org/65.svg"
+            },
+            {
+                "rank": 11,
+                "player": "Simon Adingra",
+                "team": "Sunderland AFC",
+                "goals": 11,
+                "team_logo": "https://crests.football-data.org/71.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Matheus Cunha",
+                "team": "Manchester United",
+                "goals": 10,
+                "team_logo": "https://crests.football-data.org/66.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Niclas Füllkrug",
+                "team": "West Ham United",
+                "goals": 10,
+                "team_logo": "https://crests.football-data.org/563.svg"
+            },
+            {
+                "rank": 12,
+                "player": "João Pedro",
+                "team": "Chelsea FC",
+                "goals": 10,
+                "team_logo": "https://crests.football-data.org/61.svg"
+            },
+            {
+                "rank": 15,
+                "player": "Hugo Ekitiké",
+                "team": "Liverpool FC",
+                "goals": 9,
+                "team_logo": "https://crests.football-data.org/64.svg"
+            },
+            {
+                "rank": 15,
+                "player": "Benjamin Šeško",
+                "team": "Manchester United",
+                "goals": 9,
+                "team_logo": "https://crests.football-data.org/66.svg"
+            }
+        ],
+        "top_assists": [
+            {
+                "rank": 1,
+                "player": "Alexis Mac Allister",
+                "team": "Liverpool FC",
+                "assists": 13,
+                "team_logo": "https://crests.football-data.org/64.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Rayan Cherki",
+                "team": "Manchester City",
+                "assists": 10,
+                "team_logo": "https://crests.football-data.org/65.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Declan Rice",
+                "team": "Arsenal FC",
+                "assists": 9,
+                "team_logo": "https://crests.football-data.org/57.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Rodrigo Bentancur",
+                "team": "Tottenham Hotspur",
+                "assists": 9,
+                "team_logo": "https://crests.football-data.org/73.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Martín Zubimendi",
+                "team": "Arsenal FC",
+                "assists": 8,
+                "team_logo": "https://crests.football-data.org/57.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Curtis Jones",
+                "team": "Liverpool FC",
+                "assists": 8,
+                "team_logo": "https://crests.football-data.org/64.svg"
+            },
+            {
+                "rank": 5,
+                "player": "John McGinn",
+                "team": "Aston Villa FC",
+                "assists": 8,
+                "team_logo": "https://crests.football-data.org/58.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Lucas Paquetá",
+                "team": "West Ham United",
+                "assists": 8,
+                "team_logo": "https://crests.football-data.org/563.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Roméo Lavia",
+                "team": "Chelsea FC",
+                "assists": 8,
+                "team_logo": "https://crests.football-data.org/61.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Manuel Ugarte",
+                "team": "Manchester United",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/66.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Sean Longstaff",
+                "team": "Leeds United",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/341.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Sander Berge",
+                "team": "Fulham FC",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/63.svg"
+            },
+            {
+                "rank": 13,
+                "player": "Mikel Merino",
+                "team": "Arsenal FC",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/57.svg"
+            },
+            {
+                "rank": 13,
+                "player": "Bruno Fernandes",
+                "team": "Manchester United",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/66.svg"
+            },
+            {
+                "rank": 13,
+                "player": "James Maddison",
+                "team": "Tottenham Hotspur",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/73.svg"
+            },
+            {
+                "rank": 13,
+                "player": "Ao Tanaka",
+                "team": "Leeds United",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/341.svg"
+            }
+        ]
+    },
+    {
+        "league": "Premier League",
+        "season": "26/27",
+        "round": "Mid-season",
+        "standings": [
+            {
+                "rank": 1,
+                "team": "Arsenal FC",
+                "points": 43,
+                "matches_played": 19,
+                "wins": 13,
+                "draws": 4,
+                "losses": 2,
+                "goals_for": 37,
+                "goals_against": 14,
+                "goal_diff": 23,
+                "logo": "https://crests.football-data.org/57.svg"
+            },
+            {
+                "rank": 2,
+                "team": "Manchester City",
+                "points": 38,
+                "matches_played": 19,
+                "wins": 11,
+                "draws": 5,
+                "losses": 3,
+                "goals_for": 37,
+                "goals_against": 23,
+                "goal_diff": 14,
+                "logo": "https://crests.football-data.org/65.svg"
+            },
+            {
+                "rank": 3,
+                "team": "Liverpool FC",
+                "points": 35,
+                "matches_played": 19,
+                "wins": 11,
+                "draws": 2,
+                "losses": 6,
+                "goals_for": 33,
+                "goals_against": 27,
+                "goal_diff": 6,
+                "logo": "https://crests.football-data.org/64.svg"
+            },
+            {
+                "rank": 4,
+                "team": "Leeds United",
+                "points": 31,
+                "matches_played": 19,
+                "wins": 9,
+                "draws": 4,
+                "losses": 6,
+                "goals_for": 27,
+                "goals_against": 17,
+                "goal_diff": 10,
+                "logo": "https://crests.football-data.org/341.svg"
+            },
+            {
+                "rank": 5,
+                "team": "Chelsea FC",
+                "points": 31,
+                "matches_played": 19,
+                "wins": 9,
+                "draws": 4,
+                "losses": 6,
+                "goals_for": 34,
+                "goals_against": 27,
+                "goal_diff": 7,
+                "logo": "https://crests.football-data.org/61.svg"
+            },
+            {
+                "rank": 6,
+                "team": "Everton FC",
+                "points": 28,
+                "matches_played": 19,
+                "wins": 7,
+                "draws": 7,
+                "losses": 5,
+                "goals_for": 23,
+                "goals_against": 16,
+                "goal_diff": 7,
+                "logo": "https://crests.football-data.org/62.svg"
+            },
+            {
+                "rank": 7,
+                "team": "Tottenham Hotspur",
+                "points": 28,
+                "matches_played": 19,
+                "wins": 8,
+                "draws": 4,
+                "losses": 7,
+                "goals_for": 20,
+                "goals_against": 21,
+                "goal_diff": -1,
+                "logo": "https://crests.football-data.org/73.svg"
+            },
+            {
+                "rank": 8,
+                "team": "West Ham United",
+                "points": 27,
+                "matches_played": 19,
+                "wins": 7,
+                "draws": 6,
+                "losses": 6,
+                "goals_for": 32,
+                "goals_against": 30,
+                "goal_diff": 2,
+                "logo": "https://crests.football-data.org/563.svg"
+            },
+            {
+                "rank": 9,
+                "team": "Southampton FC",
+                "points": 26,
+                "matches_played": 19,
+                "wins": 7,
+                "draws": 5,
+                "losses": 7,
+                "goals_for": 23,
+                "goals_against": 23,
+                "goal_diff": 0,
+                "logo": "https://crests.football-data.org/340.svg"
+            },
+            {
+                "rank": 10,
+                "team": "Brighton & Hove Albion",
+                "points": 26,
+                "matches_played": 19,
+                "wins": 7,
+                "draws": 5,
+                "losses": 7,
+                "goals_for": 21,
+                "goals_against": 23,
+                "goal_diff": -2,
+                "logo": "https://crests.football-data.org/397.svg"
+            },
+            {
+                "rank": 11,
+                "team": "Fulham FC",
+                "points": 26,
+                "matches_played": 19,
+                "wins": 8,
+                "draws": 2,
+                "losses": 9,
+                "goals_for": 23,
+                "goals_against": 29,
+                "goal_diff": -6,
+                "logo": "https://crests.football-data.org/63.svg"
+            },
+            {
+                "rank": 12,
+                "team": "AFC Bournemouth",
+                "points": 25,
+                "matches_played": 19,
+                "wins": 7,
+                "draws": 4,
+                "losses": 8,
+                "goals_for": 26,
+                "goals_against": 26,
+                "goal_diff": 0,
+                "logo": "https://crests.football-data.org/1044.svg"
+            },
+            {
+                "rank": 13,
+                "team": "Wolverhampton Wanderers",
+                "points": 23,
+                "matches_played": 19,
+                "wins": 6,
+                "draws": 5,
+                "losses": 8,
+                "goals_for": 26,
+                "goals_against": 27,
+                "goal_diff": -1,
+                "logo": "https://crests.football-data.org/76.svg"
+            },
+            {
+                "rank": 14,
+                "team": "Manchester United",
+                "points": 22,
+                "matches_played": 19,
+                "wins": 5,
+                "draws": 7,
+                "losses": 7,
+                "goals_for": 29,
+                "goals_against": 28,
+                "goal_diff": 1,
+                "logo": "https://crests.football-data.org/66.svg"
+            },
+            {
+                "rank": 15,
+                "team": "Nottingham Forest",
+                "points": 20,
+                "matches_played": 19,
+                "wins": 4,
+                "draws": 8,
+                "losses": 7,
+                "goals_for": 25,
+                "goals_against": 30,
+                "goal_diff": -5,
+                "logo": "https://crests.football-data.org/351.svg"
+            },
+            {
+                "rank": 16,
+                "team": "Newcastle United",
+                "points": 20,
+                "matches_played": 19,
+                "wins": 5,
+                "draws": 5,
+                "losses": 9,
+                "goals_for": 13,
+                "goals_against": 22,
+                "goal_diff": -9,
+                "logo": "https://crests.football-data.org/67.svg"
+            },
+            {
+                "rank": 17,
+                "team": "Sunderland AFC",
+                "points": 20,
+                "matches_played": 19,
+                "wins": 6,
+                "draws": 2,
+                "losses": 11,
+                "goals_for": 25,
+                "goals_against": 37,
+                "goal_diff": -12,
+                "logo": "https://crests.football-data.org/71.svg"
+            },
+            {
+                "rank": 18,
+                "team": "Aston Villa FC",
+                "points": 19,
+                "matches_played": 19,
+                "wins": 5,
+                "draws": 4,
+                "losses": 10,
+                "goals_for": 19,
+                "goals_against": 27,
+                "goal_diff": -8,
+                "logo": "https://crests.football-data.org/58.svg"
+            },
+            {
+                "rank": 19,
+                "team": "Leicester City",
+                "points": 18,
+                "matches_played": 19,
+                "wins": 3,
+                "draws": 9,
+                "losses": 7,
+                "goals_for": 19,
+                "goals_against": 30,
+                "goal_diff": -11,
+                "logo": "https://crests.football-data.org/338.svg"
+            },
+            {
+                "rank": 20,
+                "team": "Ipswich Town",
+                "points": 16,
+                "matches_played": 19,
+                "wins": 4,
+                "draws": 4,
+                "losses": 11,
+                "goals_for": 16,
+                "goals_against": 31,
+                "goal_diff": -15,
+                "logo": "https://crests.football-data.org/349.svg"
+            }
+        ],
+        "top_scorers": [
+            {
+                "rank": 1,
+                "player": "Erling Haaland",
+                "team": "Manchester City",
+                "goals": 15,
+                "team_logo": "https://crests.football-data.org/65.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Niclas Füllkrug",
+                "team": "West Ham United",
+                "goals": 12,
+                "team_logo": "https://crests.football-data.org/563.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Mohamed Salah",
+                "team": "Liverpool FC",
+                "goals": 10,
+                "team_logo": "https://crests.football-data.org/64.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Evanilson",
+                "team": "AFC Bournemouth",
+                "goals": 9,
+                "team_logo": "https://crests.football-data.org/1044.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Adam Armstrong",
+                "team": "Southampton FC",
+                "goals": 8,
+                "team_logo": "https://crests.football-data.org/340.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Rodrigo Gomes",
+                "team": "Wolverhampton Wanderers",
+                "goals": 8,
+                "team_logo": "https://crests.football-data.org/76.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Bukayo Saka",
+                "team": "Arsenal FC",
+                "goals": 7,
+                "team_logo": "https://crests.football-data.org/57.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Jérémy Doku",
+                "team": "Manchester City",
+                "goals": 7,
+                "team_logo": "https://crests.football-data.org/65.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Hugo Ekitiké",
+                "team": "Liverpool FC",
+                "goals": 7,
+                "team_logo": "https://crests.football-data.org/64.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Amad Diallo",
+                "team": "Manchester United",
+                "goals": 7,
+                "team_logo": "https://crests.football-data.org/66.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Bryan Mbeumo",
+                "team": "Manchester United",
+                "goals": 7,
+                "team_logo": "https://crests.football-data.org/66.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Patson Daka",
+                "team": "Leicester City",
+                "goals": 7,
+                "team_logo": "https://crests.football-data.org/338.svg"
+            },
+            {
+                "rank": 13,
+                "player": "Viktor Gyökeres",
+                "team": "Arsenal FC",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/57.svg"
+            },
+            {
+                "rank": 13,
+                "player": "Mikel Merino",
+                "team": "Arsenal FC",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/57.svg"
+            },
+            {
+                "rank": 13,
+                "player": "Florian Wirtz",
+                "team": "Liverpool FC",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/64.svg"
+            },
+            {
+                "rank": 13,
+                "player": "Jarrod Bowen",
+                "team": "West Ham United",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/563.svg"
+            }
+        ],
+        "top_assists": [
+            {
+                "rank": 1,
+                "player": "Declan Rice",
+                "team": "Arsenal FC",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/57.svg"
+            },
+            {
+                "rank": 1,
+                "player": "Martín Zubimendi",
+                "team": "Arsenal FC",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/57.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Florian Wirtz",
+                "team": "Liverpool FC",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/64.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Alexis Mac Allister",
+                "team": "Liverpool FC",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/64.svg"
+            },
+            {
+                "rank": 3,
+                "player": "André Trindade",
+                "team": "Wolverhampton Wanderers",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/76.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Manuel Ugarte",
+                "team": "Manchester United",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/66.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Rodri",
+                "team": "Manchester City",
+                "assists": 5,
+                "team_logo": "https://crests.football-data.org/65.svg"
+            },
+            {
+                "rank": 7,
+                "player": "James Garner",
+                "team": "Everton FC",
+                "assists": 5,
+                "team_logo": "https://crests.football-data.org/62.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Lucas Paquetá",
+                "team": "West Ham United",
+                "assists": 5,
+                "team_logo": "https://crests.football-data.org/563.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Kalvin Phillips",
+                "team": "Manchester City",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/65.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Ethan Ampadu",
+                "team": "Leeds United",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/341.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Andrey Santos",
+                "team": "Chelsea FC",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/61.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Enzo Fernández",
+                "team": "Chelsea FC",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/61.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Dwight McNeil",
+                "team": "Everton FC",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/62.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Oriol Romeu",
+                "team": "Southampton FC",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/340.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Shea Charles",
+                "team": "Southampton FC",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/340.svg"
+            }
+        ]
+    },
+    {
+        "league": "Premier League",
+        "season": "26/27",
+        "round": "Final",
+        "standings": [
+            {
+                "rank": 1,
+                "team": "Arsenal FC",
+                "points": 79,
+                "matches_played": 38,
+                "wins": 23,
+                "draws": 10,
+                "losses": 5,
+                "goals_for": 73,
+                "goals_against": 31,
+                "goal_diff": 42,
+                "logo": "https://crests.football-data.org/57.svg"
+            },
+            {
+                "rank": 2,
+                "team": "Chelsea FC",
+                "points": 73,
+                "matches_played": 38,
+                "wins": 22,
+                "draws": 7,
+                "losses": 9,
+                "goals_for": 60,
+                "goals_against": 36,
+                "goal_diff": 24,
+                "logo": "https://crests.football-data.org/61.svg"
+            },
+            {
+                "rank": 3,
+                "team": "Manchester City",
+                "points": 73,
+                "matches_played": 38,
+                "wins": 22,
+                "draws": 7,
+                "losses": 9,
+                "goals_for": 70,
+                "goals_against": 50,
+                "goal_diff": 20,
+                "logo": "https://crests.football-data.org/65.svg"
+            },
+            {
+                "rank": 4,
+                "team": "Liverpool FC",
+                "points": 72,
+                "matches_played": 38,
+                "wins": 22,
+                "draws": 6,
+                "losses": 10,
+                "goals_for": 65,
+                "goals_against": 47,
+                "goal_diff": 18,
+                "logo": "https://crests.football-data.org/64.svg"
+            },
+            {
+                "rank": 5,
+                "team": "Tottenham Hotspur",
+                "points": 63,
+                "matches_played": 38,
+                "wins": 18,
+                "draws": 9,
+                "losses": 11,
+                "goals_for": 46,
+                "goals_against": 33,
+                "goal_diff": 13,
+                "logo": "https://crests.football-data.org/73.svg"
+            },
+            {
+                "rank": 6,
+                "team": "Leeds United",
+                "points": 59,
+                "matches_played": 38,
+                "wins": 17,
+                "draws": 8,
+                "losses": 13,
+                "goals_for": 42,
+                "goals_against": 33,
+                "goal_diff": 9,
+                "logo": "https://crests.football-data.org/341.svg"
+            },
+            {
+                "rank": 7,
+                "team": "Everton FC",
+                "points": 57,
+                "matches_played": 38,
+                "wins": 15,
+                "draws": 12,
+                "losses": 11,
+                "goals_for": 57,
+                "goals_against": 39,
+                "goal_diff": 18,
+                "logo": "https://crests.football-data.org/62.svg"
+            },
+            {
+                "rank": 8,
+                "team": "Manchester United",
+                "points": 54,
+                "matches_played": 38,
+                "wins": 15,
+                "draws": 9,
+                "losses": 14,
+                "goals_for": 53,
+                "goals_against": 46,
+                "goal_diff": 7,
+                "logo": "https://crests.football-data.org/66.svg"
+            },
+            {
+                "rank": 9,
+                "team": "West Ham United",
+                "points": 54,
+                "matches_played": 38,
+                "wins": 14,
+                "draws": 12,
+                "losses": 12,
+                "goals_for": 52,
+                "goals_against": 52,
+                "goal_diff": 0,
+                "logo": "https://crests.football-data.org/563.svg"
+            },
+            {
+                "rank": 10,
+                "team": "Aston Villa FC",
+                "points": 53,
+                "matches_played": 38,
+                "wins": 15,
+                "draws": 8,
+                "losses": 15,
+                "goals_for": 46,
+                "goals_against": 49,
+                "goal_diff": -3,
+                "logo": "https://crests.football-data.org/58.svg"
+            },
+            {
+                "rank": 11,
+                "team": "AFC Bournemouth",
+                "points": 49,
+                "matches_played": 38,
+                "wins": 14,
+                "draws": 7,
+                "losses": 17,
+                "goals_for": 44,
+                "goals_against": 47,
+                "goal_diff": -3,
+                "logo": "https://crests.football-data.org/1044.svg"
+            },
+            {
+                "rank": 12,
+                "team": "Fulham FC",
+                "points": 46,
+                "matches_played": 38,
+                "wins": 12,
+                "draws": 10,
+                "losses": 16,
+                "goals_for": 47,
+                "goals_against": 56,
+                "goal_diff": -9,
+                "logo": "https://crests.football-data.org/63.svg"
+            },
+            {
+                "rank": 13,
+                "team": "Nottingham Forest",
+                "points": 43,
+                "matches_played": 38,
+                "wins": 11,
+                "draws": 10,
+                "losses": 17,
+                "goals_for": 49,
+                "goals_against": 57,
+                "goal_diff": -8,
+                "logo": "https://crests.football-data.org/351.svg"
+            },
+            {
+                "rank": 14,
+                "team": "Ipswich Town",
+                "points": 43,
+                "matches_played": 38,
+                "wins": 11,
+                "draws": 10,
+                "losses": 17,
+                "goals_for": 44,
+                "goals_against": 57,
+                "goal_diff": -13,
+                "logo": "https://crests.football-data.org/349.svg"
+            },
+            {
+                "rank": 15,
+                "team": "Brighton & Hove Albion",
+                "points": 42,
+                "matches_played": 38,
+                "wins": 10,
+                "draws": 12,
+                "losses": 16,
+                "goals_for": 42,
+                "goals_against": 58,
+                "goal_diff": -16,
+                "logo": "https://crests.football-data.org/397.svg"
+            },
+            {
+                "rank": 16,
+                "team": "Wolverhampton Wanderers",
+                "points": 41,
+                "matches_played": 38,
+                "wins": 12,
+                "draws": 5,
+                "losses": 21,
+                "goals_for": 45,
+                "goals_against": 61,
+                "goal_diff": -16,
+                "logo": "https://crests.football-data.org/76.svg"
+            },
+            {
+                "rank": 17,
+                "team": "Newcastle United",
+                "points": 41,
+                "matches_played": 38,
+                "wins": 11,
+                "draws": 8,
+                "losses": 19,
+                "goals_for": 35,
+                "goals_against": 55,
+                "goal_diff": -20,
+                "logo": "https://crests.football-data.org/67.svg"
+            },
+            {
+                "rank": 18,
+                "team": "Leicester City",
+                "points": 37,
+                "matches_played": 38,
+                "wins": 8,
+                "draws": 13,
+                "losses": 17,
+                "goals_for": 35,
+                "goals_against": 61,
+                "goal_diff": -26,
+                "logo": "https://crests.football-data.org/338.svg"
+            },
+            {
+                "rank": 19,
+                "team": "Southampton FC",
+                "points": 36,
+                "matches_played": 38,
+                "wins": 9,
+                "draws": 9,
+                "losses": 20,
+                "goals_for": 35,
+                "goals_against": 52,
+                "goal_diff": -17,
+                "logo": "https://crests.football-data.org/340.svg"
+            },
+            {
+                "rank": 20,
+                "team": "Sunderland AFC",
+                "points": 35,
+                "matches_played": 38,
+                "wins": 9,
+                "draws": 8,
+                "losses": 21,
+                "goals_for": 42,
+                "goals_against": 62,
+                "goal_diff": -20,
+                "logo": "https://crests.football-data.org/71.svg"
+            }
+        ],
+        "top_scorers": [
+            {
+                "rank": 1,
+                "player": "Erling Haaland",
+                "team": "Manchester City",
+                "goals": 28,
+                "team_logo": "https://crests.football-data.org/65.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Mohamed Salah",
+                "team": "Liverpool FC",
+                "goals": 18,
+                "team_logo": "https://crests.football-data.org/64.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Niclas Füllkrug",
+                "team": "West Ham United",
+                "goals": 18,
+                "team_logo": "https://crests.football-data.org/563.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Viktor Gyökeres",
+                "team": "Arsenal FC",
+                "goals": 14,
+                "team_logo": "https://crests.football-data.org/57.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Bukayo Saka",
+                "team": "Arsenal FC",
+                "goals": 14,
+                "team_logo": "https://crests.football-data.org/57.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Ollie Watkins",
+                "team": "Aston Villa FC",
+                "goals": 13,
+                "team_logo": "https://crests.football-data.org/58.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Chris Wood",
+                "team": "Nottingham Forest",
+                "goals": 13,
+                "team_logo": "https://crests.football-data.org/351.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Evanilson",
+                "team": "AFC Bournemouth",
+                "goals": 12,
+                "team_logo": "https://crests.football-data.org/1044.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Beto",
+                "team": "Everton FC",
+                "goals": 11,
+                "team_logo": "https://crests.football-data.org/62.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Bryan Mbeumo",
+                "team": "Manchester United",
+                "goals": 11,
+                "team_logo": "https://crests.football-data.org/66.svg"
+            }
+        ],
+        "top_assists": [
+            {
+                "rank": 1,
+                "player": "Rodri",
+                "team": "Manchester City",
+                "assists": 14,
+                "team_logo": "https://crests.football-data.org/65.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Alexis Mac Allister",
+                "team": "Liverpool FC",
+                "assists": 13,
+                "team_logo": "https://crests.football-data.org/64.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Declan Rice",
+                "team": "Arsenal FC",
+                "assists": 11,
+                "team_logo": "https://crests.football-data.org/57.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Martín Zubimendi",
+                "team": "Arsenal FC",
+                "assists": 11,
+                "team_logo": "https://crests.football-data.org/57.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Manuel Ugarte",
+                "team": "Manchester United",
+                "assists": 10,
+                "team_logo": "https://crests.football-data.org/66.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Azor Matusiwa",
+                "team": "Ipswich Town",
+                "assists": 9,
+                "team_logo": "https://crests.football-data.org/349.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Sandro Tonali",
+                "team": "Newcastle United",
+                "assists": 9,
+                "team_logo": "https://crests.football-data.org/67.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Mikel Merino",
+                "team": "Arsenal FC",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/57.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Enzo Fernández",
+                "team": "Chelsea FC",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/61.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Kalvin Phillips",
+                "team": "Manchester City",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/65.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Pape Matar Sarr",
+                "team": "Tottenham Hotspur",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/73.svg"
+            },
+            {
+                "rank": 8,
+                "player": "André Trindade",
+                "team": "Wolverhampton Wanderers",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/76.svg"
+            }
+        ]
+    }
+]

@@ -1,0 +1,777 @@
+[
+    {
+        "league": "DFB Pokal",
+        "type": "cup",
+        "season": "25/26",
+        "rounds": [
+            {
+                "name": "Preliminary Round",
+                "matches": [
+                    {
+                        "home": "FC Köln",
+                        "away": "FC Heidenheim 1846",
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/1.svg",
+                        "awayLogo": "https://crests.football-data.org/44.svg"
+                    },
+                    {
+                        "home": "FC Augsburg",
+                        "away": "FC St. Pauli",
+                        "homeScore": 2,
+                        "awayScore": 2,
+                        "note": "Augsburg wins on penalties",
+                        "homeLogo": "https://crests.football-data.org/16.svg",
+                        "awayLogo": "https://crests.football-data.org/20.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Round of 16",
+                "matches": [
+                    {
+                        "home": "Borussia Dortmund",
+                        "away": "Hamburger SV",
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/4.svg",
+                        "awayLogo": "https://crests.football-data.org/6.svg"
+                    },
+                    {
+                        "home": "SV Werder Bremen",
+                        "away": "Eintracht Frankfurt",
+                        "homeScore": 3,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/12.svg",
+                        "awayLogo": "https://crests.football-data.org/19.svg"
+                    },
+                    {
+                        "home": "Bayern München",
+                        "away": "FC Köln",
+                        "homeScore": 4,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/5.svg",
+                        "awayLogo": "https://crests.football-data.org/1.svg"
+                    },
+                    {
+                        "home": "VfB Stuttgart",
+                        "away": "TSG 1899 Hoffenheim",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/10.svg",
+                        "awayLogo": "https://crests.football-data.org/2.svg"
+                    },
+                    {
+                        "home": "RB Leipzig",
+                        "away": "FSV Mainz 05",
+                        "homeScore": 3,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/721.svg",
+                        "awayLogo": "https://crests.football-data.org/15.svg"
+                    },
+                    {
+                        "home": "FC Union Berlin",
+                        "away": "VfL Wolfsburg",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/28.svg",
+                        "awayLogo": "https://crests.football-data.org/11.svg"
+                    },
+                    {
+                        "home": "Bayer 04 Leverkusen",
+                        "away": "FC Augsburg",
+                        "homeScore": 4,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/3.svg",
+                        "awayLogo": "https://crests.football-data.org/16.svg"
+                    },
+                    {
+                        "home": "SC Freiburg",
+                        "away": "Borussia Mönchengladbach",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/17.svg",
+                        "awayLogo": "https://crests.football-data.org/18.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Quarter-Finals",
+                "matches": [
+                    {
+                        "home": "SV Werder Bremen",
+                        "away": "Borussia Dortmund",
+                        "homeScore": 3,
+                        "awayScore": 3,
+                        "note": "Werder Bremen wins on penalties",
+                        "homeLogo": "https://crests.football-data.org/12.svg",
+                        "awayLogo": "https://crests.football-data.org/4.svg"
+                    },
+                    {
+                        "home": "Bayern München",
+                        "away": "VfB Stuttgart",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/5.svg",
+                        "awayLogo": "https://crests.football-data.org/10.svg"
+                    },
+                    {
+                        "home": "FC Union Berlin",
+                        "away": "RB Leipzig",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/28.svg",
+                        "awayLogo": "https://crests.football-data.org/721.svg"
+                    },
+                    {
+                        "home": "SC Freiburg",
+                        "away": "Bayer 04 Leverkusen",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/17.svg",
+                        "awayLogo": "https://crests.football-data.org/3.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Semi-Finals",
+                "matches": [
+                    {
+                        "home": "Bayern München",
+                        "away": "SV Werder Bremen",
+                        "homeScore": 3,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/5.svg",
+                        "awayLogo": "https://crests.football-data.org/12.svg"
+                    },
+                    {
+                        "home": "FC Union Berlin",
+                        "away": "SC Freiburg",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/28.svg",
+                        "awayLogo": "https://crests.football-data.org/17.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Final",
+                "matches": [
+                    {
+                        "home": "Bayern München",
+                        "away": "FC Union Berlin",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/5.svg",
+                        "awayLogo": "https://crests.football-data.org/28.svg"
+                    }
+                ]
+            }
+        ],
+        "top_scorers": [
+            {
+                "rank": 1,
+                "player": "Victor Boniface",
+                "team": "SV Werder Bremen",
+                "goals": 5,
+                "team_logo": "https://crests.football-data.org/12.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Harry Kane",
+                "team": "Bayern München",
+                "goals": 4,
+                "team_logo": "https://crests.football-data.org/5.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Patrik Schick",
+                "team": "Bayer 04 Leverkusen",
+                "goals": 3,
+                "team_logo": "https://crests.football-data.org/3.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Anton Kade",
+                "team": "FC Augsburg",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/16.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Serhou Guirassy",
+                "team": "Borussia Dortmund",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/4.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Konrad Laimer",
+                "team": "Bayern München",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/5.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Denis Huseinbašić",
+                "team": "FC Köln",
+                "goals": 1,
+                "team_logo": "https://crests.football-data.org/1.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Florian Kainz",
+                "team": "FC Köln",
+                "goals": 1,
+                "team_logo": "https://crests.football-data.org/1.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Fabian Rieder",
+                "team": "FC Augsburg",
+                "goals": 1,
+                "team_logo": "https://crests.football-data.org/16.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Phillip Tietz",
+                "team": "FC Augsburg",
+                "goals": 1,
+                "team_logo": "https://crests.football-data.org/16.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Abdoulie Ceesay",
+                "team": "FC St. Pauli",
+                "goals": 1,
+                "team_logo": "https://crests.football-data.org/20.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Andréas Hountondji",
+                "team": "FC St. Pauli",
+                "goals": 1,
+                "team_logo": "https://crests.football-data.org/20.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Marcel Sabitzer",
+                "team": "Borussia Dortmund",
+                "goals": 1,
+                "team_logo": "https://crests.football-data.org/4.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Karim Adeyemi",
+                "team": "Borussia Dortmund",
+                "goals": 1,
+                "team_logo": "https://crests.football-data.org/4.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Isak Hansen-Aarøen",
+                "team": "SV Werder Bremen",
+                "goals": 1,
+                "team_logo": "https://crests.football-data.org/12.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Ritsu Doan",
+                "team": "Eintracht Frankfurt",
+                "goals": 1,
+                "team_logo": "https://crests.football-data.org/19.svg"
+            }
+        ],
+        "top_assists": [
+            {
+                "rank": 1,
+                "player": "Senne Lynen",
+                "team": "SV Werder Bremen",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/12.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Joshua Kimmich",
+                "team": "Bayern München",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/5.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Julian Brandt",
+                "team": "Borussia Dortmund",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/4.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Malik Tillman",
+                "team": "Bayer 04 Leverkusen",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/3.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Elvis Rexhbeçaj",
+                "team": "FC Augsburg",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/16.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Robin Fellhauer",
+                "team": "FC Augsburg",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/16.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Kristijan Jakić",
+                "team": "FC Augsburg",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/16.svg"
+            },
+            {
+                "rank": 6,
+                "player": "James Sands",
+                "team": "FC St. Pauli",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/20.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Jobe Bellingham",
+                "team": "Borussia Dortmund",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/4.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Cameron Puertas",
+                "team": "SV Werder Bremen",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/12.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Eric Martel",
+                "team": "FC Köln",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/1.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Angelo Stiller",
+                "team": "VfB Stuttgart",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/10.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Ezechiel Banzuzi",
+                "team": "RB Leipzig",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/721.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Paul Nebel",
+                "team": "FSV Mainz 05",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/15.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Robert Skov",
+                "team": "FC Union Berlin",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/28.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Exequiel Palacios",
+                "team": "Bayer 04 Leverkusen",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/3.svg"
+            }
+        ]
+    },
+    {
+        "league": "DFB Pokal",
+        "type": "cup",
+        "season": "26/27",
+        "rounds": [
+            {
+                "name": "Round of 16",
+                "matches": [
+                    {
+                        "home": "Eintracht Frankfurt",
+                        "away": "FSV Mainz 05",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/19.svg",
+                        "awayLogo": "https://crests.football-data.org/15.svg"
+                    },
+                    {
+                        "home": "SC Freiburg",
+                        "away": "FC Union Berlin",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/17.svg",
+                        "awayLogo": "https://crests.football-data.org/28.svg"
+                    },
+                    {
+                        "home": "Bayern München",
+                        "away": "FC Augsburg",
+                        "homeScore": 3,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/5.svg",
+                        "awayLogo": "https://crests.football-data.org/16.svg"
+                    },
+                    {
+                        "home": "FC St. Pauli",
+                        "away": "VfL Wolfsburg",
+                        "homeScore": 4,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/20.svg",
+                        "awayLogo": "https://crests.football-data.org/11.svg"
+                    },
+                    {
+                        "home": "RB Leipzig",
+                        "away": "Hamburger SV",
+                        "homeScore": 0,
+                        "awayScore": 3,
+                        "homeLogo": "https://crests.football-data.org/721.svg",
+                        "awayLogo": "https://crests.football-data.org/6.svg"
+                    },
+                    {
+                        "home": "SV Werder Bremen",
+                        "away": "Borussia Dortmund",
+                        "homeScore": 2,
+                        "awayScore": 2,
+                        "note": "Werder Bremen wins on penalties",
+                        "homeLogo": "https://crests.football-data.org/12.svg",
+                        "awayLogo": "https://crests.football-data.org/4.svg"
+                    },
+                    {
+                        "home": "Bayer 04 Leverkusen",
+                        "away": "FC Köln",
+                        "homeScore": 4,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/3.svg",
+                        "awayLogo": "https://crests.football-data.org/1.svg"
+                    },
+                    {
+                        "home": "Borussia Mönchengladbach",
+                        "away": "VfB Stuttgart",
+                        "homeScore": 3,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/18.svg",
+                        "awayLogo": "https://crests.football-data.org/10.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Quarter-Finals",
+                "matches": [
+                    {
+                        "home": "Eintracht Frankfurt",
+                        "away": "SC Freiburg",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/19.svg",
+                        "awayLogo": "https://crests.football-data.org/17.svg"
+                    },
+                    {
+                        "home": "Bayern München",
+                        "away": "FC St. Pauli",
+                        "homeScore": 4,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/5.svg",
+                        "awayLogo": "https://crests.football-data.org/20.svg"
+                    },
+                    {
+                        "home": "Hamburger SV",
+                        "away": "SV Werder Bremen",
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/6.svg",
+                        "awayLogo": "https://crests.football-data.org/12.svg"
+                    },
+                    {
+                        "home": "Bayer 04 Leverkusen",
+                        "away": "Borussia Mönchengladbach",
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/3.svg",
+                        "awayLogo": "https://crests.football-data.org/18.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Semi-Finals",
+                "matches": [
+                    {
+                        "home": "Eintracht Frankfurt",
+                        "away": "Bayern München",
+                        "homeScore": 0,
+                        "awayScore": 3,
+                        "homeLogo": "https://crests.football-data.org/19.svg",
+                        "awayLogo": "https://crests.football-data.org/5.svg"
+                    },
+                    {
+                        "home": "SV Werder Bremen",
+                        "away": "Bayer 04 Leverkusen",
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/12.svg",
+                        "awayLogo": "https://crests.football-data.org/3.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Final",
+                "matches": [
+                    {
+                        "home": "Bayern München",
+                        "away": "Bayer 04 Leverkusen",
+                        "homeScore": 2,
+                        "awayScore": 2,
+                        "note": "Bayern München wins on penalties",
+                        "homeLogo": "https://crests.football-data.org/5.svg",
+                        "awayLogo": "https://crests.football-data.org/3.svg"
+                    }
+                ]
+            }
+        ],
+        "top_scorers": [
+            {
+                "rank": 1,
+                "player": "Harry Kane",
+                "team": "Bayern München",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/5.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Malik Tillman",
+                "team": "Bayer 04 Leverkusen",
+                "goals": 3,
+                "team_logo": "https://crests.football-data.org/3.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Jens Stage",
+                "team": "SV Werder Bremen",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/12.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Martin Terrier",
+                "team": "Bayer 04 Leverkusen",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/3.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Shuto Machino",
+                "team": "Borussia Mönchengladbach",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/18.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Ibrahim Maza",
+                "team": "Bayer 04 Leverkusen",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/3.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Joel Chima Fujita",
+                "team": "FC St. Pauli",
+                "goals": 1,
+                "team_logo": "https://crests.football-data.org/20.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Erik Ahlstrand",
+                "team": "FC St. Pauli",
+                "goals": 1,
+                "team_logo": "https://crests.football-data.org/20.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Andréas Hountondji",
+                "team": "FC St. Pauli",
+                "goals": 1,
+                "team_logo": "https://crests.football-data.org/20.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Abdoulie Ceesay",
+                "team": "FC St. Pauli",
+                "goals": 1,
+                "team_logo": "https://crests.football-data.org/20.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Ísak Jóhannesson",
+                "team": "FC Köln",
+                "goals": 1,
+                "team_logo": "https://crests.football-data.org/1.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Florian Kainz",
+                "team": "FC Köln",
+                "goals": 1,
+                "team_logo": "https://crests.football-data.org/1.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Farès Chaïbi",
+                "team": "Eintracht Frankfurt",
+                "goals": 1,
+                "team_logo": "https://crests.football-data.org/19.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Eren Dinkçi",
+                "team": "SC Freiburg",
+                "goals": 1,
+                "team_logo": "https://crests.football-data.org/17.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Serge Gnabry",
+                "team": "Bayern München",
+                "goals": 1,
+                "team_logo": "https://crests.football-data.org/5.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Jesper Lindstrøm",
+                "team": "VfL Wolfsburg",
+                "goals": 1,
+                "team_logo": "https://crests.football-data.org/11.svg"
+            }
+        ],
+        "top_assists": [
+            {
+                "rank": 1,
+                "player": "Aleksandar Pavlović",
+                "team": "Bayern München",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/5.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Aleix García",
+                "team": "Bayer 04 Leverkusen",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/3.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Eric Martel",
+                "team": "FC Köln",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/1.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Fábio Vieira",
+                "team": "Hamburger SV",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/6.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Yan Couto",
+                "team": "Borussia Dortmund",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/4.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Martin Terrier",
+                "team": "Bayer 04 Leverkusen",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/3.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Emir Sahiti",
+                "team": "Hamburger SV",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/6.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Jens Stage",
+                "team": "SV Werder Bremen",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/12.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Samuel Mbangula",
+                "team": "SV Werder Bremen",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/12.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Marius Bülter",
+                "team": "FC Köln",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/1.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Philipp Sander",
+                "team": "Borussia Mönchengladbach",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/18.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Wael Mohya",
+                "team": "Borussia Mönchengladbach",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/18.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Senne Lynen",
+                "team": "SV Werder Bremen",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/12.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Can Uzun",
+                "team": "Eintracht Frankfurt",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/19.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Jean Bahoya",
+                "team": "Eintracht Frankfurt",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/19.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Exequiel Palacios",
+                "team": "Bayer 04 Leverkusen",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/3.svg"
+            }
+        ]
+    }
+]

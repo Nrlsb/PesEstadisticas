@@ -1,0 +1,1025 @@
+[
+    {
+        "league": "Coupe de France",
+        "type": "cup",
+        "season": "25/26",
+        "rounds": [
+            {
+                "name": "Round of 32",
+                "matches": [
+                    {
+                        "home": "Olympique Marseille",
+                        "away": "SC Bastia",
+                        "homeScore": 0,
+                        "awayScore": 4,
+                        "homeLogo": "https://crests.football-data.org/523.svg",
+                        "awayLogo": "https://crests.football-data.org/538.svg"
+                    },
+                    {
+                        "home": "Angers SCO",
+                        "away": "Toulouse FC",
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/532.svg",
+                        "awayLogo": "https://crests.football-data.org/511.svg"
+                    },
+                    {
+                        "home": "FC Nantes",
+                        "away": "FC Sochaux-Montbéliard",
+                        "homeScore": 4,
+                        "awayScore": 4,
+                        "note": "Nantes wins on penalties",
+                        "homeLogo": "https://crests.football-data.org/543.svg",
+                        "awayLogo": "https://crests.football-data.org/519.svg"
+                    },
+                    {
+                        "home": "US Boulogne",
+                        "away": "Olympique Lyonnais",
+                        "homeScore": 3,
+                        "awayScore": 4,
+                        "homeLogo": "https://crests.football-data.org/7011.svg",
+                        "awayLogo": "https://crests.football-data.org/528.svg"
+                    },
+                    {
+                        "home": "RC Lens",
+                        "away": "Le Mans FC",
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/546.svg",
+                        "awayLogo": "https://crests.football-data.org/7013.svg"
+                    },
+                    {
+                        "home": "Amiens SC",
+                        "away": "Paris FC",
+                        "homeScore": 3,
+                        "awayScore": 3,
+                        "note": "Paris FC wins on penalties",
+                        "homeLogo": "https://crests.football-data.org/530.svg",
+                        "awayLogo": "https://crests.football-data.org/648.svg"
+                    },
+                    {
+                        "home": "FC Metz",
+                        "away": "AS Saint-Étienne",
+                        "homeScore": 1,
+                        "awayScore": 4,
+                        "homeLogo": "https://crests.football-data.org/545.svg",
+                        "awayLogo": "https://crests.football-data.org/527.svg"
+                    },
+                    {
+                        "home": "Rodez AF",
+                        "away": "AS Monaco",
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "homeLogo": "https://crests.football-data.org/7010.svg",
+                        "awayLogo": "https://crests.football-data.org/548.svg"
+                    },
+                    {
+                        "home": "LOSC Lille",
+                        "away": "Stade Malherbe Caen",
+                        "homeScore": 4,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/521.svg",
+                        "awayLogo": "https://crests.football-data.org/514.svg"
+                    },
+                    {
+                        "home": "AJ Auxerre",
+                        "away": "FC Lorient",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/518.svg",
+                        "awayLogo": "https://crests.football-data.org/525.svg"
+                    },
+                    {
+                        "home": "Stade Brestois",
+                        "away": "Clermont Foot",
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/512.svg",
+                        "awayLogo": "https://crests.football-data.org/540.svg"
+                    },
+                    {
+                        "home": "Pau FC",
+                        "away": "Stade Rennais FC",
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "note": "Pau wins on penalties",
+                        "homeLogo": "https://crests.football-data.org/7021.svg",
+                        "awayLogo": "https://crests.football-data.org/529.svg"
+                    },
+                    {
+                        "home": "OGC Nice",
+                        "away": "ESTAC Troyes",
+                        "homeScore": 4,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/522.svg",
+                        "awayLogo": "https://crests.football-data.org/531.svg"
+                    },
+                    {
+                        "home": "Montpellier HSC",
+                        "away": "RC Strasbourg Alsace",
+                        "homeScore": 3,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/515.svg",
+                        "awayLogo": "https://crests.football-data.org/576.svg"
+                    },
+                    {
+                        "home": "Stade de Reims",
+                        "away": "AC Le Havre",
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "note": "Le Havre wins on penalties",
+                        "homeLogo": "https://crests.football-data.org/516.svg",
+                        "awayLogo": "https://crests.football-data.org/534.svg"
+                    },
+                    {
+                        "home": "AS Nancy Lorraine",
+                        "away": "Paris Saint-Germain",
+                        "homeScore": 1,
+                        "awayScore": 5,
+                        "homeLogo": "https://crests.football-data.org/537.svg",
+                        "awayLogo": "https://crests.football-data.org/524.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Round of 16",
+                "matches": [
+                    {
+                        "home": "SC Bastia",
+                        "away": "Toulouse FC",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/538.svg",
+                        "awayLogo": "https://crests.football-data.org/511.svg"
+                    },
+                    {
+                        "home": "FC Nantes",
+                        "away": "Olympique Lyonnais",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/543.svg",
+                        "awayLogo": "https://crests.football-data.org/528.svg"
+                    },
+                    {
+                        "home": "RC Lens",
+                        "away": "Paris FC",
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/546.svg",
+                        "awayLogo": "https://crests.football-data.org/648.svg"
+                    },
+                    {
+                        "home": "AS Saint-Étienne",
+                        "away": "AS Monaco",
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/527.svg",
+                        "awayLogo": "https://crests.football-data.org/548.svg"
+                    },
+                    {
+                        "home": "LOSC Lille",
+                        "away": "AJ Auxerre",
+                        "homeScore": 4,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/521.svg",
+                        "awayLogo": "https://crests.football-data.org/518.svg"
+                    },
+                    {
+                        "home": "Stade Brestois",
+                        "away": "Pau FC",
+                        "homeScore": 0,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/512.svg",
+                        "awayLogo": "https://crests.football-data.org/7021.svg"
+                    },
+                    {
+                        "home": "OGC Nice",
+                        "away": "Montpellier HSC",
+                        "homeScore": 4,
+                        "awayScore": 3,
+                        "homeLogo": "https://crests.football-data.org/522.svg",
+                        "awayLogo": "https://crests.football-data.org/515.svg"
+                    },
+                    {
+                        "home": "AC Le Havre",
+                        "away": "Paris Saint-Germain",
+                        "homeScore": 1,
+                        "awayScore": 4,
+                        "homeLogo": "https://crests.football-data.org/534.svg",
+                        "awayLogo": "https://crests.football-data.org/524.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Quarter-Finals",
+                "matches": [
+                    {
+                        "home": "SC Bastia",
+                        "away": "FC Nantes",
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/538.svg",
+                        "awayLogo": "https://crests.football-data.org/543.svg"
+                    },
+                    {
+                        "home": "RC Lens",
+                        "away": "AS Monaco",
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/546.svg",
+                        "awayLogo": "https://crests.football-data.org/548.svg"
+                    },
+                    {
+                        "home": "LOSC Lille",
+                        "away": "Pau FC",
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/521.svg",
+                        "awayLogo": "https://crests.football-data.org/7021.svg"
+                    },
+                    {
+                        "home": "OGC Nice",
+                        "away": "Paris Saint-Germain",
+                        "homeScore": 2,
+                        "awayScore": 4,
+                        "homeLogo": "https://crests.football-data.org/522.svg",
+                        "awayLogo": "https://crests.football-data.org/524.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Semi-Finals",
+                "matches": [
+                    {
+                        "home": "FC Nantes",
+                        "away": "AS Monaco",
+                        "homeScore": 1,
+                        "awayScore": 2,
+                        "homeLogo": "https://crests.football-data.org/543.svg",
+                        "awayLogo": "https://crests.football-data.org/548.svg"
+                    },
+                    {
+                        "home": "Pau FC",
+                        "away": "Paris Saint-Germain",
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/7021.svg",
+                        "awayLogo": "https://crests.football-data.org/524.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Final",
+                "matches": [
+                    {
+                        "home": "AS Monaco",
+                        "away": "Paris Saint-Germain",
+                        "homeScore": 2,
+                        "awayScore": 3,
+                        "homeLogo": "https://crests.football-data.org/548.svg",
+                        "awayLogo": "https://crests.football-data.org/524.svg"
+                    }
+                ]
+            }
+        ],
+        "top_scorers": [
+            {
+                "rank": 1,
+                "player": "Bradley Barcola",
+                "team": "Paris Saint-Germain",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Terem Moffi",
+                "team": "OGC Nice",
+                "goals": 5,
+                "team_logo": "https://crests.football-data.org/522.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Jan Mlakar",
+                "team": "Amiens SC",
+                "goals": 4,
+                "team_logo": "https://crests.football-data.org/530.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Omar Sissoko",
+                "team": "Pau FC",
+                "goals": 3,
+                "team_logo": "https://crests.football-data.org/7021.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Zakaria Ztouti",
+                "team": "AS Nancy Lorraine",
+                "goals": 3,
+                "team_logo": "https://crests.football-data.org/537.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Corentin Jean",
+                "team": "FC Sochaux-Montbéliard",
+                "goals": 3,
+                "team_logo": "https://crests.football-data.org/519.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Lucas Stassin",
+                "team": "AS Saint-Étienne",
+                "goals": 3,
+                "team_logo": "https://crests.football-data.org/527.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Olivier Giroud",
+                "team": "LOSC Lille",
+                "goals": 3,
+                "team_logo": "https://crests.football-data.org/521.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Ousmane Dembélé",
+                "team": "Paris Saint-Germain",
+                "goals": 3,
+                "team_logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Alexandre Bi Zaouai",
+                "team": "SC Bastia",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/538.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Zanga Koné",
+                "team": "US Boulogne",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/7011.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Jérémy Sebas",
+                "team": "SC Bastia",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/538.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Mayckel Lahdo",
+                "team": "FC Nantes",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/543.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Martín Satriano",
+                "team": "Olympique Lyonnais",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/528.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Moses Simon",
+                "team": "Paris FC",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/648.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Paul Pogba",
+                "team": "AS Monaco",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/548.svg"
+            }
+        ],
+        "top_assists": [
+            {
+                "rank": 1,
+                "player": "Julien Masson",
+                "team": "FC Sochaux-Montbéliard",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/519.svg"
+            },
+            {
+                "rank": 1,
+                "player": "Maxime Lopez",
+                "team": "Paris FC",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/648.svg"
+            },
+            {
+                "rank": 1,
+                "player": "Aimen Moueffek",
+                "team": "AS Saint-Étienne",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/527.svg"
+            },
+            {
+                "rank": 1,
+                "player": "Y. Ndayishimiye",
+                "team": "OGC Nice",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/522.svg"
+            },
+            {
+                "rank": 1,
+                "player": "W. Zaïre-Emery",
+                "team": "Paris Saint-Germain",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Tom Ducrocq",
+                "team": "SC Bastia",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/538.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Johann Lepenant",
+                "team": "FC Nantes",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/543.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Victor Lobry",
+                "team": "Amiens SC",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/530.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Nabil Bentaleb",
+                "team": "LOSC Lille",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/521.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Lee Kang-In",
+                "team": "Paris Saint-Germain",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Caio Henrique",
+                "team": "AS Monaco",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/548.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Désiré Doué",
+                "team": "Paris Saint-Germain",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 6,
+                "player": "João Neves",
+                "team": "Paris Saint-Germain",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 14,
+                "player": "Jonas Martin",
+                "team": "US Boulogne",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/7011.svg"
+            },
+            {
+                "rank": 14,
+                "player": "Edwin Quarshie",
+                "team": "Le Mans FC",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/7013.svg"
+            },
+            {
+                "rank": 14,
+                "player": "Lorenzo Rajot",
+                "team": "Stade Malherbe Caen",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/514.svg"
+            }
+        ]
+    },
+    {
+        "league": "Coupe de France",
+        "type": "cup",
+        "season": "26/27",
+        "rounds": [
+            {
+                "name": "Round of 32",
+                "matches": [
+                    {
+                        "home": "Paris Saint-Germain",
+                        "away": "SC Bastia",
+                        "homeScore": 4,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/524.svg",
+                        "awayLogo": "https://crests.football-data.org/538.svg"
+                    },
+                    {
+                        "home": "Angers SCO",
+                        "away": "AS Saint-Étienne",
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "homeLogo": "https://crests.football-data.org/532.svg",
+                        "awayLogo": "https://crests.football-data.org/527.svg"
+                    },
+                    {
+                        "home": "Paris FC",
+                        "away": "Stade Lavallois",
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/648.svg",
+                        "awayLogo": "https://crests.football-data.org/4486.svg"
+                    },
+                    {
+                        "home": "ESTAC Troyes",
+                        "away": "OGC Nice",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/531.svg",
+                        "awayLogo": "https://crests.football-data.org/522.svg"
+                    },
+                    {
+                        "home": "Olympique Lyonnais",
+                        "away": "Le Mans FC",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/528.svg",
+                        "awayLogo": "https://crests.football-data.org/7013.svg"
+                    },
+                    {
+                        "home": "Clermont Foot",
+                        "away": "RC Lens",
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/540.svg",
+                        "awayLogo": "https://crests.football-data.org/546.svg"
+                    },
+                    {
+                        "home": "FC Nantes",
+                        "away": "AC Le Havre",
+                        "homeScore": 4,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/543.svg",
+                        "awayLogo": "https://crests.football-data.org/534.svg"
+                    },
+                    {
+                        "home": "FC Annecy",
+                        "away": "LOSC Lille",
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/7014.svg",
+                        "awayLogo": "https://crests.football-data.org/521.svg"
+                    },
+                    {
+                        "home": "AS Monaco",
+                        "away": "Rodez AF",
+                        "homeScore": 1,
+                        "awayScore": 4,
+                        "homeLogo": "https://crests.football-data.org/548.svg",
+                        "awayLogo": "https://crests.football-data.org/7010.svg"
+                    },
+                    {
+                        "home": "AJ Auxerre",
+                        "away": "Toulouse FC",
+                        "homeScore": 2,
+                        "awayScore": 4,
+                        "homeLogo": "https://crests.football-data.org/518.svg",
+                        "awayLogo": "https://crests.football-data.org/511.svg"
+                    },
+                    {
+                        "home": "Stade de Reims",
+                        "away": "Montpellier HSC",
+                        "homeScore": 4,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/516.svg",
+                        "awayLogo": "https://crests.football-data.org/515.svg"
+                    },
+                    {
+                        "home": "US Boulogne",
+                        "away": "Stade Brestois",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/7011.svg",
+                        "awayLogo": "https://crests.football-data.org/512.svg"
+                    },
+                    {
+                        "home": "Stade Rennais FC",
+                        "away": "Red Star FC",
+                        "homeScore": 0,
+                        "awayScore": 0,
+                        "note": "Unknown winner, inferred next round Sochaux vs (Winner)",
+                        "homeLogo": "https://crests.football-data.org/529.svg",
+                        "awayLogo": "https://crests.football-data.org/7012.svg"
+                    },
+                    {
+                        "home": "FC Sochaux-Montbéliard",
+                        "away": "RC Strasbourg Alsace",
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/519.svg",
+                        "awayLogo": "https://crests.football-data.org/576.svg"
+                    },
+                    {
+                        "home": "FC Lorient",
+                        "away": "FC Metz",
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "homeLogo": "https://crests.football-data.org/525.svg",
+                        "awayLogo": "https://crests.football-data.org/545.svg"
+                    },
+                    {
+                        "home": "Stade Malherbe Caen",
+                        "away": "Olympique Marseille",
+                        "homeScore": 2,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/514.svg",
+                        "awayLogo": "https://crests.football-data.org/523.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Round of 16",
+                "matches": [
+                    {
+                        "home": "Paris Saint-Germain",
+                        "away": "AS Saint-Étienne",
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/524.svg",
+                        "awayLogo": "https://crests.football-data.org/527.svg"
+                    },
+                    {
+                        "home": "Paris FC",
+                        "away": "ESTAC Troyes",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/648.svg",
+                        "awayLogo": "https://crests.football-data.org/531.svg"
+                    },
+                    {
+                        "home": "Olympique Lyonnais",
+                        "away": "RC Lens",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/528.svg",
+                        "awayLogo": "https://crests.football-data.org/546.svg"
+                    },
+                    {
+                        "home": "FC Nantes",
+                        "away": "LOSC Lille",
+                        "homeScore": 1,
+                        "awayScore": 1,
+                        "note": "Nantes wins on penalties (inferred)",
+                        "homeLogo": "https://crests.football-data.org/543.svg",
+                        "awayLogo": "https://crests.football-data.org/521.svg"
+                    },
+                    {
+                        "home": "Rodez AF",
+                        "away": "Toulouse FC",
+                        "homeScore": 2,
+                        "awayScore": 4,
+                        "homeLogo": "https://crests.football-data.org/7010.svg",
+                        "awayLogo": "https://crests.football-data.org/511.svg"
+                    },
+                    {
+                        "home": "Stade de Reims",
+                        "away": "US Boulogne",
+                        "homeScore": 4,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/516.svg",
+                        "awayLogo": "https://crests.football-data.org/7011.svg"
+                    },
+                    {
+                        "home": "FC Sochaux-Montbéliard",
+                        "away": "Red Star FC",
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "note": "Opponent inferred, Sochaux wins",
+                        "homeLogo": "https://crests.football-data.org/519.svg",
+                        "awayLogo": "https://crests.football-data.org/7012.svg"
+                    },
+                    {
+                        "home": "FC Metz",
+                        "away": "Stade Malherbe Caen",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/545.svg",
+                        "awayLogo": "https://crests.football-data.org/514.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Quarter-Finals",
+                "matches": [
+                    {
+                        "home": "Paris Saint-Germain",
+                        "away": "Paris FC",
+                        "homeScore": 4,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/524.svg",
+                        "awayLogo": "https://crests.football-data.org/648.svg"
+                    },
+                    {
+                        "home": "Olympique Lyonnais",
+                        "away": "FC Nantes",
+                        "homeScore": 3,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/528.svg",
+                        "awayLogo": "https://crests.football-data.org/543.svg"
+                    },
+                    {
+                        "home": "Toulouse FC",
+                        "away": "Stade de Reims",
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/511.svg",
+                        "awayLogo": "https://crests.football-data.org/516.svg"
+                    },
+                    {
+                        "home": "FC Sochaux-Montbéliard",
+                        "away": "FC Metz",
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/519.svg",
+                        "awayLogo": "https://crests.football-data.org/545.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Semi-Finals",
+                "matches": [
+                    {
+                        "home": "Paris Saint-Germain",
+                        "away": "Olympique Lyonnais",
+                        "homeScore": 3,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/524.svg",
+                        "awayLogo": "https://crests.football-data.org/528.svg"
+                    },
+                    {
+                        "home": "Stade de Reims",
+                        "away": "FC Metz",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/516.svg",
+                        "awayLogo": "https://crests.football-data.org/545.svg"
+                    }
+                ]
+            },
+            {
+                "name": "Final",
+                "matches": [
+                    {
+                        "home": "Paris Saint-Germain",
+                        "away": "Stade de Reims",
+                        "homeScore": 4,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/524.svg",
+                        "awayLogo": "https://crests.football-data.org/516.svg"
+                    }
+                ]
+            }
+        ],
+        "top_scorers": [
+            {
+                "rank": 1,
+                "player": "Ousmane Dembélé",
+                "team": "Paris Saint-Germain",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 2,
+                "player": "K. Kvaratskhelia",
+                "team": "Paris Saint-Germain",
+                "goals": 4,
+                "team_logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Keito Nakamura",
+                "team": "Stade de Reims",
+                "goals": 4,
+                "team_logo": "https://crests.football-data.org/516.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Habibou Diallo",
+                "team": "FC Metz",
+                "goals": 4,
+                "team_logo": "https://crests.football-data.org/545.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Hermann Tebily",
+                "team": "Rodez AF",
+                "goals": 3,
+                "team_logo": "https://crests.football-data.org/7010.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Ibrahima Baldé",
+                "team": "Rodez AF",
+                "goals": 3,
+                "team_logo": "https://crests.football-data.org/7010.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Kenny Nagera",
+                "team": "Rodez AF",
+                "goals": 3,
+                "team_logo": "https://crests.football-data.org/7010.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Gonçalo Ramos",
+                "team": "Paris Saint-Germain",
+                "goals": 3,
+                "team_logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Mohamed Daramy",
+                "team": "Stade de Reims",
+                "goals": 3,
+                "team_logo": "https://crests.football-data.org/516.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Ayman Aiki",
+                "team": "SC Bastia",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/538.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Ilyes Hamache",
+                "team": "Amiens SC",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/530.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Pierre Lees-Melou",
+                "team": "Paris FC",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/648.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Mayckel Lahdo",
+                "team": "FC Nantes",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/543.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Olivier Giroud",
+                "team": "LOSC Lille",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/521.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Aron Dønnum",
+                "team": "Toulouse FC",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/511.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Yann Gboho",
+                "team": "Toulouse FC",
+                "goals": 2,
+                "team_logo": "https://crests.football-data.org/511.svg"
+            }
+        ],
+        "top_assists": [
+            {
+                "rank": 1,
+                "player": "Fabián Ruiz",
+                "team": "Paris Saint-Germain",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Wilitty Younoussa",
+                "team": "Rodez AF",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/7010.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Vitinha",
+                "team": "Paris Saint-Germain",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Mario Sauer",
+                "team": "Toulouse FC",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/511.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Vincent Marchetti",
+                "team": "Paris FC",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/648.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Cristian Cásseres",
+                "team": "Toulouse FC",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/511.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Teddy Teuma",
+                "team": "Stade de Reims",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/516.svg"
+            },
+            {
+                "rank": 5,
+                "player": "John Patrick",
+                "team": "Stade de Reims",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/516.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Yohan Demoncy",
+                "team": "Stade de Reims",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/516.svg"
+            },
+            {
+                "rank": 5,
+                "player": "João Neves",
+                "team": "Paris Saint-Germain",
+                "assists": 2,
+                "team_logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 11,
+                "player": "Christophe Vincent",
+                "team": "SC Bastia",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/538.svg"
+            },
+            {
+                "rank": 11,
+                "player": "Merwan Ifnaoui",
+                "team": "ESTAC Troyes",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/531.svg"
+            },
+            {
+                "rank": 11,
+                "player": "Antonin Bobichon",
+                "team": "Pau FC",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/7021.svg"
+            },
+            {
+                "rank": 11,
+                "player": "Izhak Hammoudi",
+                "team": "Le Mans FC",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/7013.svg"
+            },
+            {
+                "rank": 11,
+                "player": "Joseph N'Duquidi",
+                "team": "Amiens SC",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/530.svg"
+            },
+            {
+                "rank": 11,
+                "player": "Paul Venot",
+                "team": "FC Annecy",
+                "assists": 1,
+                "team_logo": "https://crests.football-data.org/7014.svg"
+            }
+        ]
+    }
+]

@@ -1,0 +1,1878 @@
+[
+    {
+        "league": "Ligue 1",
+        "season": "25/26",
+        "round": "Mid-season",
+        "standings": [
+            {
+                "rank": 1,
+                "team": "Paris Saint-Germain",
+                "points": 45,
+                "matches_played": 16,
+                "wins": 15,
+                "draws": 0,
+                "losses": 1,
+                "goals_for": 29,
+                "goals_against": 5,
+                "goal_diff": 24,
+                "logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 2,
+                "team": "Olympique Marseille",
+                "points": 34,
+                "matches_played": 16,
+                "wins": 11,
+                "draws": 1,
+                "losses": 4,
+                "goals_for": 22,
+                "goals_against": 8,
+                "goal_diff": 14,
+                "logo": "https://crests.football-data.org/523.svg"
+            },
+            {
+                "rank": 3,
+                "team": "AS Monaco",
+                "points": 29,
+                "matches_played": 16,
+                "wins": 9,
+                "draws": 2,
+                "losses": 5,
+                "goals_for": 25,
+                "goals_against": 15,
+                "goal_diff": 10,
+                "logo": "https://crests.football-data.org/548.svg"
+            },
+            {
+                "rank": 4,
+                "team": "Stade Brestois",
+                "points": 25,
+                "matches_played": 16,
+                "wins": 7,
+                "draws": 4,
+                "losses": 5,
+                "goals_for": 25,
+                "goals_against": 19,
+                "goal_diff": 6,
+                "logo": "https://crests.football-data.org/512.svg"
+            },
+            {
+                "rank": 5,
+                "team": "Paris FC",
+                "points": 24,
+                "matches_played": 16,
+                "wins": 7,
+                "draws": 3,
+                "losses": 6,
+                "goals_for": 23,
+                "goals_against": 18,
+                "goal_diff": 5,
+                "logo": "https://crests.football-data.org/648.svg"
+            },
+            {
+                "rank": 6,
+                "team": "LOSC Lille",
+                "points": 24,
+                "matches_played": 16,
+                "wins": 7,
+                "draws": 3,
+                "losses": 6,
+                "goals_for": 25,
+                "goals_against": 24,
+                "goal_diff": 1,
+                "logo": "https://crests.football-data.org/521.svg"
+            },
+            {
+                "rank": 7,
+                "team": "OGC Nice",
+                "points": 23,
+                "matches_played": 16,
+                "wins": 6,
+                "draws": 5,
+                "losses": 5,
+                "goals_for": 21,
+                "goals_against": 20,
+                "goal_diff": 1,
+                "logo": "https://crests.football-data.org/522.svg"
+            },
+            {
+                "rank": 8,
+                "team": "Stade Rennais FC",
+                "points": 23,
+                "matches_played": 16,
+                "wins": 7,
+                "draws": 2,
+                "losses": 7,
+                "goals_for": 21,
+                "goals_against": 21,
+                "goal_diff": 0,
+                "logo": "https://crests.football-data.org/529.svg"
+            },
+            {
+                "rank": 9,
+                "team": "FC Nantes",
+                "points": 23,
+                "matches_played": 16,
+                "wins": 6,
+                "draws": 5,
+                "losses": 5,
+                "goals_for": 11,
+                "goals_against": 19,
+                "goal_diff": -8,
+                "logo": "https://crests.football-data.org/543.svg"
+            },
+            {
+                "rank": 10,
+                "team": "RC Strasbourg Alsace",
+                "points": 22,
+                "matches_played": 16,
+                "wins": 6,
+                "draws": 4,
+                "losses": 6,
+                "goals_for": 21,
+                "goals_against": 19,
+                "goal_diff": 2,
+                "logo": "https://crests.football-data.org/576.svg"
+            },
+            {
+                "rank": 11,
+                "team": "RC Lens",
+                "points": 22,
+                "matches_played": 16,
+                "wins": 6,
+                "draws": 4,
+                "losses": 6,
+                "goals_for": 24,
+                "goals_against": 23,
+                "goal_diff": 1,
+                "logo": "https://crests.football-data.org/546.svg"
+            },
+            {
+                "rank": 12,
+                "team": "AC Le Havre",
+                "points": 21,
+                "matches_played": 16,
+                "wins": 6,
+                "draws": 3,
+                "losses": 7,
+                "goals_for": 20,
+                "goals_against": 22,
+                "goal_diff": -2,
+                "logo": "https://crests.football-data.org/534.svg"
+            },
+            {
+                "rank": 13,
+                "team": "Olympique Lyonnais",
+                "points": 21,
+                "matches_played": 16,
+                "wins": 6,
+                "draws": 3,
+                "losses": 7,
+                "goals_for": 23,
+                "goals_against": 28,
+                "goal_diff": -5,
+                "logo": "https://crests.football-data.org/528.svg"
+            },
+            {
+                "rank": 14,
+                "team": "FC Metz",
+                "points": 17,
+                "matches_played": 16,
+                "wins": 5,
+                "draws": 2,
+                "losses": 9,
+                "goals_for": 13,
+                "goals_against": 17,
+                "goal_diff": -4,
+                "logo": "https://crests.football-data.org/545.svg"
+            },
+            {
+                "rank": 15,
+                "team": "AJ Auxerre",
+                "points": 16,
+                "matches_played": 16,
+                "wins": 4,
+                "draws": 4,
+                "losses": 8,
+                "goals_for": 16,
+                "goals_against": 27,
+                "goal_diff": -11,
+                "logo": "https://crests.football-data.org/518.svg"
+            },
+            {
+                "rank": 16,
+                "team": "FC Lorient",
+                "points": 13,
+                "matches_played": 16,
+                "wins": 4,
+                "draws": 1,
+                "losses": 11,
+                "goals_for": 14,
+                "goals_against": 22,
+                "goal_diff": -8,
+                "logo": "https://crests.football-data.org/525.svg"
+            },
+            {
+                "rank": 17,
+                "team": "Angers SCO",
+                "points": 13,
+                "matches_played": 16,
+                "wins": 4,
+                "draws": 1,
+                "losses": 11,
+                "goals_for": 8,
+                "goals_against": 21,
+                "goal_diff": -13,
+                "logo": "https://crests.football-data.org/532.svg"
+            },
+            {
+                "rank": 18,
+                "team": "Toulouse FC",
+                "points": 12,
+                "matches_played": 16,
+                "wins": 3,
+                "draws": 3,
+                "losses": 10,
+                "goals_for": 12,
+                "goals_against": 25,
+                "goal_diff": -13,
+                "logo": "https://crests.football-data.org/511.svg"
+            }
+        ],
+        "top_scorers": [
+            {
+                "rank": 1,
+                "player": "Terem Moffi",
+                "team": "OGC Nice",
+                "goals": 10,
+                "team_logo": "https://crests.football-data.org/522.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Ousmane Dembélé",
+                "team": "Paris Saint-Germain",
+                "goals": 9,
+                "team_logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Ludovic Ajorque",
+                "team": "Stade Brestois",
+                "goals": 9,
+                "team_logo": "https://crests.football-data.org/512.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Jean Krasso",
+                "team": "Paris FC",
+                "goals": 9,
+                "team_logo": "https://crests.football-data.org/648.svg"
+            },
+            {
+                "rank": 5,
+                "player": "K. Kvaratskhelia",
+                "team": "Paris Saint-Germain",
+                "goals": 8,
+                "team_logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Olivier Giroud",
+                "team": "LOSC Lille",
+                "goals": 8,
+                "team_logo": "https://crests.football-data.org/521.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Pierre Aubameyang",
+                "team": "Olympique Marseille",
+                "goals": 7,
+                "team_logo": "https://crests.football-data.org/523.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Joaquín Panichelli",
+                "team": "RC Strasbourg Alsace",
+                "goals": 7,
+                "team_logo": "https://crests.football-data.org/576.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Mbwana Samatta",
+                "team": "AC Le Havre",
+                "goals": 7,
+                "team_logo": "https://crests.football-data.org/534.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Félix Correia",
+                "team": "LOSC Lille",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/521.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Esteban Lepaul",
+                "team": "Stade Rennais FC",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/529.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Matthis Abline",
+                "team": "FC Nantes",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/543.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Abdallah Sima",
+                "team": "RC Lens",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/546.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Reda Khadra",
+                "team": "AC Le Havre",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/534.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Habibou Diallo",
+                "team": "FC Metz",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/545.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Kévin Danois",
+                "team": "AJ Auxerre",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/518.svg"
+            }
+        ],
+        "top_assists": [
+            {
+                "rank": 1,
+                "player": "Vitinha",
+                "team": "Paris Saint-Germain",
+                "assists": 8,
+                "team_logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Nabil Bentaleb",
+                "team": "LOSC Lille",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/521.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Geoffrey Kondogbia",
+                "team": "Olympique Marseille",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/523.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Benjamin Stambouli",
+                "team": "FC Metz",
+                "assists": 5,
+                "team_logo": "https://crests.football-data.org/545.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Lamine Camara",
+                "team": "AS Monaco",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/548.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Lucas Tousart",
+                "team": "Stade Brestois",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/512.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Valentin Rongier",
+                "team": "Stade Rennais FC",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/529.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Andrija Bulatović",
+                "team": "RC Lens",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/546.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Tyler Morton",
+                "team": "Olympique Lyonnais",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/528.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Fabián Ruiz",
+                "team": "Paris Saint-Germain",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Ilan Kebbal",
+                "team": "Paris FC",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/648.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Benjamin André",
+                "team": "LOSC Lille",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/521.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Kendry Páez",
+                "team": "RC Strasbourg Alsace",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/576.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Félix Lemaréchal",
+                "team": "RC Strasbourg Alsace",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/576.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Maxi Oyedele",
+                "team": "RC Strasbourg Alsace",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/576.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Fodé Sylla",
+                "team": "RC Lens",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/546.svg"
+            }
+        ]
+    },
+    {
+        "league": "Ligue 1",
+        "season": "25/26",
+        "round": "Final",
+        "standings": [
+            {
+                "rank": 1,
+                "team": "Paris Saint-Germain",
+                "points": 82,
+                "matches_played": 34,
+                "wins": 26,
+                "draws": 4,
+                "losses": 4,
+                "goals_for": 54,
+                "goals_against": 16,
+                "goal_diff": 38,
+                "logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 2,
+                "team": "Olympique Marseille",
+                "points": 75,
+                "matches_played": 34,
+                "wins": 24,
+                "draws": 3,
+                "losses": 7,
+                "goals_for": 50,
+                "goals_against": 15,
+                "goal_diff": 35,
+                "logo": "https://crests.football-data.org/523.svg"
+            },
+            {
+                "rank": 3,
+                "team": "Stade Brestois",
+                "points": 59,
+                "matches_played": 34,
+                "wins": 17,
+                "draws": 8,
+                "losses": 9,
+                "goals_for": 46,
+                "goals_against": 30,
+                "goal_diff": 16,
+                "logo": "https://crests.football-data.org/512.svg"
+            },
+            {
+                "rank": 4,
+                "team": "AS Monaco",
+                "points": 57,
+                "matches_played": 34,
+                "wins": 17,
+                "draws": 6,
+                "losses": 11,
+                "goals_for": 48,
+                "goals_against": 30,
+                "goal_diff": 18,
+                "logo": "https://crests.football-data.org/548.svg"
+            },
+            {
+                "rank": 5,
+                "team": "FC Nantes",
+                "points": 56,
+                "matches_played": 34,
+                "wins": 16,
+                "draws": 8,
+                "losses": 10,
+                "goals_for": 36,
+                "goals_against": 40,
+                "goal_diff": -4,
+                "logo": "https://crests.football-data.org/543.svg"
+            },
+            {
+                "rank": 6,
+                "team": "Olympique Lyonnais",
+                "points": 52,
+                "matches_played": 34,
+                "wins": 15,
+                "draws": 7,
+                "losses": 12,
+                "goals_for": 45,
+                "goals_against": 43,
+                "goal_diff": 2,
+                "logo": "https://crests.football-data.org/528.svg"
+            },
+            {
+                "rank": 7,
+                "team": "RC Lens",
+                "points": 50,
+                "matches_played": 34,
+                "wins": 14,
+                "draws": 8,
+                "losses": 12,
+                "goals_for": 45,
+                "goals_against": 41,
+                "goal_diff": 4,
+                "logo": "https://crests.football-data.org/546.svg"
+            },
+            {
+                "rank": 8,
+                "team": "RC Strasbourg Alsace",
+                "points": 50,
+                "matches_played": 34,
+                "wins": 14,
+                "draws": 8,
+                "losses": 12,
+                "goals_for": 44,
+                "goals_against": 44,
+                "goal_diff": 0,
+                "logo": "https://crests.football-data.org/576.svg"
+            },
+            {
+                "rank": 9,
+                "team": "Stade Rennais FC",
+                "points": 46,
+                "matches_played": 34,
+                "wins": 13,
+                "draws": 7,
+                "losses": 14,
+                "goals_for": 45,
+                "goals_against": 45,
+                "goal_diff": 0,
+                "logo": "https://crests.football-data.org/529.svg"
+            },
+            {
+                "rank": 10,
+                "team": "OGC Nice",
+                "points": 46,
+                "matches_played": 34,
+                "wins": 12,
+                "draws": 10,
+                "losses": 12,
+                "goals_for": 35,
+                "goals_against": 36,
+                "goal_diff": -1,
+                "logo": "https://crests.football-data.org/522.svg"
+            },
+            {
+                "rank": 11,
+                "team": "LOSC Lille",
+                "points": 40,
+                "matches_played": 34,
+                "wins": 12,
+                "draws": 4,
+                "losses": 18,
+                "goals_for": 42,
+                "goals_against": 58,
+                "goal_diff": -16,
+                "logo": "https://crests.football-data.org/521.svg"
+            },
+            {
+                "rank": 12,
+                "team": "AC Le Havre",
+                "points": 39,
+                "matches_played": 34,
+                "wins": 11,
+                "draws": 6,
+                "losses": 17,
+                "goals_for": 38,
+                "goals_against": 50,
+                "goal_diff": -12,
+                "logo": "https://crests.football-data.org/534.svg"
+            },
+            {
+                "rank": 13,
+                "team": "FC Lorient",
+                "points": 38,
+                "matches_played": 34,
+                "wins": 11,
+                "draws": 5,
+                "losses": 18,
+                "goals_for": 38,
+                "goals_against": 40,
+                "goal_diff": -2,
+                "logo": "https://crests.football-data.org/525.svg"
+            },
+            {
+                "rank": 14,
+                "team": "Angers SCO",
+                "points": 37,
+                "matches_played": 34,
+                "wins": 11,
+                "draws": 4,
+                "losses": 19,
+                "goals_for": 30,
+                "goals_against": 45,
+                "goal_diff": -15,
+                "logo": "https://crests.football-data.org/532.svg"
+            },
+            {
+                "rank": 15,
+                "team": "FC Metz",
+                "points": 36,
+                "matches_played": 34,
+                "wins": 10,
+                "draws": 6,
+                "losses": 18,
+                "goals_for": 33,
+                "goals_against": 39,
+                "goal_diff": -6,
+                "logo": "https://crests.football-data.org/545.svg"
+            },
+            {
+                "rank": 16,
+                "team": "Paris FC",
+                "points": 35,
+                "matches_played": 34,
+                "wins": 10,
+                "draws": 5,
+                "losses": 19,
+                "goals_for": 35,
+                "goals_against": 51,
+                "goal_diff": -16,
+                "logo": "https://crests.football-data.org/648.svg"
+            },
+            {
+                "rank": 17,
+                "team": "AJ Auxerre",
+                "points": 32,
+                "matches_played": 34,
+                "wins": 8,
+                "draws": 8,
+                "losses": 18,
+                "goals_for": 32,
+                "goals_against": 57,
+                "goal_diff": -25,
+                "logo": "https://crests.football-data.org/518.svg"
+            },
+            {
+                "rank": 18,
+                "team": "Toulouse FC",
+                "points": 31,
+                "matches_played": 34,
+                "wins": 8,
+                "draws": 7,
+                "losses": 19,
+                "goals_for": 31,
+                "goals_against": 47,
+                "goal_diff": -16,
+                "logo": "https://crests.football-data.org/511.svg"
+            }
+        ],
+        "top_scorers": [
+            {
+                "rank": 1,
+                "player": "Ludovic Ajorque",
+                "team": "Stade Brestois",
+                "goals": 16,
+                "team_logo": "https://crests.football-data.org/512.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Ousmane Dembélé",
+                "team": "Paris Saint-Germain",
+                "goals": 15,
+                "team_logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Joaquín Panichelli",
+                "team": "RC Strasbourg Alsace",
+                "goals": 14,
+                "team_logo": "https://crests.football-data.org/576.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Terem Moffi",
+                "team": "OGC Nice",
+                "goals": 14,
+                "team_logo": "https://crests.football-data.org/522.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Pierre Aubameyang",
+                "team": "Olympique Marseille",
+                "goals": 13,
+                "team_logo": "https://crests.football-data.org/523.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Mbwana Samatta",
+                "team": "AC Le Havre",
+                "goals": 13,
+                "team_logo": "https://crests.football-data.org/534.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Esteban Lepaul",
+                "team": "Stade Rennais FC",
+                "goals": 12,
+                "team_logo": "https://crests.football-data.org/529.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Mohamed Bamba",
+                "team": "FC Lorient",
+                "goals": 12,
+                "team_logo": "https://crests.football-data.org/525.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Igor Paixão",
+                "team": "Olympique Marseille",
+                "goals": 11,
+                "team_logo": "https://crests.football-data.org/523.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Folarin Balogun",
+                "team": "AS Monaco",
+                "goals": 11,
+                "team_logo": "https://crests.football-data.org/548.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Olivier Giroud",
+                "team": "LOSC Lille",
+                "goals": 11,
+                "team_logo": "https://crests.football-data.org/521.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Lanroy Machine",
+                "team": "Angers SCO",
+                "goals": 10,
+                "team_logo": "https://crests.football-data.org/532.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Habibou Diallo",
+                "team": "FC Metz",
+                "goals": 10,
+                "team_logo": "https://crests.football-data.org/545.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Jean Krasso",
+                "team": "Paris FC",
+                "goals": 10,
+                "team_logo": "https://crests.football-data.org/648.svg"
+            },
+            {
+                "rank": 15,
+                "player": "K. Kvaratskhelia",
+                "team": "Paris Saint-Germain",
+                "goals": 9,
+                "team_logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 15,
+                "player": "Martín Satriano",
+                "team": "Olympique Lyonnais",
+                "goals": 9,
+                "team_logo": "https://crests.football-data.org/528.svg"
+            }
+        ],
+        "top_assists": [
+            {
+                "rank": 1,
+                "player": "Vitinha",
+                "team": "Paris Saint-Germain",
+                "assists": 12,
+                "team_logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Benjamin Stambouli",
+                "team": "FC Metz",
+                "assists": 11,
+                "team_logo": "https://crests.football-data.org/545.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Geoffrey Kondogbia",
+                "team": "Olympique Marseille",
+                "assists": 9,
+                "team_logo": "https://crests.football-data.org/523.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Lamine Camara",
+                "team": "AS Monaco",
+                "assists": 9,
+                "team_logo": "https://crests.football-data.org/548.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Fabián Ruiz",
+                "team": "Paris Saint-Germain",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Fodé Sylla",
+                "team": "RC Lens",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/546.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Valentin Rongier",
+                "team": "Stade Rennais FC",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/529.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Nabil Bentaleb",
+                "team": "LOSC Lille",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/521.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Joris Chotard",
+                "team": "Stade Brestois",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/512.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Tyler Morton",
+                "team": "Olympique Lyonnais",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/528.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Maxi Oyedele",
+                "team": "RC Strasbourg Alsace",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/576.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Himad Abdelli",
+                "team": "Angers SCO",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/532.svg"
+            },
+            {
+                "rank": 13,
+                "player": "Francis Coquelin",
+                "team": "FC Nantes",
+                "assists": 5,
+                "team_logo": "https://crests.football-data.org/543.svg"
+            },
+            {
+                "rank": 13,
+                "player": "Andrija Bulatović",
+                "team": "RC Lens",
+                "assists": 5,
+                "team_logo": "https://crests.football-data.org/546.svg"
+            },
+            {
+                "rank": 13,
+                "player": "Kendry Páez",
+                "team": "RC Strasbourg Alsace",
+                "assists": 5,
+                "team_logo": "https://crests.football-data.org/576.svg"
+            },
+            {
+                "rank": 16,
+                "player": "Pierre Højbjerg",
+                "team": "Olympique Marseille",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/523.svg"
+            }
+        ]
+    },
+    {
+        "league": "Ligue 1",
+        "season": "26/27",
+        "round": "Mid-season",
+        "standings": [
+            {
+                "rank": 1,
+                "team": "Paris Saint-Germain",
+                "points": 38,
+                "matches_played": 16,
+                "wins": 12,
+                "draws": 2,
+                "losses": 2,
+                "goals_for": 35,
+                "goals_against": 11,
+                "goal_diff": 24,
+                "logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 2,
+                "team": "Stade Brestois",
+                "points": 33,
+                "matches_played": 16,
+                "wins": 10,
+                "draws": 3,
+                "losses": 3,
+                "goals_for": 27,
+                "goals_against": 13,
+                "goal_diff": 14,
+                "logo": "https://crests.football-data.org/512.svg"
+            },
+            {
+                "rank": 3,
+                "team": "Stade Rennais FC",
+                "points": 30,
+                "matches_played": 16,
+                "wins": 8,
+                "draws": 6,
+                "losses": 2,
+                "goals_for": 28,
+                "goals_against": 16,
+                "goal_diff": 12,
+                "logo": "https://crests.football-data.org/529.svg"
+            },
+            {
+                "rank": 4,
+                "team": "Olympique Marseille",
+                "points": 30,
+                "matches_played": 16,
+                "wins": 8,
+                "draws": 6,
+                "losses": 2,
+                "goals_for": 22,
+                "goals_against": 14,
+                "goal_diff": 8,
+                "logo": "https://crests.football-data.org/523.svg"
+            },
+            {
+                "rank": 5,
+                "team": "AS Monaco",
+                "points": 29,
+                "matches_played": 16,
+                "wins": 8,
+                "draws": 5,
+                "losses": 3,
+                "goals_for": 21,
+                "goals_against": 13,
+                "goal_diff": 8,
+                "logo": "https://crests.football-data.org/548.svg"
+            },
+            {
+                "rank": 6,
+                "team": "LOSC Lille",
+                "points": 26,
+                "matches_played": 16,
+                "wins": 7,
+                "draws": 5,
+                "losses": 4,
+                "goals_for": 22,
+                "goals_against": 20,
+                "goal_diff": 2,
+                "logo": "https://crests.football-data.org/521.svg"
+            },
+            {
+                "rank": 7,
+                "team": "FC Lorient",
+                "points": 25,
+                "matches_played": 16,
+                "wins": 7,
+                "draws": 4,
+                "losses": 5,
+                "goals_for": 17,
+                "goals_against": 12,
+                "goal_diff": 5,
+                "logo": "https://crests.football-data.org/525.svg"
+            },
+            {
+                "rank": 8,
+                "team": "RC Strasbourg Alsace",
+                "points": 24,
+                "matches_played": 16,
+                "wins": 7,
+                "draws": 3,
+                "losses": 6,
+                "goals_for": 29,
+                "goals_against": 24,
+                "goal_diff": 5,
+                "logo": "https://crests.football-data.org/576.svg"
+            },
+            {
+                "rank": 9,
+                "team": "RC Lens",
+                "points": 23,
+                "matches_played": 16,
+                "wins": 7,
+                "draws": 2,
+                "losses": 7,
+                "goals_for": 26,
+                "goals_against": 22,
+                "goal_diff": 4,
+                "logo": "https://crests.football-data.org/546.svg"
+            },
+            {
+                "rank": 10,
+                "team": "Stade de Reims",
+                "points": 23,
+                "matches_played": 16,
+                "wins": 6,
+                "draws": 5,
+                "losses": 5,
+                "goals_for": 20,
+                "goals_against": 17,
+                "goal_diff": 3,
+                "logo": "https://crests.football-data.org/516.svg"
+            },
+            {
+                "rank": 11,
+                "team": "FC Nantes",
+                "points": 22,
+                "matches_played": 16,
+                "wins": 6,
+                "draws": 4,
+                "losses": 6,
+                "goals_for": 21,
+                "goals_against": 22,
+                "goal_diff": -1,
+                "logo": "https://crests.football-data.org/543.svg"
+            },
+            {
+                "rank": 12,
+                "team": "AS Saint-Étienne",
+                "points": 20,
+                "matches_played": 16,
+                "wins": 6,
+                "draws": 2,
+                "losses": 8,
+                "goals_for": 19,
+                "goals_against": 22,
+                "goal_diff": -3,
+                "logo": "https://crests.football-data.org/527.svg"
+            },
+            {
+                "rank": 13,
+                "team": "OGC Nice",
+                "points": 20,
+                "matches_played": 16,
+                "wins": 6,
+                "draws": 2,
+                "losses": 8,
+                "goals_for": 23,
+                "goals_against": 27,
+                "goal_diff": -4,
+                "logo": "https://crests.football-data.org/522.svg"
+            },
+            {
+                "rank": 14,
+                "team": "Angers SCO",
+                "points": 18,
+                "matches_played": 16,
+                "wins": 4,
+                "draws": 6,
+                "losses": 6,
+                "goals_for": 12,
+                "goals_against": 17,
+                "goal_diff": -5,
+                "logo": "https://crests.football-data.org/532.svg"
+            },
+            {
+                "rank": 15,
+                "team": "Olympique Lyonnais",
+                "points": 16,
+                "matches_played": 16,
+                "wins": 3,
+                "draws": 7,
+                "losses": 6,
+                "goals_for": 15,
+                "goals_against": 21,
+                "goal_diff": -6,
+                "logo": "https://crests.football-data.org/528.svg"
+            },
+            {
+                "rank": 16,
+                "team": "AC Le Havre",
+                "points": 14,
+                "matches_played": 16,
+                "wins": 4,
+                "draws": 2,
+                "losses": 10,
+                "goals_for": 12,
+                "goals_against": 21,
+                "goal_diff": -9,
+                "logo": "https://crests.football-data.org/534.svg"
+            },
+            {
+                "rank": 17,
+                "team": "Stade Lavallois",
+                "points": 4,
+                "matches_played": 16,
+                "wins": 1,
+                "draws": 1,
+                "losses": 14,
+                "goals_for": 12,
+                "goals_against": 42,
+                "goal_diff": -30,
+                "logo": "https://crests.football-data.org/4486.svg"
+            },
+            {
+                "rank": 18,
+                "team": "FC Metz",
+                "points": 3,
+                "matches_played": 16,
+                "wins": 0,
+                "draws": 3,
+                "losses": 13,
+                "goals_for": 9,
+                "goals_against": 36,
+                "goal_diff": -27,
+                "logo": "https://crests.football-data.org/545.svg"
+            }
+        ],
+        "top_scorers": [
+            {
+                "rank": 1,
+                "player": "Odsonne Édouard",
+                "team": "RC Lens",
+                "goals": 10,
+                "team_logo": "https://crests.football-data.org/546.svg"
+            },
+            {
+                "rank": 2,
+                "player": "K. Kvaratskhelia",
+                "team": "Paris Saint-Germain",
+                "goals": 9,
+                "team_logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Désiré Doué",
+                "team": "Paris Saint-Germain",
+                "goals": 8,
+                "team_logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Ludovic Ajorque",
+                "team": "Stade Brestois",
+                "goals": 8,
+                "team_logo": "https://crests.football-data.org/512.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Mason Greenwood",
+                "team": "Olympique Marseille",
+                "goals": 8,
+                "team_logo": "https://crests.football-data.org/523.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Joaquín Panichelli",
+                "team": "RC Strasbourg Alsace",
+                "goals": 8,
+                "team_logo": "https://crests.football-data.org/576.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Félix Correia",
+                "team": "LOSC Lille",
+                "goals": 7,
+                "team_logo": "https://crests.football-data.org/521.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Mohamed Daramy",
+                "team": "Stade de Reims",
+                "goals": 7,
+                "team_logo": "https://crests.football-data.org/516.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Emanuel Emegha",
+                "team": "RC Strasbourg Alsace",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/576.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Mayckel Lahdo",
+                "team": "FC Nantes",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/543.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Damián Pizarro",
+                "team": "AC Le Havre",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/534.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Gonçalo Ramos",
+                "team": "Paris Saint-Germain",
+                "goals": 5,
+                "team_logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 12,
+                "player": "R. Labeau Lascary",
+                "team": "Stade Brestois",
+                "goals": 5,
+                "team_logo": "https://crests.football-data.org/512.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Romain Del Castillo",
+                "team": "Stade Brestois",
+                "goals": 5,
+                "team_logo": "https://crests.football-data.org/512.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Seko Fofana",
+                "team": "Stade Rennais FC",
+                "goals": 5,
+                "team_logo": "https://crests.football-data.org/529.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Esteban Lepaul",
+                "team": "Stade Rennais FC",
+                "goals": 5,
+                "team_logo": "https://crests.football-data.org/529.svg"
+            }
+        ],
+        "top_assists": [
+            {
+                "rank": 1,
+                "player": "Hamzat Ojediran",
+                "team": "RC Lens",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/546.svg"
+            },
+            {
+                "rank": 2,
+                "player": "João Neves",
+                "team": "Paris Saint-Germain",
+                "assists": 5,
+                "team_logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Lucas Tousart",
+                "team": "Stade Brestois",
+                "assists": 5,
+                "team_logo": "https://crests.football-data.org/512.svg"
+            },
+            {
+                "rank": 4,
+                "player": "W. Zaïre-Emery",
+                "team": "Paris Saint-Germain",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Vitinha",
+                "team": "Paris Saint-Germain",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Hugo Magnetti",
+                "team": "Stade Brestois",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/512.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Ludovic Blas",
+                "team": "Stade Rennais FC",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/529.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Denis Zakaria",
+                "team": "AS Monaco",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/548.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Paul Pogba",
+                "team": "AS Monaco",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/548.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Ayyoub Bouaddi",
+                "team": "LOSC Lille",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/521.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Mory Gbane",
+                "team": "Stade de Reims",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/516.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Morgan Sanson",
+                "team": "OGC Nice",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/522.svg"
+            },
+            {
+                "rank": 13,
+                "player": "Pierre Højbjerg",
+                "team": "Olympique Marseille",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/523.svg"
+            },
+            {
+                "rank": 13,
+                "player": "Lamine Camara",
+                "team": "AS Monaco",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/548.svg"
+            },
+            {
+                "rank": 13,
+                "player": "Benjamin André",
+                "team": "LOSC Lille",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/521.svg"
+            },
+            {
+                "rank": 13,
+                "player": "Théo Le Bris",
+                "team": "FC Lorient",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/525.svg"
+            }
+        ]
+    },
+    {
+        "league": "Ligue 1",
+        "season": "26/27",
+        "round": "Final",
+        "standings": [
+            {
+                "rank": 1,
+                "team": "Paris Saint-Germain",
+                "points": 84,
+                "matches_played": 34,
+                "wins": 27,
+                "draws": 3,
+                "losses": 4,
+                "goals_for": 65,
+                "goals_against": 18,
+                "goal_diff": 47,
+                "logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 2,
+                "team": "AS Monaco",
+                "points": 68,
+                "matches_played": 34,
+                "wins": 20,
+                "draws": 8,
+                "losses": 6,
+                "goals_for": 52,
+                "goals_against": 23,
+                "goal_diff": 29,
+                "logo": "https://crests.football-data.org/548.svg"
+            },
+            {
+                "rank": 3,
+                "team": "Stade Rennais FC",
+                "points": 67,
+                "matches_played": 34,
+                "wins": 20,
+                "draws": 7,
+                "losses": 7,
+                "goals_for": 61,
+                "goals_against": 36,
+                "goal_diff": 25,
+                "logo": "https://crests.football-data.org/529.svg"
+            },
+            {
+                "rank": 4,
+                "team": "Stade Brestois",
+                "points": 60,
+                "matches_played": 34,
+                "wins": 18,
+                "draws": 6,
+                "losses": 10,
+                "goals_for": 50,
+                "goals_against": 31,
+                "goal_diff": 19,
+                "logo": "https://crests.football-data.org/512.svg"
+            },
+            {
+                "rank": 5,
+                "team": "Olympique Marseille",
+                "points": 57,
+                "matches_played": 34,
+                "wins": 16,
+                "draws": 9,
+                "losses": 9,
+                "goals_for": 47,
+                "goals_against": 38,
+                "goal_diff": 9,
+                "logo": "https://crests.football-data.org/523.svg"
+            },
+            {
+                "rank": 6,
+                "team": "RC Strasbourg Alsace",
+                "points": 54,
+                "matches_played": 34,
+                "wins": 16,
+                "draws": 6,
+                "losses": 12,
+                "goals_for": 49,
+                "goals_against": 41,
+                "goal_diff": 8,
+                "logo": "https://crests.football-data.org/576.svg"
+            },
+            {
+                "rank": 7,
+                "team": "LOSC Lille",
+                "points": 53,
+                "matches_played": 34,
+                "wins": 15,
+                "draws": 8,
+                "losses": 11,
+                "goals_for": 44,
+                "goals_against": 40,
+                "goal_diff": 4,
+                "logo": "https://crests.football-data.org/521.svg"
+            },
+            {
+                "rank": 8,
+                "team": "FC Nantes",
+                "points": 48,
+                "matches_played": 34,
+                "wins": 12,
+                "draws": 12,
+                "losses": 10,
+                "goals_for": 42,
+                "goals_against": 41,
+                "goal_diff": 1,
+                "logo": "https://crests.football-data.org/543.svg"
+            },
+            {
+                "rank": 9,
+                "team": "RC Lens",
+                "points": 47,
+                "matches_played": 34,
+                "wins": 14,
+                "draws": 5,
+                "losses": 15,
+                "goals_for": 47,
+                "goals_against": 44,
+                "goal_diff": 3,
+                "logo": "https://crests.football-data.org/546.svg"
+            },
+            {
+                "rank": 10,
+                "team": "Stade de Reims",
+                "points": 42,
+                "matches_played": 34,
+                "wins": 10,
+                "draws": 12,
+                "losses": 12,
+                "goals_for": 36,
+                "goals_against": 34,
+                "goal_diff": 2,
+                "logo": "https://crests.football-data.org/516.svg"
+            },
+            {
+                "rank": 11,
+                "team": "Olympique Lyonnais",
+                "points": 42,
+                "matches_played": 34,
+                "wins": 11,
+                "draws": 9,
+                "losses": 14,
+                "goals_for": 36,
+                "goals_against": 41,
+                "goal_diff": -5,
+                "logo": "https://crests.football-data.org/528.svg"
+            },
+            {
+                "rank": 12,
+                "team": "OGC Nice",
+                "points": 42,
+                "matches_played": 34,
+                "wins": 11,
+                "draws": 9,
+                "losses": 14,
+                "goals_for": 41,
+                "goals_against": 47,
+                "goal_diff": -6,
+                "logo": "https://crests.football-data.org/522.svg"
+            },
+            {
+                "rank": 13,
+                "team": "FC Lorient",
+                "points": 41,
+                "matches_played": 34,
+                "wins": 11,
+                "draws": 8,
+                "losses": 15,
+                "goals_for": 31,
+                "goals_against": 37,
+                "goal_diff": -6,
+                "logo": "https://crests.football-data.org/525.svg"
+            },
+            {
+                "rank": 14,
+                "team": "AS Saint-Étienne",
+                "points": 40,
+                "matches_played": 34,
+                "wins": 12,
+                "draws": 4,
+                "losses": 18,
+                "goals_for": 37,
+                "goals_against": 52,
+                "goal_diff": -15,
+                "logo": "https://crests.football-data.org/527.svg"
+            },
+            {
+                "rank": 15,
+                "team": "Angers SCO",
+                "points": 34,
+                "matches_played": 34,
+                "wins": 8,
+                "draws": 10,
+                "losses": 16,
+                "goals_for": 30,
+                "goals_against": 40,
+                "goal_diff": -10,
+                "logo": "https://crests.football-data.org/532.svg"
+            },
+            {
+                "rank": 16,
+                "team": "Stade Lavallois",
+                "points": 26,
+                "matches_played": 34,
+                "wins": 7,
+                "draws": 5,
+                "losses": 22,
+                "goals_for": 27,
+                "goals_against": 64,
+                "goal_diff": -37,
+                "logo": "https://crests.football-data.org/4486.svg"
+            },
+            {
+                "rank": 17,
+                "team": "FC Metz",
+                "points": 24,
+                "matches_played": 34,
+                "wins": 5,
+                "draws": 9,
+                "losses": 20,
+                "goals_for": 29,
+                "goals_against": 66,
+                "goal_diff": -37,
+                "logo": "https://crests.football-data.org/545.svg"
+            },
+            {
+                "rank": 18,
+                "team": "AC Le Havre",
+                "points": 21,
+                "matches_played": 34,
+                "wins": 5,
+                "draws": 6,
+                "losses": 23,
+                "goals_for": 21,
+                "goals_against": 52,
+                "goal_diff": -31,
+                "logo": "https://crests.football-data.org/534.svg"
+            }
+        ],
+        "top_scorers": [
+            {
+                "rank": 1,
+                "player": "Ludovic Ajorque",
+                "team": "Stade Brestois",
+                "goals": 19,
+                "team_logo": "https://crests.football-data.org/512.svg"
+            },
+            {
+                "rank": 1,
+                "player": "Mason Greenwood",
+                "team": "Olympique Marseille",
+                "goals": 19,
+                "team_logo": "https://crests.football-data.org/523.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Ousmane Dembélé",
+                "team": "Paris Saint-Germain",
+                "goals": 16,
+                "team_logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Olivier Giroud",
+                "team": "LOSC Lille",
+                "goals": 15,
+                "team_logo": "https://crests.football-data.org/521.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Esteban Lepaul",
+                "team": "Stade Rennais FC",
+                "goals": 13,
+                "team_logo": "https://crests.football-data.org/529.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Emanuel Emegha",
+                "team": "RC Strasbourg Alsace",
+                "goals": 12,
+                "team_logo": "https://crests.football-data.org/576.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Odsonne Édouard",
+                "team": "RC Lens",
+                "goals": 12,
+                "team_logo": "https://crests.football-data.org/546.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Mohamed Daramy",
+                "team": "Stade de Reims",
+                "goals": 12,
+                "team_logo": "https://crests.football-data.org/516.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Habibou Diallo",
+                "team": "FC Metz",
+                "goals": 11,
+                "team_logo": "https://crests.football-data.org/545.svg"
+            },
+            {
+                "rank": 10,
+                "player": "K. Kvaratskhelia",
+                "team": "Paris Saint-Germain",
+                "goals": 10,
+                "team_logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Gonçalo Ramos",
+                "team": "Paris Saint-Germain",
+                "goals": 10,
+                "team_logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Mohamed Bamba",
+                "team": "FC Lorient",
+                "goals": 10,
+                "team_logo": "https://crests.football-data.org/525.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Lucas Stassin",
+                "team": "AS Saint-Étienne",
+                "goals": 10,
+                "team_logo": "https://crests.football-data.org/527.svg"
+            },
+            {
+                "rank": 14,
+                "player": "Désiré Doué",
+                "team": "Paris Saint-Germain",
+                "goals": 9,
+                "team_logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 14,
+                "player": "Joaquín Panichelli",
+                "team": "RC Strasbourg Alsace",
+                "goals": 9,
+                "team_logo": "https://crests.football-data.org/576.svg"
+            },
+            {
+                "rank": 14,
+                "player": "Mayckel Lahdo",
+                "team": "FC Nantes",
+                "goals": 9,
+                "team_logo": "https://crests.football-data.org/543.svg"
+            }
+        ],
+        "top_assists": [
+            {
+                "rank": 1,
+                "player": "Vitinha",
+                "team": "Paris Saint-Germain",
+                "assists": 8,
+                "team_logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 1,
+                "player": "João Neves",
+                "team": "Paris Saint-Germain",
+                "assists": 8,
+                "team_logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 1,
+                "player": "Lamine Camara",
+                "team": "AS Monaco",
+                "assists": 8,
+                "team_logo": "https://crests.football-data.org/548.svg"
+            },
+            {
+                "rank": 1,
+                "player": "Ayyoub Bouaddi",
+                "team": "LOSC Lille",
+                "assists": 8,
+                "team_logo": "https://crests.football-data.org/521.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Paul Pogba",
+                "team": "AS Monaco",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/548.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Seko Fofana",
+                "team": "Stade Rennais FC",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/529.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Hugo Magnetti",
+                "team": "Stade Brestois",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/512.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Lucas Tousart",
+                "team": "Stade Brestois",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/512.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Pierre Højbjerg",
+                "team": "Olympique Marseille",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/523.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Benjamin André",
+                "team": "LOSC Lille",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/521.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Hamzat Ojediran",
+                "team": "RC Lens",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/546.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Alpha Touré",
+                "team": "FC Metz",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/545.svg"
+            },
+            {
+                "rank": 13,
+                "player": "Fabián Ruiz",
+                "team": "Paris Saint-Germain",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/524.svg"
+            },
+            {
+                "rank": 13,
+                "player": "Denis Zakaria",
+                "team": "AS Monaco",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/548.svg"
+            },
+            {
+                "rank": 13,
+                "player": "Adrien Thomasson",
+                "team": "RC Lens",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/546.svg"
+            },
+            {
+                "rank": 13,
+                "player": "Tanguy Ndombélé",
+                "team": "OGC Nice",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/522.svg"
+            }
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "league": "DFL-Supercup",
+        "type": "cup",
+        "season": "25/26",
+        "rounds": [
+            {
+                "name": "Final",
+                "matches": [
+                    {
+                        "home": "Bayern München",
+                        "away": "VfB Stuttgart",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/5.svg",
+                        "awayLogo": "https://crests.football-data.org/10.svg"
+                    }
+                ]
+            }
+        ],
+        "top_scorers": [],
+        "top_assists": []
+    },
+    {
+        "league": "DFL-Supercup",
+        "type": "cup",
+        "season": "26/27",
+        "rounds": [
+            {
+                "name": "Final",
+                "matches": [
+                    {
+                        "home": "Bayern München",
+                        "away": "Eintracht Frankfurt",
+                        "homeScore": 0,
+                        "awayScore": 1,
+                        "homeLogo": "https://crests.football-data.org/5.svg",
+                        "awayLogo": "https://crests.football-data.org/19.svg"
+                    }
+                ]
+            }
+        ],
+        "top_scorers": [],
+        "top_assists": []
+    }
+]

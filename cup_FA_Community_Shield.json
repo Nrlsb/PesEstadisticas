@@ -1,0 +1,46 @@
+[
+    {
+        "league": "FA Community Shield",
+        "type": "cup",
+        "season": "25/26",
+        "rounds": [
+            {
+                "name": "Final",
+                "matches": [
+                    {
+                        "home": "Liverpool FC",
+                        "away": "Crystal Palace FC",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/64.svg",
+                        "awayLogo": "https://crests.football-data.org/354.svg"
+                    }
+                ]
+            }
+        ],
+        "top_scorers": [],
+        "top_assists": []
+    },
+    {
+        "league": "FA Community Shield",
+        "type": "cup",
+        "season": "26/27",
+        "rounds": [
+            {
+                "name": "Final",
+                "matches": [
+                    {
+                        "home": "Arsenal FC",
+                        "away": "Manchester United",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/57.svg",
+                        "awayLogo": "https://crests.football-data.org/66.svg"
+                    }
+                ]
+            }
+        ],
+        "top_scorers": [],
+        "top_assists": []
+    }
+]

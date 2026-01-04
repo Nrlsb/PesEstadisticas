@@ -1,0 +1,1982 @@
+[
+    {
+        "league": "Serie A",
+        "season": "25/26",
+        "round": "Mid-season",
+        "standings": [
+            {
+                "rank": 1,
+                "team": "SSC Napoli",
+                "points": 43,
+                "matches_played": 19,
+                "wins": 12,
+                "draws": 7,
+                "losses": 0,
+                "goals_for": 35,
+                "goals_against": 12,
+                "goal_diff": 23,
+                "logo": "https://crests.football-data.org/113.svg"
+            },
+            {
+                "rank": 2,
+                "team": "AC Milan",
+                "points": 39,
+                "matches_played": 19,
+                "wins": 12,
+                "draws": 3,
+                "losses": 4,
+                "goals_for": 32,
+                "goals_against": 16,
+                "goal_diff": 16,
+                "logo": "https://crests.football-data.org/98.svg"
+            },
+            {
+                "rank": 3,
+                "team": "Inter Milan",
+                "points": 35,
+                "matches_played": 19,
+                "wins": 11,
+                "draws": 2,
+                "losses": 6,
+                "goals_for": 29,
+                "goals_against": 19,
+                "goal_diff": 10,
+                "logo": "https://crests.football-data.org/108.svg"
+            },
+            {
+                "rank": 4,
+                "team": "Atalanta BC",
+                "points": 34,
+                "matches_played": 19,
+                "wins": 10,
+                "draws": 4,
+                "losses": 5,
+                "goals_for": 28,
+                "goals_against": 20,
+                "goal_diff": 8,
+                "logo": "https://crests.football-data.org/102.svg"
+            },
+            {
+                "rank": 5,
+                "team": "SS Lazio",
+                "points": 34,
+                "matches_played": 19,
+                "wins": 10,
+                "draws": 4,
+                "losses": 5,
+                "goals_for": 29,
+                "goals_against": 15,
+                "goal_diff": 14,
+                "logo": "https://crests.football-data.org/110.svg"
+            },
+            {
+                "rank": 6,
+                "team": "Torino FC",
+                "points": 33,
+                "matches_played": 19,
+                "wins": 10,
+                "draws": 3,
+                "losses": 6,
+                "goals_for": 31,
+                "goals_against": 25,
+                "goal_diff": 6,
+                "logo": "https://crests.football-data.org/586.svg"
+            },
+            {
+                "rank": 7,
+                "team": "Como 1907",
+                "points": 30,
+                "matches_played": 19,
+                "wins": 8,
+                "draws": 6,
+                "losses": 5,
+                "goals_for": 20,
+                "goals_against": 17,
+                "goal_diff": 3,
+                "logo": "https://crests.football-data.org/73454.svg"
+            },
+            {
+                "rank": 8,
+                "team": "US Cremonese",
+                "points": 29,
+                "matches_played": 19,
+                "wins": 9,
+                "draws": 2,
+                "losses": 8,
+                "goals_for": 21,
+                "goals_against": 19,
+                "goal_diff": 2,
+                "logo": "https://crests.football-data.org/457.svg"
+            },
+            {
+                "rank": 9,
+                "team": "ACF Fiorentina",
+                "points": 29,
+                "matches_played": 19,
+                "wins": 9,
+                "draws": 2,
+                "losses": 8,
+                "goals_for": 26,
+                "goals_against": 22,
+                "goal_diff": 4,
+                "logo": "https://crests.football-data.org/99.svg"
+            },
+            {
+                "rank": 10,
+                "team": "Juventus FC",
+                "points": 28,
+                "matches_played": 19,
+                "wins": 7,
+                "draws": 7,
+                "losses": 5,
+                "goals_for": 24,
+                "goals_against": 20,
+                "goal_diff": 4,
+                "logo": "https://crests.football-data.org/109.svg"
+            },
+            {
+                "rank": 11,
+                "team": "AS Roma",
+                "points": 25,
+                "matches_played": 19,
+                "wins": 7,
+                "draws": 4,
+                "losses": 8,
+                "goals_for": 19,
+                "goals_against": 22,
+                "goal_diff": -3,
+                "logo": "https://crests.football-data.org/100.svg"
+            },
+            {
+                "rank": 12,
+                "team": "Parma Calcio",
+                "points": 25,
+                "matches_played": 19,
+                "wins": 7,
+                "draws": 4,
+                "losses": 8,
+                "goals_for": 26,
+                "goals_against": 30,
+                "goal_diff": -4,
+                "logo": "https://crests.football-data.org/112.svg"
+            },
+            {
+                "rank": 13,
+                "team": "US Sassuolo",
+                "points": 23,
+                "matches_played": 19,
+                "wins": 7,
+                "draws": 2,
+                "losses": 10,
+                "goals_for": 22,
+                "goals_against": 24,
+                "goal_diff": -2,
+                "logo": "https://crests.football-data.org/471.svg"
+            },
+            {
+                "rank": 14,
+                "team": "Bologna FC",
+                "points": 22,
+                "matches_played": 19,
+                "wins": 5,
+                "draws": 7,
+                "losses": 7,
+                "goals_for": 17,
+                "goals_against": 18,
+                "goal_diff": -1,
+                "logo": "https://crests.football-data.org/103.svg"
+            },
+            {
+                "rank": 15,
+                "team": "Genoa CFC",
+                "points": 22,
+                "matches_played": 19,
+                "wins": 6,
+                "draws": 4,
+                "losses": 9,
+                "goals_for": 19,
+                "goals_against": 26,
+                "goal_diff": -7,
+                "logo": "https://crests.football-data.org/107.svg"
+            },
+            {
+                "rank": 16,
+                "team": "Cagliari Calcio",
+                "points": 21,
+                "matches_played": 19,
+                "wins": 6,
+                "draws": 3,
+                "losses": 10,
+                "goals_for": 17,
+                "goals_against": 23,
+                "goal_diff": -6,
+                "logo": "https://crests.football-data.org/104.svg"
+            },
+            {
+                "rank": 17,
+                "team": "Pisa Sporting Club",
+                "points": 17,
+                "matches_played": 19,
+                "wins": 4,
+                "draws": 5,
+                "losses": 10,
+                "goals_for": 11,
+                "goals_against": 23,
+                "goal_diff": -12,
+                "logo": "https://crests.football-data.org/5664.svg"
+            },
+            {
+                "rank": 18,
+                "team": "US Lecce",
+                "points": 16,
+                "matches_played": 19,
+                "wins": 4,
+                "draws": 4,
+                "losses": 11,
+                "goals_for": 15,
+                "goals_against": 27,
+                "goal_diff": -12,
+                "logo": "https://crests.football-data.org/5890.svg"
+            },
+            {
+                "rank": 19,
+                "team": "Udinese Calcio",
+                "points": 13,
+                "matches_played": 19,
+                "wins": 3,
+                "draws": 4,
+                "losses": 12,
+                "goals_for": 10,
+                "goals_against": 27,
+                "goal_diff": -17,
+                "logo": "https://crests.football-data.org/115.svg"
+            },
+            {
+                "rank": 20,
+                "team": "Hellas Verona",
+                "points": 12,
+                "matches_played": 19,
+                "wins": 3,
+                "draws": 3,
+                "losses": 13,
+                "goals_for": 10,
+                "goals_against": 36,
+                "goal_diff": -26,
+                "logo": "https://crests.football-data.org/450.svg"
+            }
+        ],
+        "top_scorers": [
+            {
+                "rank": 1,
+                "player": "Duván Zapata",
+                "team": "Torino FC",
+                "goals": 10,
+                "team_logo": "https://crests.football-data.org/586.svg"
+            },
+            {
+                "rank": 1,
+                "player": "Álvaro Morata",
+                "team": "Como 1907",
+                "goals": 10,
+                "team_logo": "https://crests.football-data.org/73454.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Lautaro Martínez",
+                "team": "Inter Milan",
+                "goals": 9,
+                "team_logo": "https://crests.football-data.org/108.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Jamie Vardy",
+                "team": "US Cremonese",
+                "goals": 8,
+                "team_logo": "https://crests.football-data.org/457.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Andrea Belotti",
+                "team": "Cagliari Calcio",
+                "goals": 8,
+                "team_logo": "https://crests.football-data.org/104.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Romelu Lukaku",
+                "team": "SSC Napoli",
+                "goals": 7,
+                "team_logo": "https://crests.football-data.org/113.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Kevin De Bruyne",
+                "team": "SSC Napoli",
+                "goals": 7,
+                "team_logo": "https://crests.football-data.org/113.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Santiago Giménez",
+                "team": "AC Milan",
+                "goals": 7,
+                "team_logo": "https://crests.football-data.org/98.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Moise Kean",
+                "team": "ACF Fiorentina",
+                "goals": 7,
+                "team_logo": "https://crests.football-data.org/99.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Jonathan David",
+                "team": "Juventus FC",
+                "goals": 7,
+                "team_logo": "https://crests.football-data.org/109.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Vitinha",
+                "team": "Genoa CFC",
+                "goals": 7,
+                "team_logo": "https://crests.football-data.org/107.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Noa Lang",
+                "team": "SSC Napoli",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/113.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Christian Pulišić",
+                "team": "AC Milan",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/98.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Ademola Lookman",
+                "team": "Atalanta BC",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/102.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Zakaria Aboukhlal",
+                "team": "Torino FC",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/586.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Patrick Cutrone",
+                "team": "Parma Calcio",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/112.svg"
+            }
+        ],
+        "top_assists": [
+            {
+                "rank": 1,
+                "player": "Danilo Cataldi",
+                "team": "SS Lazio",
+                "assists": 8,
+                "team_logo": "https://crests.football-data.org/110.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Kevin De Bruyne",
+                "team": "SSC Napoli",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/113.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Samuele Ricci",
+                "team": "AC Milan",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/98.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Adrien Tamèze",
+                "team": "Torino FC",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/586.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Nicolò Fagioli",
+                "team": "ACF Fiorentina",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/99.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Stanislav Lobotka",
+                "team": "SSC Napoli",
+                "assists": 5,
+                "team_logo": "https://crests.football-data.org/113.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Neil El Aynaoui",
+                "team": "AS Roma",
+                "assists": 5,
+                "team_logo": "https://crests.football-data.org/100.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Nemanja Matić",
+                "team": "US Sassuolo",
+                "assists": 5,
+                "team_logo": "https://crests.football-data.org/471.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Luka Modrić",
+                "team": "AC Milan",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/98.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Federico Dimarco",
+                "team": "Inter Milan",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/108.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Hakan Çalhanoğlu",
+                "team": "Inter Milan",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/108.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Lazar Samardžić",
+                "team": "Atalanta BC",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/102.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Bryan Cristante",
+                "team": "AS Roma",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/100.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Nahuel Estévez",
+                "team": "Parma Calcio",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/112.svg"
+            },
+            {
+                "rank": 15,
+                "player": "Scott McTominay",
+                "team": "SSC Napoli",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/113.svg"
+            },
+            {
+                "rank": 15,
+                "player": "Piotr Zieliński",
+                "team": "Inter Milan",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/108.svg"
+            }
+        ]
+    },
+    {
+        "league": "Serie A",
+        "season": "25/26",
+        "round": "Final",
+        "standings": [
+            {
+                "rank": 1,
+                "team": "Inter Milan",
+                "points": 79,
+                "matches_played": 38,
+                "wins": 25,
+                "draws": 4,
+                "losses": 9,
+                "goals_for": 62,
+                "goals_against": 32,
+                "goal_diff": 30,
+                "logo": "https://crests.football-data.org/108.svg"
+            },
+            {
+                "rank": 2,
+                "team": "Juventus FC",
+                "points": 65,
+                "matches_played": 38,
+                "wins": 18,
+                "draws": 11,
+                "losses": 9,
+                "goals_for": 54,
+                "goals_against": 36,
+                "goal_diff": 18,
+                "logo": "https://crests.football-data.org/109.svg"
+            },
+            {
+                "rank": 3,
+                "team": "SSC Napoli",
+                "points": 65,
+                "matches_played": 38,
+                "wins": 18,
+                "draws": 11,
+                "losses": 9,
+                "goals_for": 58,
+                "goals_against": 40,
+                "goal_diff": 18,
+                "logo": "https://crests.football-data.org/113.svg"
+            },
+            {
+                "rank": 4,
+                "team": "Atalanta BC",
+                "points": 64,
+                "matches_played": 38,
+                "wins": 19,
+                "draws": 7,
+                "losses": 12,
+                "goals_for": 51,
+                "goals_against": 35,
+                "goal_diff": 16,
+                "logo": "https://crests.football-data.org/102.svg"
+            },
+            {
+                "rank": 5,
+                "team": "SS Lazio",
+                "points": 64,
+                "matches_played": 38,
+                "wins": 19,
+                "draws": 7,
+                "losses": 12,
+                "goals_for": 52,
+                "goals_against": 36,
+                "goal_diff": 16,
+                "logo": "https://crests.football-data.org/110.svg"
+            },
+            {
+                "rank": 6,
+                "team": "AC Milan",
+                "points": 63,
+                "matches_played": 38,
+                "wins": 18,
+                "draws": 9,
+                "losses": 11,
+                "goals_for": 53,
+                "goals_against": 37,
+                "goal_diff": 16,
+                "logo": "https://crests.football-data.org/98.svg"
+            },
+            {
+                "rank": 7,
+                "team": "Torino FC",
+                "points": 61,
+                "matches_played": 38,
+                "wins": 18,
+                "draws": 7,
+                "losses": 13,
+                "goals_for": 53,
+                "goals_against": 45,
+                "goal_diff": 8,
+                "logo": "https://crests.football-data.org/586.svg"
+            },
+            {
+                "rank": 8,
+                "team": "ACF Fiorentina",
+                "points": 60,
+                "matches_played": 38,
+                "wins": 17,
+                "draws": 9,
+                "losses": 12,
+                "goals_for": 50,
+                "goals_against": 36,
+                "goal_diff": 14,
+                "logo": "https://crests.football-data.org/99.svg"
+            },
+            {
+                "rank": 9,
+                "team": "AS Roma",
+                "points": 55,
+                "matches_played": 38,
+                "wins": 16,
+                "draws": 7,
+                "losses": 15,
+                "goals_for": 41,
+                "goals_against": 40,
+                "goal_diff": 1,
+                "logo": "https://crests.football-data.org/100.svg"
+            },
+            {
+                "rank": 10,
+                "team": "Como 1907",
+                "points": 51,
+                "matches_played": 38,
+                "wins": 13,
+                "draws": 12,
+                "losses": 13,
+                "goals_for": 36,
+                "goals_against": 38,
+                "goal_diff": -2,
+                "logo": "https://crests.football-data.org/73454.svg"
+            },
+            {
+                "rank": 11,
+                "team": "Cagliari Calcio",
+                "points": 50,
+                "matches_played": 38,
+                "wins": 14,
+                "draws": 8,
+                "losses": 16,
+                "goals_for": 47,
+                "goals_against": 50,
+                "goal_diff": -3,
+                "logo": "https://crests.football-data.org/104.svg"
+            },
+            {
+                "rank": 12,
+                "team": "Parma Calcio",
+                "points": 47,
+                "matches_played": 38,
+                "wins": 13,
+                "draws": 8,
+                "losses": 17,
+                "goals_for": 47,
+                "goals_against": 65,
+                "goal_diff": -18,
+                "logo": "https://crests.football-data.org/112.svg"
+            },
+            {
+                "rank": 13,
+                "team": "US Cremonese",
+                "points": 47,
+                "matches_played": 38,
+                "wins": 12,
+                "draws": 11,
+                "losses": 15,
+                "goals_for": 37,
+                "goals_against": 40,
+                "goal_diff": -3,
+                "logo": "https://crests.football-data.org/457.svg"
+            },
+            {
+                "rank": 14,
+                "team": "Bologna FC",
+                "points": 45,
+                "matches_played": 38,
+                "wins": 10,
+                "draws": 15,
+                "losses": 13,
+                "goals_for": 46,
+                "goals_against": 46,
+                "goal_diff": 0,
+                "logo": "https://crests.football-data.org/103.svg"
+            },
+            {
+                "rank": 15,
+                "team": "US Sassuolo",
+                "points": 45,
+                "matches_played": 38,
+                "wins": 12,
+                "draws": 9,
+                "losses": 17,
+                "goals_for": 41,
+                "goals_against": 50,
+                "goal_diff": -9,
+                "logo": "https://crests.football-data.org/471.svg"
+            },
+            {
+                "rank": 16,
+                "team": "Genoa CFC",
+                "points": 44,
+                "matches_played": 38,
+                "wins": 12,
+                "draws": 8,
+                "losses": 18,
+                "goals_for": 35,
+                "goals_against": 51,
+                "goal_diff": -16,
+                "logo": "https://crests.football-data.org/107.svg"
+            },
+            {
+                "rank": 17,
+                "team": "Pisa Sporting Club",
+                "points": 42,
+                "matches_played": 38,
+                "wins": 10,
+                "draws": 12,
+                "losses": 16,
+                "goals_for": 26,
+                "goals_against": 41,
+                "goal_diff": -15,
+                "logo": "https://crests.football-data.org/5664.svg"
+            },
+            {
+                "rank": 18,
+                "team": "Udinese Calcio",
+                "points": 41,
+                "matches_played": 38,
+                "wins": 10,
+                "draws": 11,
+                "losses": 17,
+                "goals_for": 39,
+                "goals_against": 52,
+                "goal_diff": -13,
+                "logo": "https://crests.football-data.org/115.svg"
+            },
+            {
+                "rank": 19,
+                "team": "Hellas Verona",
+                "points": 31,
+                "matches_played": 38,
+                "wins": 9,
+                "draws": 4,
+                "losses": 25,
+                "goals_for": 28,
+                "goals_against": 65,
+                "goal_diff": -37,
+                "logo": "https://crests.football-data.org/450.svg"
+            },
+            {
+                "rank": 20,
+                "team": "US Lecce",
+                "points": 30,
+                "matches_played": 38,
+                "wins": 6,
+                "draws": 12,
+                "losses": 20,
+                "goals_for": 34,
+                "goals_against": 55,
+                "goal_diff": -21,
+                "logo": "https://crests.football-data.org/5890.svg"
+            }
+        ],
+        "top_scorers": [
+            {
+                "rank": 1,
+                "player": "Lautaro Martínez",
+                "team": "Inter Milan",
+                "goals": 22,
+                "team_logo": "https://crests.football-data.org/108.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Adam Buksa",
+                "team": "Udinese Calcio",
+                "goals": 17,
+                "team_logo": "https://crests.football-data.org/115.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Santiago Giménez",
+                "team": "AC Milan",
+                "goals": 15,
+                "team_logo": "https://crests.football-data.org/98.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Duván Zapata",
+                "team": "Torino FC",
+                "goals": 15,
+                "team_logo": "https://crests.football-data.org/586.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Álvaro Morata",
+                "team": "Como 1907",
+                "goals": 14,
+                "team_logo": "https://crests.football-data.org/73454.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Andrea Belotti",
+                "team": "Cagliari Calcio",
+                "goals": 14,
+                "team_logo": "https://crests.football-data.org/104.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Loïs Openda",
+                "team": "Juventus FC",
+                "goals": 12,
+                "team_logo": "https://crests.football-data.org/109.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Gianluca Gaetano",
+                "team": "Cagliari Calcio",
+                "goals": 12,
+                "team_logo": "https://crests.football-data.org/104.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Jonathan David",
+                "team": "Juventus FC",
+                "goals": 11,
+                "team_logo": "https://crests.football-data.org/109.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Kevin De Bruyne",
+                "team": "SSC Napoli",
+                "goals": 11,
+                "team_logo": "https://crests.football-data.org/113.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Jamie Vardy",
+                "team": "US Cremonese",
+                "goals": 11,
+                "team_logo": "https://crests.football-data.org/457.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Noa Lang",
+                "team": "SSC Napoli",
+                "goals": 10,
+                "team_logo": "https://crests.football-data.org/113.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Lazar Samardžić",
+                "team": "Atalanta BC",
+                "goals": 10,
+                "team_logo": "https://crests.football-data.org/102.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Christian Pulišić",
+                "team": "AC Milan",
+                "goals": 10,
+                "team_logo": "https://crests.football-data.org/98.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Edin Džeko",
+                "team": "ACF Fiorentina",
+                "goals": 10,
+                "team_logo": "https://crests.football-data.org/99.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Artem Dovbyk",
+                "team": "AS Roma",
+                "goals": 10,
+                "team_logo": "https://crests.football-data.org/100.svg"
+            }
+        ],
+        "top_assists": [
+            {
+                "rank": 1,
+                "player": "Kevin De Bruyne",
+                "team": "SSC Napoli",
+                "assists": 12,
+                "team_logo": "https://crests.football-data.org/113.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Danilo Cataldi",
+                "team": "SS Lazio",
+                "assists": 11,
+                "team_logo": "https://crests.football-data.org/110.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Nicolò Fagioli",
+                "team": "ACF Fiorentina",
+                "assists": 10,
+                "team_logo": "https://crests.football-data.org/99.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Federico Dimarco",
+                "team": "Inter Milan",
+                "assists": 9,
+                "team_logo": "https://crests.football-data.org/108.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Adrien Tamèze",
+                "team": "Torino FC",
+                "assists": 9,
+                "team_logo": "https://crests.football-data.org/586.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Stanislav Lobotka",
+                "team": "SSC Napoli",
+                "assists": 8,
+                "team_logo": "https://crests.football-data.org/113.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Marko Rog",
+                "team": "Cagliari Calcio",
+                "assists": 8,
+                "team_logo": "https://crests.football-data.org/104.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Nemanja Matić",
+                "team": "US Sassuolo",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/471.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Jesper Karlström",
+                "team": "Udinese Calcio",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/115.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Hakan Çalhanoğlu",
+                "team": "Inter Milan",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/108.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Lazar Samardžić",
+                "team": "Atalanta BC",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/102.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Samuele Ricci",
+                "team": "AC Milan",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/98.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Robin Gosens",
+                "team": "ACF Fiorentina",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/99.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Bryan Cristante",
+                "team": "AS Roma",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/100.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Neil El Aynaoui",
+                "team": "AS Roma",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/100.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Christian Ordoñez",
+                "team": "Parma Calcio",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/112.svg"
+            }
+        ]
+    },
+    {
+        "league": "Serie A",
+        "season": "26/27",
+        "round": "Mid-season",
+        "standings": [
+            {
+                "rank": 1,
+                "team": "Inter Milan",
+                "points": 41,
+                "matches_played": 19,
+                "wins": 13,
+                "draws": 2,
+                "losses": 4,
+                "goals_for": 31,
+                "goals_against": 14,
+                "goal_diff": 17,
+                "logo": "https://crests.football-data.org/108.svg"
+            },
+            {
+                "rank": 2,
+                "team": "AC Milan",
+                "points": 39,
+                "matches_played": 19,
+                "wins": 12,
+                "draws": 3,
+                "losses": 4,
+                "goals_for": 28,
+                "goals_against": 14,
+                "goal_diff": 14,
+                "logo": "https://crests.football-data.org/98.svg"
+            },
+            {
+                "rank": 3,
+                "team": "SS Lazio",
+                "points": 36,
+                "matches_played": 19,
+                "wins": 11,
+                "draws": 3,
+                "losses": 5,
+                "goals_for": 26,
+                "goals_against": 16,
+                "goal_diff": 10,
+                "logo": "https://crests.football-data.org/110.svg"
+            },
+            {
+                "rank": 4,
+                "team": "Como 1907",
+                "points": 35,
+                "matches_played": 19,
+                "wins": 10,
+                "draws": 5,
+                "losses": 4,
+                "goals_for": 18,
+                "goals_against": 8,
+                "goal_diff": 10,
+                "logo": "https://crests.football-data.org/73454.svg"
+            },
+            {
+                "rank": 5,
+                "team": "Juventus FC",
+                "points": 31,
+                "matches_played": 19,
+                "wins": 8,
+                "draws": 7,
+                "losses": 4,
+                "goals_for": 21,
+                "goals_against": 16,
+                "goal_diff": 5,
+                "logo": "https://crests.football-data.org/109.svg"
+            },
+            {
+                "rank": 5,
+                "team": "Bologna FC",
+                "points": 31,
+                "matches_played": 19,
+                "wins": 9,
+                "draws": 4,
+                "losses": 6,
+                "goals_for": 32,
+                "goals_against": 21,
+                "goal_diff": 11,
+                "logo": "https://crests.football-data.org/103.svg"
+            },
+            {
+                "rank": 7,
+                "team": "Atalanta BC",
+                "points": 31,
+                "matches_played": 19,
+                "wins": 9,
+                "draws": 4,
+                "losses": 6,
+                "goals_for": 24,
+                "goals_against": 18,
+                "goal_diff": 6,
+                "logo": "https://crests.football-data.org/102.svg"
+            },
+            {
+                "rank": 7,
+                "team": "US Sassuolo",
+                "points": 31,
+                "matches_played": 19,
+                "wins": 9,
+                "draws": 4,
+                "losses": 6,
+                "goals_for": 28,
+                "goals_against": 20,
+                "goal_diff": 8,
+                "logo": "https://crests.football-data.org/471.svg"
+            },
+            {
+                "rank": 9,
+                "team": "SSC Napoli",
+                "points": 28,
+                "matches_played": 19,
+                "wins": 8,
+                "draws": 4,
+                "losses": 7,
+                "goals_for": 17,
+                "goals_against": 18,
+                "goal_diff": -1,
+                "logo": "https://crests.football-data.org/113.svg"
+            },
+            {
+                "rank": 10,
+                "team": "Parma Calcio",
+                "points": 27,
+                "matches_played": 19,
+                "wins": 7,
+                "draws": 6,
+                "losses": 6,
+                "goals_for": 15,
+                "goals_against": 17,
+                "goal_diff": -2,
+                "logo": "https://crests.football-data.org/112.svg"
+            },
+            {
+                "rank": 11,
+                "team": "ACF Fiorentina",
+                "points": 26,
+                "matches_played": 19,
+                "wins": 7,
+                "draws": 5,
+                "losses": 7,
+                "goals_for": 24,
+                "goals_against": 20,
+                "goal_diff": 4,
+                "logo": "https://crests.football-data.org/99.svg"
+            },
+            {
+                "rank": 11,
+                "team": "AS Roma",
+                "points": 26,
+                "matches_played": 19,
+                "wins": 6,
+                "draws": 8,
+                "losses": 5,
+                "goals_for": 24,
+                "goals_against": 21,
+                "goal_diff": 3,
+                "logo": "https://crests.football-data.org/100.svg"
+            },
+            {
+                "rank": 13,
+                "team": "Torino FC",
+                "points": 24,
+                "matches_played": 19,
+                "wins": 6,
+                "draws": 6,
+                "losses": 7,
+                "goals_for": 16,
+                "goals_against": 22,
+                "goal_diff": -6,
+                "logo": "https://crests.football-data.org/586.svg"
+            },
+            {
+                "rank": 14,
+                "team": "Pisa Sporting Club",
+                "points": 20,
+                "matches_played": 19,
+                "wins": 4,
+                "draws": 8,
+                "losses": 7,
+                "goals_for": 18,
+                "goals_against": 21,
+                "goal_diff": -3,
+                "logo": "https://crests.football-data.org/5664.svg"
+            },
+            {
+                "rank": 15,
+                "team": "UC Sampdoria",
+                "points": 18,
+                "matches_played": 19,
+                "wins": 4,
+                "draws": 6,
+                "losses": 9,
+                "goals_for": 18,
+                "goals_against": 31,
+                "goal_diff": -13,
+                "logo": "https://crests.football-data.org/584.svg"
+            },
+            {
+                "rank": 15,
+                "team": "US Cremonese",
+                "points": 18,
+                "matches_played": 19,
+                "wins": 3,
+                "draws": 9,
+                "losses": 7,
+                "goals_for": 20,
+                "goals_against": 29,
+                "goal_diff": -9,
+                "logo": "https://crests.football-data.org/457.svg"
+            },
+            {
+                "rank": 17,
+                "team": "Genoa CFC",
+                "points": 16,
+                "matches_played": 19,
+                "wins": 2,
+                "draws": 10,
+                "losses": 7,
+                "goals_for": 14,
+                "goals_against": 21,
+                "goal_diff": -7,
+                "logo": "https://crests.football-data.org/107.svg"
+            },
+            {
+                "rank": 18,
+                "team": "Cagliari Calcio",
+                "points": 15,
+                "matches_played": 19,
+                "wins": 3,
+                "draws": 6,
+                "losses": 10,
+                "goals_for": 9,
+                "goals_against": 19,
+                "goal_diff": -10,
+                "logo": "https://crests.football-data.org/104.svg"
+            },
+            {
+                "rank": 19,
+                "team": "FC Empoli",
+                "points": 13,
+                "matches_played": 19,
+                "wins": 3,
+                "draws": 4,
+                "losses": 12,
+                "goals_for": 17,
+                "goals_against": 30,
+                "goal_diff": -13,
+                "logo": "https://crests.football-data.org/445.svg"
+            },
+            {
+                "rank": 20,
+                "team": "Calcio Padova",
+                "points": 10,
+                "matches_played": 19,
+                "wins": 2,
+                "draws": 4,
+                "losses": 13,
+                "goals_for": 18,
+                "goals_against": 42,
+                "goal_diff": -24,
+                "logo": "https://crests.football-data.org/5004.svg"
+            }
+        ],
+        "top_scorers": [
+            {
+                "rank": 1,
+                "player": "Marcus Thuram",
+                "team": "Inter Milan",
+                "goals": 10,
+                "team_logo": "https://crests.football-data.org/108.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Álvaro Morata",
+                "team": "Como 1907",
+                "goals": 9,
+                "team_logo": "https://crests.football-data.org/73454.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Santiago Giménez",
+                "team": "AC Milan",
+                "goals": 7,
+                "team_logo": "https://crests.football-data.org/98.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Ciro Immobile",
+                "team": "Bologna FC",
+                "goals": 7,
+                "team_logo": "https://crests.football-data.org/103.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Thijs Dallinga",
+                "team": "Bologna FC",
+                "goals": 7,
+                "team_logo": "https://crests.football-data.org/103.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Charles De Ketelaere",
+                "team": "Atalanta BC",
+                "goals": 7,
+                "team_logo": "https://crests.football-data.org/102.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Andrea Pinamonti",
+                "team": "US Sassuolo",
+                "goals": 7,
+                "team_logo": "https://crests.football-data.org/471.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Lautaro Martínez",
+                "team": "Inter Milan",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/108.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Taty Castellanos",
+                "team": "SS Lazio",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/110.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Jonathan David",
+                "team": "Juventus FC",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/109.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Matija Frigan",
+                "team": "Parma Calcio",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/112.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Adrien Rabiot",
+                "team": "AC Milan",
+                "goals": 5,
+                "team_logo": "https://crests.football-data.org/98.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Matías Vecino",
+                "team": "SS Lazio",
+                "goals": 5,
+                "team_logo": "https://crests.football-data.org/110.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Armand Laurienté",
+                "team": "US Sassuolo",
+                "goals": 5,
+                "team_logo": "https://crests.football-data.org/471.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Domenico Berardi",
+                "team": "US Sassuolo",
+                "goals": 5,
+                "team_logo": "https://crests.football-data.org/471.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Scott McTominay",
+                "team": "SSC Napoli",
+                "goals": 5,
+                "team_logo": "https://crests.football-data.org/113.svg"
+            }
+        ],
+        "top_assists": [
+            {
+                "rank": 1,
+                "player": "Federico Dimarco",
+                "team": "Inter Milan",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/108.svg"
+            },
+            {
+                "rank": 1,
+                "player": "Nicolò Rovella",
+                "team": "SS Lazio",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/110.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Silvano Vos",
+                "team": "AC Milan",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/98.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Alexis Saelemaekers",
+                "team": "AC Milan",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/98.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Mattéo Guendouzi",
+                "team": "SS Lazio",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/110.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Máximo Perrone",
+                "team": "Como 1907",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/73454.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Nikola Moro",
+                "team": "Bologna FC",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/103.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Marten de Roon",
+                "team": "Atalanta BC",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/102.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Papu Gómez",
+                "team": "Calcio Padova",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/5004.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Hakan Çalhanoğlu",
+                "team": "Inter Milan",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/108.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Samuele Ricci",
+                "team": "AC Milan",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/98.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Manuel Locatelli",
+                "team": "Juventus FC",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/109.svg"
+            },
+            {
+                "rank": 10,
+                "player": "F. Bernardeschi",
+                "team": "Bologna FC",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/103.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Lewis Ferguson",
+                "team": "Bologna FC",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/103.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Tommaso Pobega",
+                "team": "Bologna FC",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/103.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Lazar Samardžić",
+                "team": "Atalanta BC",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/102.svg"
+            }
+        ]
+    },
+    {
+        "league": "Serie A",
+        "season": "26/27",
+        "round": "Final",
+        "standings": [
+            {
+                "rank": 1,
+                "team": "Inter Milan",
+                "points": 79,
+                "matches_played": 38,
+                "wins": 24,
+                "draws": 7,
+                "losses": 7,
+                "goals_for": 71,
+                "goals_against": 30,
+                "goal_diff": 41,
+                "logo": "https://crests.football-data.org/108.svg"
+            },
+            {
+                "rank": 2,
+                "team": "AC Milan",
+                "points": 69,
+                "matches_played": 38,
+                "wins": 20,
+                "draws": 9,
+                "losses": 9,
+                "goals_for": 55,
+                "goals_against": 39,
+                "goal_diff": 16,
+                "logo": "https://crests.football-data.org/98.svg"
+            },
+            {
+                "rank": 3,
+                "team": "Bologna FC",
+                "points": 67,
+                "matches_played": 38,
+                "wins": 20,
+                "draws": 7,
+                "losses": 11,
+                "goals_for": 59,
+                "goals_against": 39,
+                "goal_diff": 20,
+                "logo": "https://crests.football-data.org/103.svg"
+            },
+            {
+                "rank": 4,
+                "team": "AS Roma",
+                "points": 65,
+                "matches_played": 38,
+                "wins": 18,
+                "draws": 11,
+                "losses": 9,
+                "goals_for": 54,
+                "goals_against": 35,
+                "goal_diff": 19,
+                "logo": "https://crests.football-data.org/100.svg"
+            },
+            {
+                "rank": 5,
+                "team": "SS Lazio",
+                "points": 64,
+                "matches_played": 38,
+                "wins": 18,
+                "draws": 10,
+                "losses": 10,
+                "goals_for": 42,
+                "goals_against": 32,
+                "goal_diff": 10,
+                "logo": "https://crests.football-data.org/110.svg"
+            },
+            {
+                "rank": 6,
+                "team": "Atalanta BC",
+                "points": 63,
+                "matches_played": 38,
+                "wins": 19,
+                "draws": 6,
+                "losses": 13,
+                "goals_for": 51,
+                "goals_against": 36,
+                "goal_diff": 15,
+                "logo": "https://crests.football-data.org/102.svg"
+            },
+            {
+                "rank": 7,
+                "team": "SSC Napoli",
+                "points": 63,
+                "matches_played": 38,
+                "wins": 18,
+                "draws": 9,
+                "losses": 11,
+                "goals_for": 44,
+                "goals_against": 32,
+                "goal_diff": 12,
+                "logo": "https://crests.football-data.org/113.svg"
+            },
+            {
+                "rank": 8,
+                "team": "ACF Fiorentina",
+                "points": 62,
+                "matches_played": 38,
+                "wins": 18,
+                "draws": 8,
+                "losses": 12,
+                "goals_for": 58,
+                "goals_against": 38,
+                "goal_diff": 20,
+                "logo": "https://crests.football-data.org/99.svg"
+            },
+            {
+                "rank": 9,
+                "team": "Juventus FC",
+                "points": 61,
+                "matches_played": 38,
+                "wins": 16,
+                "draws": 13,
+                "losses": 9,
+                "goals_for": 46,
+                "goals_against": 39,
+                "goal_diff": 7,
+                "logo": "https://crests.football-data.org/109.svg"
+            },
+            {
+                "rank": 10,
+                "team": "US Sassuolo",
+                "points": 60,
+                "matches_played": 38,
+                "wins": 18,
+                "draws": 6,
+                "losses": 14,
+                "goals_for": 50,
+                "goals_against": 41,
+                "goal_diff": 9,
+                "logo": "https://crests.football-data.org/471.svg"
+            },
+            {
+                "rank": 11,
+                "team": "Como 1907",
+                "points": 58,
+                "matches_played": 38,
+                "wins": 16,
+                "draws": 10,
+                "losses": 12,
+                "goals_for": 32,
+                "goals_against": 29,
+                "goal_diff": 3,
+                "logo": "https://crests.football-data.org/73454.svg"
+            },
+            {
+                "rank": 12,
+                "team": "Torino FC",
+                "points": 54,
+                "matches_played": 38,
+                "wins": 14,
+                "draws": 12,
+                "losses": 12,
+                "goals_for": 36,
+                "goals_against": 39,
+                "goal_diff": -3,
+                "logo": "https://crests.football-data.org/586.svg"
+            },
+            {
+                "rank": 13,
+                "team": "Parma Calcio",
+                "points": 48,
+                "matches_played": 38,
+                "wins": 12,
+                "draws": 12,
+                "losses": 14,
+                "goals_for": 26,
+                "goals_against": 34,
+                "goal_diff": -8,
+                "logo": "https://crests.football-data.org/112.svg"
+            },
+            {
+                "rank": 14,
+                "team": "Pisa Sporting Club",
+                "points": 39,
+                "matches_played": 38,
+                "wins": 9,
+                "draws": 12,
+                "losses": 17,
+                "goals_for": 36,
+                "goals_against": 47,
+                "goal_diff": -11,
+                "logo": "https://crests.football-data.org/5664.svg"
+            },
+            {
+                "rank": 15,
+                "team": "Genoa CFC",
+                "points": 34,
+                "matches_played": 38,
+                "wins": 6,
+                "draws": 16,
+                "losses": 16,
+                "goals_for": 30,
+                "goals_against": 45,
+                "goal_diff": -15,
+                "logo": "https://crests.football-data.org/107.svg"
+            },
+            {
+                "rank": 16,
+                "team": "UC Sampdoria",
+                "points": 33,
+                "matches_played": 38,
+                "wins": 7,
+                "draws": 12,
+                "losses": 19,
+                "goals_for": 35,
+                "goals_against": 60,
+                "goal_diff": -25,
+                "logo": "https://crests.football-data.org/584.svg"
+            },
+            {
+                "rank": 16,
+                "team": "US Cremonese",
+                "points": 33,
+                "matches_played": 38,
+                "wins": 7,
+                "draws": 12,
+                "losses": 19,
+                "goals_for": 39,
+                "goals_against": 61,
+                "goal_diff": -22,
+                "logo": "https://crests.football-data.org/457.svg"
+            },
+            {
+                "rank": 18,
+                "team": "Cagliari Calcio",
+                "points": 31,
+                "matches_played": 38,
+                "wins": 6,
+                "draws": 13,
+                "losses": 19,
+                "goals_for": 24,
+                "goals_against": 46,
+                "goal_diff": -22,
+                "logo": "https://crests.football-data.org/104.svg"
+            },
+            {
+                "rank": 19,
+                "team": "Calcio Padova",
+                "points": 30,
+                "matches_played": 38,
+                "wins": 7,
+                "draws": 9,
+                "losses": 22,
+                "goals_for": 39,
+                "goals_against": 72,
+                "goal_diff": -33,
+                "logo": "https://crests.football-data.org/5004.svg"
+            },
+            {
+                "rank": 20,
+                "team": "FC Empoli",
+                "points": 26,
+                "matches_played": 38,
+                "wins": 6,
+                "draws": 8,
+                "losses": 24,
+                "goals_for": 30,
+                "goals_against": 63,
+                "goal_diff": -33,
+                "logo": "https://crests.football-data.org/445.svg"
+            }
+        ],
+        "top_scorers": [
+            {
+                "rank": 1,
+                "player": "Thijs Dallinga",
+                "team": "Bologna FC",
+                "goals": 17,
+                "team_logo": "https://crests.football-data.org/103.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Marcus Thuram",
+                "team": "Inter Milan",
+                "goals": 16,
+                "team_logo": "https://crests.football-data.org/108.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Álvaro Morata",
+                "team": "Como 1907",
+                "goals": 14,
+                "team_logo": "https://crests.football-data.org/73454.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Lautaro Martínez",
+                "team": "Inter Milan",
+                "goals": 12,
+                "team_logo": "https://crests.football-data.org/108.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Santiago Giménez",
+                "team": "AC Milan",
+                "goals": 12,
+                "team_logo": "https://crests.football-data.org/98.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Dušan Vlahović",
+                "team": "Juventus FC",
+                "goals": 12,
+                "team_logo": "https://crests.football-data.org/109.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Armand Laurienté",
+                "team": "US Sassuolo",
+                "goals": 11,
+                "team_logo": "https://crests.football-data.org/471.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Federico Dimarco",
+                "team": "Inter Milan",
+                "goals": 10,
+                "team_logo": "https://crests.football-data.org/108.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Rafael Leão",
+                "team": "AC Milan",
+                "goals": 10,
+                "team_logo": "https://crests.football-data.org/98.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Ciro Immobile",
+                "team": "Bologna FC",
+                "goals": 10,
+                "team_logo": "https://crests.football-data.org/103.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Leon Bailey",
+                "team": "AS Roma",
+                "goals": 10,
+                "team_logo": "https://crests.football-data.org/100.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Taty Castellanos",
+                "team": "SS Lazio",
+                "goals": 10,
+                "team_logo": "https://crests.football-data.org/110.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Henrik Meister",
+                "team": "Pisa Sporting Club",
+                "goals": 10,
+                "team_logo": "https://crests.football-data.org/5664.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Antonio Sanabria",
+                "team": "US Cremonese",
+                "goals": 10,
+                "team_logo": "https://crests.football-data.org/457.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Papu Gómez",
+                "team": "Calcio Padova",
+                "goals": 10,
+                "team_logo": "https://crests.football-data.org/5004.svg"
+            },
+            {
+                "rank": 16,
+                "player": "Rasmus Højlund",
+                "team": "SSC Napoli",
+                "goals": 9,
+                "team_logo": "https://crests.football-data.org/113.svg"
+            }
+        ],
+        "top_assists": [
+            {
+                "rank": 1,
+                "player": "Federico Dimarco",
+                "team": "Inter Milan",
+                "assists": 13,
+                "team_logo": "https://crests.football-data.org/108.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Papu Gómez",
+                "team": "Calcio Padova",
+                "assists": 9,
+                "team_logo": "https://crests.football-data.org/5004.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Bryan Cristante",
+                "team": "AS Roma",
+                "assists": 8,
+                "team_logo": "https://crests.football-data.org/100.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Lazar Samardžić",
+                "team": "Atalanta BC",
+                "assists": 8,
+                "team_logo": "https://crests.football-data.org/102.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Nicolò Fagioli",
+                "team": "ACF Fiorentina",
+                "assists": 8,
+                "team_logo": "https://crests.football-data.org/99.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Ruslan Malinovskyi",
+                "team": "Genoa CFC",
+                "assists": 8,
+                "team_logo": "https://crests.football-data.org/107.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Hakan Çalhanoğlu",
+                "team": "Inter Milan",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/108.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Alexis Saelemaekers",
+                "team": "AC Milan",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/98.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Lewis Ferguson",
+                "team": "Bologna FC",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/103.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Marten de Roon",
+                "team": "Atalanta BC",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/102.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Luca Lipani",
+                "team": "US Sassuolo",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/471.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Andrea Ghion",
+                "team": "FC Empoli",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/445.svg"
+            },
+            {
+                "rank": 13,
+                "player": "Nikola Moro",
+                "team": "Bologna FC",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/103.svg"
+            },
+            {
+                "rank": 13,
+                "player": "Nicolò Rovella",
+                "team": "SS Lazio",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/110.svg"
+            },
+            {
+                "rank": 13,
+                "player": "Billy Gilmour",
+                "team": "SSC Napoli",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/113.svg"
+            },
+            {
+                "rank": 13,
+                "player": "Máximo Perrone",
+                "team": "Como 1907",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/73454.svg"
+            }
+        ]
+    }
+]

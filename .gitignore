@@ -1,0 +1,39 @@
+# Helper imports and deps
+node_modules/
+frontend/node_modules/
+package-lock.json
+frontend/package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Local env
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Build outputs
+dist/
+dist-ssr/
+build/
+coverage/
+
+# OS misc
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Temp
+.gemini/
+uploaded_image_*.png

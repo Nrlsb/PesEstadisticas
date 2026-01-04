@@ -1,0 +1,46 @@
+[
+    {
+        "league": "Supercopa de España",
+        "type": "cup",
+        "season": "25/26",
+        "rounds": [
+            {
+                "name": "Final",
+                "matches": [
+                    {
+                        "home": "FC Barcelona",
+                        "away": "Real Madrid CF",
+                        "homeScore": 1,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/81.svg",
+                        "awayLogo": "https://crests.football-data.org/86.svg"
+                    }
+                ]
+            }
+        ],
+        "top_scorers": [],
+        "top_assists": []
+    },
+    {
+        "league": "Supercopa de España",
+        "type": "cup",
+        "season": "26/27",
+        "rounds": [
+            {
+                "name": "Final",
+                "matches": [
+                    {
+                        "home": "FC Barcelona",
+                        "away": "Villarreal CF",
+                        "homeScore": 5,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/81.svg",
+                        "awayLogo": "https://crests.football-data.org/94.svg"
+                    }
+                ]
+            }
+        ],
+        "top_scorers": [],
+        "top_assists": []
+    }
+]

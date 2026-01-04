@@ -1,0 +1,46 @@
+[
+    {
+        "league": "UEFA Super Cup",
+        "type": "cup",
+        "season": "25/26",
+        "rounds": [
+            {
+                "name": "Final",
+                "matches": [
+                    {
+                        "home": "Paris Saint-Germain",
+                        "away": "Tottenham Hotspur",
+                        "homeScore": 1,
+                        "awayScore": 3,
+                        "homeLogo": "https://crests.football-data.org/524.svg",
+                        "awayLogo": "https://crests.football-data.org/73.svg"
+                    }
+                ]
+            }
+        ],
+        "top_scorers": [],
+        "top_assists": []
+    },
+    {
+        "league": "UEFA Super Cup",
+        "type": "cup",
+        "season": "26/27",
+        "rounds": [
+            {
+                "name": "Final",
+                "matches": [
+                    {
+                        "home": "FC Barcelona",
+                        "away": "Bayer 04 Leverkusen",
+                        "homeScore": 2,
+                        "awayScore": 0,
+                        "homeLogo": "https://crests.football-data.org/81.svg",
+                        "awayLogo": "https://crests.football-data.org/3.svg"
+                    }
+                ]
+            }
+        ],
+        "top_scorers": [],
+        "top_assists": []
+    }
+]

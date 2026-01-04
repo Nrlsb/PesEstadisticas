@@ -1,0 +1,1982 @@
+[
+    {
+        "league": "La Liga",
+        "season": "25/26",
+        "round": "Mid-season",
+        "standings": [
+            {
+                "rank": 1,
+                "team": "FC Barcelona",
+                "points": 44,
+                "matches_played": 19,
+                "wins": 14,
+                "draws": 2,
+                "losses": 3,
+                "goals_for": 41,
+                "goals_against": 17,
+                "goal_diff": 24,
+                "logo": "https://crests.football-data.org/81.svg"
+            },
+            {
+                "rank": 2,
+                "team": "Real Madrid CF",
+                "points": 35,
+                "matches_played": 19,
+                "wins": 11,
+                "draws": 2,
+                "losses": 6,
+                "goals_for": 24,
+                "goals_against": 12,
+                "goal_diff": 12,
+                "logo": "https://crests.football-data.org/86.svg"
+            },
+            {
+                "rank": 3,
+                "team": "Athletic Bilbao",
+                "points": 34,
+                "matches_played": 19,
+                "wins": 9,
+                "draws": 7,
+                "losses": 3,
+                "goals_for": 28,
+                "goals_against": 19,
+                "goal_diff": 9,
+                "logo": "https://crests.football-data.org/77.svg"
+            },
+            {
+                "rank": 4,
+                "team": "Valencia CF",
+                "points": 33,
+                "matches_played": 19,
+                "wins": 10,
+                "draws": 3,
+                "losses": 6,
+                "goals_for": 23,
+                "goals_against": 18,
+                "goal_diff": 5,
+                "logo": "https://crests.football-data.org/95.svg"
+            },
+            {
+                "rank": 5,
+                "team": "Atlético Madrid",
+                "points": 32,
+                "matches_played": 19,
+                "wins": 9,
+                "draws": 5,
+                "losses": 5,
+                "goals_for": 25,
+                "goals_against": 16,
+                "goal_diff": 9,
+                "logo": "https://crests.football-data.org/78.svg"
+            },
+            {
+                "rank": 6,
+                "team": "Real Sociedad",
+                "points": 31,
+                "matches_played": 19,
+                "wins": 8,
+                "draws": 7,
+                "losses": 4,
+                "goals_for": 29,
+                "goals_against": 23,
+                "goal_diff": 6,
+                "logo": "https://crests.football-data.org/92.svg"
+            },
+            {
+                "rank": 7,
+                "team": "Villarreal CF",
+                "points": 30,
+                "matches_played": 19,
+                "wins": 9,
+                "draws": 3,
+                "losses": 7,
+                "goals_for": 27,
+                "goals_against": 21,
+                "goal_diff": 6,
+                "logo": "https://crests.football-data.org/94.svg"
+            },
+            {
+                "rank": 8,
+                "team": "Rayo Vallecano",
+                "points": 27,
+                "matches_played": 19,
+                "wins": 7,
+                "draws": 6,
+                "losses": 6,
+                "goals_for": 25,
+                "goals_against": 22,
+                "goal_diff": 3,
+                "logo": "https://crests.football-data.org/87.svg"
+            },
+            {
+                "rank": 9,
+                "team": "RCD Espanyol",
+                "points": 26,
+                "matches_played": 19,
+                "wins": 7,
+                "draws": 5,
+                "losses": 7,
+                "goals_for": 21,
+                "goals_against": 28,
+                "goal_diff": -7,
+                "logo": "https://crests.football-data.org/80.svg"
+            },
+            {
+                "rank": 10,
+                "team": "Real Betis",
+                "points": 24,
+                "matches_played": 19,
+                "wins": 6,
+                "draws": 6,
+                "losses": 7,
+                "goals_for": 12,
+                "goals_against": 20,
+                "goal_diff": -8,
+                "logo": "https://crests.football-data.org/90.svg"
+            },
+            {
+                "rank": 11,
+                "team": "Girona FC",
+                "points": 23,
+                "matches_played": 19,
+                "wins": 6,
+                "draws": 5,
+                "losses": 8,
+                "goals_for": 31,
+                "goals_against": 34,
+                "goal_diff": -3,
+                "logo": "https://crests.football-data.org/298.svg"
+            },
+            {
+                "rank": 12,
+                "team": "CA Osasuna",
+                "points": 22,
+                "matches_played": 19,
+                "wins": 7,
+                "draws": 1,
+                "losses": 11,
+                "goals_for": 13,
+                "goals_against": 26,
+                "goal_diff": -13,
+                "logo": "https://crests.football-data.org/79.svg"
+            },
+            {
+                "rank": 13,
+                "team": "Elche CF",
+                "points": 22,
+                "matches_played": 19,
+                "wins": 6,
+                "draws": 4,
+                "losses": 9,
+                "goals_for": 20,
+                "goals_against": 29,
+                "goal_diff": -9,
+                "logo": "https://crests.football-data.org/285.svg"
+            },
+            {
+                "rank": 14,
+                "team": "Sevilla FC",
+                "points": 22,
+                "matches_played": 19,
+                "wins": 6,
+                "draws": 4,
+                "losses": 9,
+                "goals_for": 23,
+                "goals_against": 25,
+                "goal_diff": -2,
+                "logo": "https://crests.football-data.org/559.svg"
+            },
+            {
+                "rank": 15,
+                "team": "Real Oviedo",
+                "points": 22,
+                "matches_played": 19,
+                "wins": 5,
+                "draws": 7,
+                "losses": 7,
+                "goals_for": 32,
+                "goals_against": 27,
+                "goal_diff": 5,
+                "logo": "https://crests.football-data.org/4975.svg"
+            },
+            {
+                "rank": 16,
+                "team": "Deportivo Alavés",
+                "points": 21,
+                "matches_played": 19,
+                "wins": 5,
+                "draws": 6,
+                "losses": 8,
+                "goals_for": 20,
+                "goals_against": 24,
+                "goal_diff": -4,
+                "logo": "https://crests.football-data.org/263.svg"
+            },
+            {
+                "rank": 17,
+                "team": "Celta de Vigo",
+                "points": 20,
+                "matches_played": 19,
+                "wins": 4,
+                "draws": 8,
+                "losses": 7,
+                "goals_for": 20,
+                "goals_against": 21,
+                "goal_diff": -1,
+                "logo": "https://crests.football-data.org/558.svg"
+            },
+            {
+                "rank": 18,
+                "team": "Getafe CF",
+                "points": 19,
+                "matches_played": 19,
+                "wins": 3,
+                "draws": 10,
+                "losses": 6,
+                "goals_for": 20,
+                "goals_against": 26,
+                "goal_diff": -6,
+                "logo": "https://crests.football-data.org/82.svg"
+            },
+            {
+                "rank": 19,
+                "team": "Levante UD",
+                "points": 16,
+                "matches_played": 19,
+                "wins": 4,
+                "draws": 4,
+                "losses": 11,
+                "goals_for": 9,
+                "goals_against": 27,
+                "goal_diff": -18,
+                "logo": "https://crests.football-data.org/88.svg"
+            },
+            {
+                "rank": 20,
+                "team": "RCD Mallorca",
+                "points": 16,
+                "matches_played": 19,
+                "wins": 3,
+                "draws": 7,
+                "losses": 9,
+                "goals_for": 16,
+                "goals_against": 24,
+                "goal_diff": -8,
+                "logo": "https://crests.football-data.org/89.svg"
+            }
+        ],
+        "top_scorers": [
+            {
+                "rank": 1,
+                "player": "Lucas Benitez",
+                "team": "FC Barcelona",
+                "goals": 21,
+                "team_logo": "https://crests.football-data.org/81.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Brais Méndez",
+                "team": "Real Sociedad",
+                "goals": 10,
+                "team_logo": "https://crests.football-data.org/92.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Vinícius Júnior",
+                "team": "Real Madrid CF",
+                "goals": 8,
+                "team_logo": "https://crests.football-data.org/86.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Kike García",
+                "team": "RCD Espanyol",
+                "goals": 8,
+                "team_logo": "https://crests.football-data.org/80.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Josip Brekalo",
+                "team": "Real Oviedo",
+                "goals": 8,
+                "team_logo": "https://crests.football-data.org/4975.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Juanmi",
+                "team": "Getafe CF",
+                "goals": 8,
+                "team_logo": "https://crests.football-data.org/82.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Oihan Sancet",
+                "team": "Athletic Bilbao",
+                "goals": 7,
+                "team_logo": "https://crests.football-data.org/77.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Arnaut Danjuma",
+                "team": "Valencia CF",
+                "goals": 7,
+                "team_logo": "https://crests.football-data.org/95.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Álex Baena",
+                "team": "Atlético Madrid",
+                "goals": 7,
+                "team_logo": "https://crests.football-data.org/78.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Viktor Tsygankov",
+                "team": "Girona FC",
+                "goals": 7,
+                "team_logo": "https://crests.football-data.org/298.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Cristhian Stuani",
+                "team": "Girona FC",
+                "goals": 7,
+                "team_logo": "https://crests.football-data.org/298.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Santi Cazorla",
+                "team": "Real Oviedo",
+                "goals": 7,
+                "team_logo": "https://crests.football-data.org/4975.svg"
+            },
+            {
+                "rank": 13,
+                "player": "Mikel Oyarzabal",
+                "team": "Real Sociedad",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/92.svg"
+            },
+            {
+                "rank": 13,
+                "player": "Isi Palazón",
+                "team": "Rayo Vallecano",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/87.svg"
+            },
+            {
+                "rank": 13,
+                "player": "Lucas Boyé",
+                "team": "Deportivo Alavés",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/263.svg"
+            },
+            {
+                "rank": 16,
+                "player": "Raphinha",
+                "team": "FC Barcelona",
+                "goals": 5,
+                "team_logo": "https://crests.football-data.org/81.svg"
+            }
+        ],
+        "top_assists": [
+            {
+                "rank": 1,
+                "player": "Pedri",
+                "team": "FC Barcelona",
+                "assists": 8,
+                "team_logo": "https://crests.football-data.org/81.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Thomas Partey",
+                "team": "Villarreal CF",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/94.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Gavi",
+                "team": "FC Barcelona",
+                "assists": 5,
+                "team_logo": "https://crests.football-data.org/81.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Beñat Prados",
+                "team": "Athletic Bilbao",
+                "assists": 5,
+                "team_logo": "https://crests.football-data.org/77.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Frenkie de Jong",
+                "team": "FC Barcelona",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/81.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Aurélien Tchouaméni",
+                "team": "Real Madrid CF",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/86.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Pepelu",
+                "team": "Valencia CF",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/95.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Luka Sučić",
+                "team": "Real Sociedad",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/92.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Ayoze Pérez",
+                "team": "Villarreal CF",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/94.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Moi Gómez",
+                "team": "CA Osasuna",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/79.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Grady Diangana",
+                "team": "Elche CF",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/285.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Leander Dendoncker",
+                "team": "Real Oviedo",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/4975.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Yvan Neyou",
+                "team": "Getafe CF",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/82.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Manu Morlanes",
+                "team": "RCD Mallorca",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/89.svg"
+            },
+            {
+                "rank": 15,
+                "player": "T. Alexander-Arnold",
+                "team": "Real Madrid CF",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/86.svg"
+            },
+            {
+                "rank": 15,
+                "player": "Ruíz de Galarreta",
+                "team": "Athletic Bilbao",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/77.svg"
+            }
+        ]
+    },
+    {
+        "league": "La Liga",
+        "season": "25/26",
+        "round": "Final",
+        "standings": [
+            {
+                "rank": 1,
+                "team": "FC Barcelona",
+                "points": 88,
+                "matches_played": 38,
+                "wins": 28,
+                "draws": 4,
+                "losses": 6,
+                "goals_for": 78,
+                "goals_against": 30,
+                "goal_diff": 48,
+                "logo": "https://crests.football-data.org/81.svg"
+            },
+            {
+                "rank": 2,
+                "team": "Real Madrid CF",
+                "points": 74,
+                "matches_played": 38,
+                "wins": 23,
+                "draws": 5,
+                "losses": 10,
+                "goals_for": 56,
+                "goals_against": 28,
+                "goal_diff": 28,
+                "logo": "https://crests.football-data.org/86.svg"
+            },
+            {
+                "rank": 3,
+                "team": "Atlético Madrid",
+                "points": 74,
+                "matches_played": 38,
+                "wins": 21,
+                "draws": 11,
+                "losses": 6,
+                "goals_for": 51,
+                "goals_against": 27,
+                "goal_diff": 24,
+                "logo": "https://crests.football-data.org/78.svg"
+            },
+            {
+                "rank": 4,
+                "team": "Villarreal CF",
+                "points": 66,
+                "matches_played": 38,
+                "wins": 19,
+                "draws": 9,
+                "losses": 10,
+                "goals_for": 59,
+                "goals_against": 41,
+                "goal_diff": 18,
+                "logo": "https://crests.football-data.org/94.svg"
+            },
+            {
+                "rank": 5,
+                "team": "Valencia CF",
+                "points": 62,
+                "matches_played": 38,
+                "wins": 18,
+                "draws": 8,
+                "losses": 12,
+                "goals_for": 50,
+                "goals_against": 39,
+                "goal_diff": 11,
+                "logo": "https://crests.football-data.org/95.svg"
+            },
+            {
+                "rank": 6,
+                "team": "Athletic Bilbao",
+                "points": 59,
+                "matches_played": 38,
+                "wins": 15,
+                "draws": 14,
+                "losses": 9,
+                "goals_for": 51,
+                "goals_against": 40,
+                "goal_diff": 11,
+                "logo": "https://crests.football-data.org/77.svg"
+            },
+            {
+                "rank": 7,
+                "team": "RCD Espanyol",
+                "points": 58,
+                "matches_played": 38,
+                "wins": 17,
+                "draws": 7,
+                "losses": 14,
+                "goals_for": 40,
+                "goals_against": 48,
+                "goal_diff": -8,
+                "logo": "https://crests.football-data.org/80.svg"
+            },
+            {
+                "rank": 8,
+                "team": "Girona FC",
+                "points": 57,
+                "matches_played": 38,
+                "wins": 16,
+                "draws": 9,
+                "losses": 13,
+                "goals_for": 51,
+                "goals_against": 48,
+                "goal_diff": 3,
+                "logo": "https://crests.football-data.org/298.svg"
+            },
+            {
+                "rank": 9,
+                "team": "Real Sociedad",
+                "points": 54,
+                "matches_played": 38,
+                "wins": 15,
+                "draws": 9,
+                "losses": 14,
+                "goals_for": 52,
+                "goals_against": 51,
+                "goal_diff": 1,
+                "logo": "https://crests.football-data.org/92.svg"
+            },
+            {
+                "rank": 10,
+                "team": "Sevilla FC",
+                "points": 48,
+                "matches_played": 38,
+                "wins": 13,
+                "draws": 9,
+                "losses": 16,
+                "goals_for": 41,
+                "goals_against": 42,
+                "goal_diff": -1,
+                "logo": "https://crests.football-data.org/559.svg"
+            },
+            {
+                "rank": 11,
+                "team": "CA Osasuna",
+                "points": 47,
+                "matches_played": 38,
+                "wins": 14,
+                "draws": 5,
+                "losses": 19,
+                "goals_for": 39,
+                "goals_against": 49,
+                "goal_diff": -10,
+                "logo": "https://crests.football-data.org/79.svg"
+            },
+            {
+                "rank": 13,
+                "team": "Rayo Vallecano",
+                "points": 45,
+                "matches_played": 38,
+                "wins": 12,
+                "draws": 9,
+                "losses": 17,
+                "goals_for": 45,
+                "goals_against": 54,
+                "goal_diff": -9,
+                "logo": "https://crests.football-data.org/87.svg"
+            },
+            {
+                "rank": 15,
+                "team": "Celta de Vigo",
+                "points": 43,
+                "matches_played": 38,
+                "wins": 11,
+                "draws": 10,
+                "losses": 17,
+                "goals_for": 41,
+                "goals_against": 47,
+                "goal_diff": -6,
+                "logo": "https://crests.football-data.org/558.svg"
+            },
+            {
+                "rank": 16,
+                "team": "Real Betis",
+                "points": 43,
+                "matches_played": 38,
+                "wins": 10,
+                "draws": 13,
+                "losses": 15,
+                "goals_for": 35,
+                "goals_against": 48,
+                "goal_diff": -13,
+                "logo": "https://crests.football-data.org/90.svg"
+            },
+            {
+                "rank": 17,
+                "team": "Elche CF",
+                "points": 42,
+                "matches_played": 38,
+                "wins": 11,
+                "draws": 9,
+                "losses": 18,
+                "goals_for": 35,
+                "goals_against": 52,
+                "goal_diff": -17,
+                "logo": "https://crests.football-data.org/285.svg"
+            },
+            {
+                "rank": 24,
+                "team": "Real Oviedo",
+                "points": 39,
+                "matches_played": 38,
+                "wins": 9,
+                "draws": 12,
+                "losses": 17,
+                "goals_for": 46,
+                "goals_against": 51,
+                "goal_diff": -5,
+                "logo": "https://crests.football-data.org/4975.svg"
+            },
+            {
+                "rank": 25,
+                "team": "Deportivo Alavés",
+                "points": 39,
+                "matches_played": 38,
+                "wins": 9,
+                "draws": 12,
+                "losses": 17,
+                "goals_for": 47,
+                "goals_against": 58,
+                "goal_diff": -11,
+                "logo": "https://crests.football-data.org/263.svg"
+            },
+            {
+                "rank": 26,
+                "team": "Getafe CF",
+                "points": 39,
+                "matches_played": 38,
+                "wins": 8,
+                "draws": 15,
+                "losses": 15,
+                "goals_for": 36,
+                "goals_against": 52,
+                "goal_diff": -16,
+                "logo": "https://crests.football-data.org/82.svg"
+            },
+            {
+                "rank": 27,
+                "team": "RCD Mallorca",
+                "points": 37,
+                "matches_played": 38,
+                "wins": 9,
+                "draws": 10,
+                "losses": 19,
+                "goals_for": 38,
+                "goals_against": 52,
+                "goal_diff": -14,
+                "logo": "https://crests.football-data.org/89.svg"
+            },
+            {
+                "rank": 43,
+                "team": "Levante UD",
+                "points": 29,
+                "matches_played": 38,
+                "wins": 5,
+                "draws": 14,
+                "losses": 19,
+                "goals_for": 27,
+                "goals_against": 61,
+                "goal_diff": -34,
+                "logo": "https://crests.football-data.org/88.svg"
+            }
+        ],
+        "top_scorers": [
+            {
+                "rank": 1,
+                "player": "Lucas Benitez",
+                "team": "FC Barcelona",
+                "goals": 39,
+                "team_logo": "https://crests.football-data.org/81.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Vinícius Júnior",
+                "team": "Real Madrid CF",
+                "goals": 17,
+                "team_logo": "https://crests.football-data.org/86.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Gerard Moreno",
+                "team": "Villarreal CF",
+                "goals": 14,
+                "team_logo": "https://crests.football-data.org/94.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Lamine Yamal",
+                "team": "FC Barcelona",
+                "goals": 13,
+                "team_logo": "https://crests.football-data.org/81.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Arnaut Danjuma",
+                "team": "Valencia CF",
+                "goals": 13,
+                "team_logo": "https://crests.football-data.org/95.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Juanmi",
+                "team": "Getafe CF",
+                "goals": 13,
+                "team_logo": "https://crests.football-data.org/82.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Lucas Beltrán",
+                "team": "Valencia CF",
+                "goals": 12,
+                "team_logo": "https://crests.football-data.org/95.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Álex Baena",
+                "team": "Atlético Madrid",
+                "goals": 11,
+                "team_logo": "https://crests.football-data.org/78.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Brais Méndez",
+                "team": "Real Sociedad",
+                "goals": 11,
+                "team_logo": "https://crests.football-data.org/92.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Josip Brekalo",
+                "team": "Real Oviedo",
+                "goals": 11,
+                "team_logo": "https://crests.football-data.org/4975.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Raphinha",
+                "team": "FC Barcelona",
+                "goals": 10,
+                "team_logo": "https://crests.football-data.org/81.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Viktor Tsygankov",
+                "team": "Girona FC",
+                "goals": 10,
+                "team_logo": "https://crests.football-data.org/298.svg"
+            },
+            {
+                "rank": 12,
+                "player": "André Silva",
+                "team": "Elche CF",
+                "goals": 10,
+                "team_logo": "https://crests.football-data.org/285.svg"
+            },
+            {
+                "rank": 21,
+                "player": "Marcos Llorente",
+                "team": "Atlético Madrid",
+                "goals": 9,
+                "team_logo": "https://crests.football-data.org/78.svg"
+            },
+            {
+                "rank": 21,
+                "player": "Kylian Mbappé",
+                "team": "Real Madrid CF",
+                "goals": 9,
+                "team_logo": "https://crests.football-data.org/86.svg"
+            },
+            {
+                "rank": 21,
+                "player": "Ayoze Pérez",
+                "team": "Villarreal CF",
+                "goals": 9,
+                "team_logo": "https://crests.football-data.org/94.svg"
+            }
+        ],
+        "top_assists": [
+            {
+                "rank": 1,
+                "player": "Pedri",
+                "team": "FC Barcelona",
+                "assists": 15,
+                "team_logo": "https://crests.football-data.org/81.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Frenkie de Jong",
+                "team": "FC Barcelona",
+                "assists": 11,
+                "team_logo": "https://crests.football-data.org/81.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Gavi",
+                "team": "FC Barcelona",
+                "assists": 9,
+                "team_logo": "https://crests.football-data.org/81.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Aurélien Tchouaméni",
+                "team": "Real Madrid CF",
+                "assists": 8,
+                "team_logo": "https://crests.football-data.org/86.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Thomas Partey",
+                "team": "Villarreal CF",
+                "assists": 8,
+                "team_logo": "https://crests.football-data.org/94.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Pape Gueye",
+                "team": "Villarreal CF",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/94.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Ayoze Pérez",
+                "team": "Villarreal CF",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/94.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Pepelu",
+                "team": "Valencia CF",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/95.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Beñat Prados",
+                "team": "Athletic Bilbao",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/77.svg"
+            },
+            {
+                "rank": 9,
+                "player": "Antonio Blanco",
+                "team": "Deportivo Alavés",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/263.svg"
+            },
+            {
+                "rank": 18,
+                "player": "Álex Baena",
+                "team": "Atlético Madrid",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/78.svg"
+            },
+            {
+                "rank": 18,
+                "player": "Eduardo Camavinga",
+                "team": "Real Madrid CF",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/86.svg"
+            },
+            {
+                "rank": 18,
+                "player": "Iván Martín",
+                "team": "Girona FC",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/298.svg"
+            },
+            {
+                "rank": 18,
+                "player": "Luka Sučić",
+                "team": "Real Sociedad",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/92.svg"
+            },
+            {
+                "rank": 18,
+                "player": "Brais Méndez",
+                "team": "Real Sociedad",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/92.svg"
+            },
+            {
+                "rank": 18,
+                "player": "Leander Dendoncker",
+                "team": "Real Oviedo",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/4975.svg"
+            }
+        ]
+    },
+    {
+        "league": "La Liga",
+        "season": "26/27",
+        "round": "Mid-season",
+        "standings": [
+            {
+                "rank": 1,
+                "team": "FC Barcelona",
+                "points": 49,
+                "matches_played": 19,
+                "wins": 16,
+                "draws": 1,
+                "losses": 2,
+                "goals_for": 29,
+                "goals_against": 4,
+                "goal_diff": 25,
+                "logo": "https://crests.football-data.org/81.svg"
+            },
+            {
+                "rank": 2,
+                "team": "Real Madrid CF",
+                "points": 43,
+                "matches_played": 19,
+                "wins": 14,
+                "draws": 1,
+                "losses": 4,
+                "goals_for": 31,
+                "goals_against": 11,
+                "goal_diff": 20,
+                "logo": "https://crests.football-data.org/86.svg"
+            },
+            {
+                "rank": 3,
+                "team": "Real Sociedad",
+                "points": 40,
+                "matches_played": 19,
+                "wins": 12,
+                "draws": 4,
+                "losses": 3,
+                "goals_for": 33,
+                "goals_against": 15,
+                "goal_diff": 18,
+                "logo": "https://crests.football-data.org/92.svg"
+            },
+            {
+                "rank": 4,
+                "team": "Atlético Madrid",
+                "points": 33,
+                "matches_played": 19,
+                "wins": 10,
+                "draws": 3,
+                "losses": 6,
+                "goals_for": 24,
+                "goals_against": 17,
+                "goal_diff": 7,
+                "logo": "https://crests.football-data.org/78.svg"
+            },
+            {
+                "rank": 5,
+                "team": "Athletic Bilbao",
+                "points": 33,
+                "matches_played": 19,
+                "wins": 10,
+                "draws": 3,
+                "losses": 6,
+                "goals_for": 28,
+                "goals_against": 17,
+                "goal_diff": 11,
+                "logo": "https://crests.football-data.org/77.svg"
+            },
+            {
+                "rank": 6,
+                "team": "Villarreal CF",
+                "points": 32,
+                "matches_played": 19,
+                "wins": 9,
+                "draws": 5,
+                "losses": 5,
+                "goals_for": 23,
+                "goals_against": 17,
+                "goal_diff": 6,
+                "logo": "https://crests.football-data.org/94.svg"
+            },
+            {
+                "rank": 7,
+                "team": "Valencia CF",
+                "points": 31,
+                "matches_played": 19,
+                "wins": 9,
+                "draws": 4,
+                "losses": 6,
+                "goals_for": 29,
+                "goals_against": 19,
+                "goal_diff": 10,
+                "logo": "https://crests.football-data.org/95.svg"
+            },
+            {
+                "rank": 8,
+                "team": "Girona FC",
+                "points": 29,
+                "matches_played": 19,
+                "wins": 9,
+                "draws": 2,
+                "losses": 8,
+                "goals_for": 23,
+                "goals_against": 17,
+                "goal_diff": 6,
+                "logo": "https://crests.football-data.org/298.svg"
+            },
+            {
+                "rank": 9,
+                "team": "Rayo Vallecano",
+                "points": 28,
+                "matches_played": 19,
+                "wins": 9,
+                "draws": 1,
+                "losses": 9,
+                "goals_for": 17,
+                "goals_against": 14,
+                "goal_diff": 3,
+                "logo": "https://crests.football-data.org/87.svg"
+            },
+            {
+                "rank": 10,
+                "team": "Real Oviedo",
+                "points": 27,
+                "matches_played": 19,
+                "wins": 8,
+                "draws": 3,
+                "losses": 8,
+                "goals_for": 25,
+                "goals_against": 17,
+                "goal_diff": 8,
+                "logo": "https://crests.football-data.org/4975.svg"
+            },
+            {
+                "rank": 11,
+                "team": "Celta de Vigo",
+                "points": 24,
+                "matches_played": 19,
+                "wins": 7,
+                "draws": 3,
+                "losses": 9,
+                "goals_for": 18,
+                "goals_against": 23,
+                "goal_diff": -5,
+                "logo": "https://crests.football-data.org/558.svg"
+            },
+            {
+                "rank": 12,
+                "team": "Sevilla FC",
+                "points": 24,
+                "matches_played": 19,
+                "wins": 7,
+                "draws": 3,
+                "losses": 9,
+                "goals_for": 19,
+                "goals_against": 28,
+                "goal_diff": -9,
+                "logo": "https://crests.football-data.org/559.svg"
+            },
+            {
+                "rank": 13,
+                "team": "Elche CF",
+                "points": 24,
+                "matches_played": 19,
+                "wins": 7,
+                "draws": 3,
+                "losses": 9,
+                "goals_for": 23,
+                "goals_against": 33,
+                "goal_diff": -10,
+                "logo": "https://crests.football-data.org/285.svg"
+            },
+            {
+                "rank": 14,
+                "team": "Real Betis",
+                "points": 23,
+                "matches_played": 19,
+                "wins": 6,
+                "draws": 5,
+                "losses": 8,
+                "goals_for": 17,
+                "goals_against": 24,
+                "goal_diff": -7,
+                "logo": "https://crests.football-data.org/90.svg"
+            },
+            {
+                "rank": 15,
+                "team": "Cádiz CF",
+                "points": 22,
+                "matches_played": 19,
+                "wins": 7,
+                "draws": 1,
+                "losses": 11,
+                "goals_for": 19,
+                "goals_against": 25,
+                "goal_diff": -6,
+                "logo": "https://crests.football-data.org/264.svg"
+            },
+            {
+                "rank": 16,
+                "team": "RCD Espanyol",
+                "points": 20,
+                "matches_played": 19,
+                "wins": 6,
+                "draws": 2,
+                "losses": 11,
+                "goals_for": 11,
+                "goals_against": 29,
+                "goal_diff": -18,
+                "logo": "https://crests.football-data.org/80.svg"
+            },
+            {
+                "rank": 17,
+                "team": "Deportivo Alavés",
+                "points": 20,
+                "matches_played": 19,
+                "wins": 6,
+                "draws": 2,
+                "losses": 11,
+                "goals_for": 16,
+                "goals_against": 31,
+                "goal_diff": -15,
+                "logo": "https://crests.football-data.org/263.svg"
+            },
+            {
+                "rank": 18,
+                "team": "Real Valladolid",
+                "points": 18,
+                "matches_played": 19,
+                "wins": 5,
+                "draws": 3,
+                "losses": 11,
+                "goals_for": 8,
+                "goals_against": 22,
+                "goal_diff": -14,
+                "logo": "https://crests.football-data.org/250.svg"
+            },
+            {
+                "rank": 19,
+                "team": "UD Almería",
+                "points": 14,
+                "matches_played": 19,
+                "wins": 4,
+                "draws": 2,
+                "losses": 13,
+                "goals_for": 21,
+                "goals_against": 30,
+                "goal_diff": -9,
+                "logo": "https://crests.football-data.org/267.svg"
+            },
+            {
+                "rank": 20,
+                "team": "CA Osasuna",
+                "points": 10,
+                "matches_played": 19,
+                "wins": 3,
+                "draws": 1,
+                "losses": 15,
+                "goals_for": 13,
+                "goals_against": 34,
+                "goal_diff": -21,
+                "logo": "https://crests.football-data.org/79.svg"
+            }
+        ],
+        "top_scorers": [
+            {
+                "rank": 1,
+                "player": "Lucas Benitez",
+                "team": "FC Barcelona",
+                "goals": 15,
+                "team_logo": "https://crests.football-data.org/81.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Kylian Mbappé",
+                "team": "Real Madrid CF",
+                "goals": 12,
+                "team_logo": "https://crests.football-data.org/86.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Iago Aspas",
+                "team": "Celta de Vigo",
+                "goals": 9,
+                "team_logo": "https://crests.football-data.org/558.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Mikel Oyarzabal",
+                "team": "Real Sociedad",
+                "goals": 7,
+                "team_logo": "https://crests.football-data.org/92.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Gorka Guruzeta",
+                "team": "Athletic Bilbao",
+                "goals": 7,
+                "team_logo": "https://crests.football-data.org/77.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Diego López",
+                "team": "Valencia CF",
+                "goals": 7,
+                "team_logo": "https://crests.football-data.org/95.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Vinícius Júnior",
+                "team": "Real Madrid CF",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/86.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Takefusa Kubo",
+                "team": "Real Sociedad",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/92.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Nico Williams",
+                "team": "Athletic Bilbao",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/77.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Viktor Tsygankov",
+                "team": "Girona FC",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/298.svg"
+            },
+            {
+                "rank": 7,
+                "player": "Álvaro García",
+                "team": "Rayo Vallecano",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/87.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Lamine Yamal",
+                "team": "FC Barcelona",
+                "goals": 5,
+                "team_logo": "https://crests.football-data.org/81.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Ander Barrenetxea",
+                "team": "Real Sociedad",
+                "goals": 5,
+                "team_logo": "https://crests.football-data.org/92.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Oihan Sancet",
+                "team": "Athletic Bilbao",
+                "goals": 5,
+                "team_logo": "https://crests.football-data.org/77.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Alberto Moleiro",
+                "team": "Villarreal CF",
+                "goals": 5,
+                "team_logo": "https://crests.football-data.org/94.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Javi Guerra",
+                "team": "Valencia CF",
+                "goals": 5,
+                "team_logo": "https://crests.football-data.org/95.svg"
+            }
+        ],
+        "top_assists": [
+            {
+                "rank": 1,
+                "player": "T. Alexander-Arnold",
+                "team": "Real Madrid CF",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/86.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Frenkie de Jong",
+                "team": "FC Barcelona",
+                "assists": 5,
+                "team_logo": "https://crests.football-data.org/81.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Leander Dendoncker",
+                "team": "Real Oviedo",
+                "assists": 5,
+                "team_logo": "https://crests.football-data.org/4975.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Santiago Colombatto",
+                "team": "Real Oviedo",
+                "assists": 5,
+                "team_logo": "https://crests.football-data.org/4975.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Dion Lopy",
+                "team": "UD Almería",
+                "assists": 5,
+                "team_logo": "https://crests.football-data.org/267.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Eduardo Camavinga",
+                "team": "Real Madrid CF",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/86.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Carlos Soler",
+                "team": "Real Sociedad",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/92.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Brais Méndez",
+                "team": "Real Sociedad",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/92.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Mikel Vesga",
+                "team": "Athletic Bilbao",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/77.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Pape Gueye",
+                "team": "Villarreal CF",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/94.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Baptiste Santamaria",
+                "team": "Valencia CF",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/95.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Pablo Fornals",
+                "team": "Real Betis",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/90.svg"
+            },
+            {
+                "rank": 6,
+                "player": "André Horta",
+                "team": "UD Almería",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/267.svg"
+            },
+            {
+                "rank": 14,
+                "player": "Aurélien Tchouaméni",
+                "team": "Real Madrid CF",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/86.svg"
+            },
+            {
+                "rank": 14,
+                "player": "Arda Güler",
+                "team": "Real Madrid CF",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/86.svg"
+            },
+            {
+                "rank": 14,
+                "player": "Koke",
+                "team": "Atlético Madrid",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/78.svg"
+            }
+        ]
+    },
+    {
+        "league": "La Liga",
+        "season": "26/27",
+        "round": "Final",
+        "standings": [
+            {
+                "rank": 1,
+                "team": "FC Barcelona",
+                "points": 101,
+                "matches_played": 38,
+                "wins": 33,
+                "draws": 2,
+                "losses": 3,
+                "goals_for": 70,
+                "goals_against": 16,
+                "goal_diff": 54,
+                "logo": "https://crests.football-data.org/81.svg"
+            },
+            {
+                "rank": 2,
+                "team": "Real Madrid CF",
+                "points": 77,
+                "matches_played": 38,
+                "wins": 24,
+                "draws": 5,
+                "losses": 9,
+                "goals_for": 63,
+                "goals_against": 25,
+                "goal_diff": 38,
+                "logo": "https://crests.football-data.org/86.svg"
+            },
+            {
+                "rank": 3,
+                "team": "Atlético Madrid",
+                "points": 76,
+                "matches_played": 38,
+                "wins": 23,
+                "draws": 7,
+                "losses": 8,
+                "goals_for": 66,
+                "goals_against": 32,
+                "goal_diff": 34,
+                "logo": "https://crests.football-data.org/78.svg"
+            },
+            {
+                "rank": 4,
+                "team": "Real Sociedad",
+                "points": 67,
+                "matches_played": 38,
+                "wins": 20,
+                "draws": 7,
+                "losses": 11,
+                "goals_for": 56,
+                "goals_against": 38,
+                "goal_diff": 18,
+                "logo": "https://crests.football-data.org/92.svg"
+            },
+            {
+                "rank": 5,
+                "team": "Athletic Bilbao",
+                "points": 61,
+                "matches_played": 38,
+                "wins": 18,
+                "draws": 7,
+                "losses": 13,
+                "goals_for": 50,
+                "goals_against": 36,
+                "goal_diff": 14,
+                "logo": "https://crests.football-data.org/77.svg"
+            },
+            {
+                "rank": 6,
+                "team": "Villarreal CF",
+                "points": 61,
+                "matches_played": 38,
+                "wins": 18,
+                "draws": 7,
+                "losses": 13,
+                "goals_for": 44,
+                "goals_against": 40,
+                "goal_diff": 4,
+                "logo": "https://crests.football-data.org/94.svg"
+            },
+            {
+                "rank": 7,
+                "team": "Valencia CF",
+                "points": 60,
+                "matches_played": 38,
+                "wins": 17,
+                "draws": 9,
+                "losses": 12,
+                "goals_for": 60,
+                "goals_against": 42,
+                "goal_diff": 18,
+                "logo": "https://crests.football-data.org/95.svg"
+            },
+            {
+                "rank": 8,
+                "team": "Girona FC",
+                "points": 56,
+                "matches_played": 38,
+                "wins": 17,
+                "draws": 5,
+                "losses": 16,
+                "goals_for": 47,
+                "goals_against": 43,
+                "goal_diff": 4,
+                "logo": "https://crests.football-data.org/298.svg"
+            },
+            {
+                "rank": 9,
+                "team": "Rayo Vallecano",
+                "points": 50,
+                "matches_played": 38,
+                "wins": 15,
+                "draws": 5,
+                "losses": 18,
+                "goals_for": 41,
+                "goals_against": 45,
+                "goal_diff": -4,
+                "logo": "https://crests.football-data.org/87.svg"
+            },
+            {
+                "rank": 10,
+                "team": "Celta de Vigo",
+                "points": 49,
+                "matches_played": 38,
+                "wins": 14,
+                "draws": 7,
+                "losses": 17,
+                "goals_for": 41,
+                "goals_against": 45,
+                "goal_diff": -4,
+                "logo": "https://crests.football-data.org/558.svg"
+            },
+            {
+                "rank": 11,
+                "team": "Real Betis",
+                "points": 46,
+                "matches_played": 38,
+                "wins": 13,
+                "draws": 7,
+                "losses": 18,
+                "goals_for": 37,
+                "goals_against": 49,
+                "goal_diff": -12,
+                "logo": "https://crests.football-data.org/90.svg"
+            },
+            {
+                "rank": 12,
+                "team": "Real Oviedo",
+                "points": 46,
+                "matches_played": 38,
+                "wins": 14,
+                "draws": 4,
+                "losses": 20,
+                "goals_for": 38,
+                "goals_against": 42,
+                "goal_diff": -4,
+                "logo": "https://crests.football-data.org/4975.svg"
+            },
+            {
+                "rank": 13,
+                "team": "Sevilla FC",
+                "points": 46,
+                "matches_played": 38,
+                "wins": 13,
+                "draws": 7,
+                "losses": 18,
+                "goals_for": 33,
+                "goals_against": 51,
+                "goal_diff": -18,
+                "logo": "https://crests.football-data.org/559.svg"
+            },
+            {
+                "rank": 14,
+                "team": "Elche CF",
+                "points": 44,
+                "matches_played": 38,
+                "wins": 12,
+                "draws": 8,
+                "losses": 18,
+                "goals_for": 44,
+                "goals_against": 63,
+                "goal_diff": -19,
+                "logo": "https://crests.football-data.org/285.svg"
+            },
+            {
+                "rank": 15,
+                "team": "Deportivo Alavés",
+                "points": 44,
+                "matches_played": 38,
+                "wins": 12,
+                "draws": 8,
+                "losses": 18,
+                "goals_for": 32,
+                "goals_against": 51,
+                "goal_diff": -19,
+                "logo": "https://crests.football-data.org/263.svg"
+            },
+            {
+                "rank": 16,
+                "team": "Cádiz CF",
+                "points": 43,
+                "matches_played": 38,
+                "wins": 12,
+                "draws": 7,
+                "losses": 19,
+                "goals_for": 38,
+                "goals_against": 49,
+                "goal_diff": -11,
+                "logo": "https://crests.football-data.org/264.svg"
+            },
+            {
+                "rank": 17,
+                "team": "CA Osasuna",
+                "points": 40,
+                "matches_played": 38,
+                "wins": 12,
+                "draws": 4,
+                "losses": 22,
+                "goals_for": 40,
+                "goals_against": 62,
+                "goal_diff": -22,
+                "logo": "https://crests.football-data.org/79.svg"
+            },
+            {
+                "rank": 18,
+                "team": "RCD Espanyol",
+                "points": 39,
+                "matches_played": 38,
+                "wins": 11,
+                "draws": 6,
+                "losses": 21,
+                "goals_for": 27,
+                "goals_against": 61,
+                "goal_diff": -34,
+                "logo": "https://crests.football-data.org/80.svg"
+            },
+            {
+                "rank": 19,
+                "team": "Real Valladolid",
+                "points": 39,
+                "matches_played": 38,
+                "wins": 11,
+                "draws": 6,
+                "losses": 21,
+                "goals_for": 25,
+                "goals_against": 49,
+                "goal_diff": -24,
+                "logo": "https://crests.football-data.org/250.svg"
+            },
+            {
+                "rank": 20,
+                "team": "UD Almería",
+                "points": 34,
+                "matches_played": 38,
+                "wins": 10,
+                "draws": 4,
+                "losses": 24,
+                "goals_for": 48,
+                "goals_against": 61,
+                "goal_diff": -13,
+                "logo": "https://crests.football-data.org/267.svg"
+            }
+        ],
+        "top_scorers": [
+            {
+                "rank": 1,
+                "player": "Lucas Benitez",
+                "team": "FC Barcelona",
+                "goals": 35,
+                "team_logo": "https://crests.football-data.org/81.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Kylian Mbappé",
+                "team": "Real Madrid CF",
+                "goals": 18,
+                "team_logo": "https://crests.football-data.org/86.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Lamine Yamal",
+                "team": "FC Barcelona",
+                "goals": 14,
+                "team_logo": "https://crests.football-data.org/81.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Vinícius Júnior",
+                "team": "Real Madrid CF",
+                "goals": 14,
+                "team_logo": "https://crests.football-data.org/86.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Iago Aspas",
+                "team": "Celta de Vigo",
+                "goals": 14,
+                "team_logo": "https://crests.football-data.org/558.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Julián Álvarez",
+                "team": "Atlético Madrid",
+                "goals": 13,
+                "team_logo": "https://crests.football-data.org/78.svg"
+            },
+            {
+                "rank": 6,
+                "player": "Cucho Hernández",
+                "team": "Real Betis",
+                "goals": 13,
+                "team_logo": "https://crests.football-data.org/90.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Álex Baena",
+                "team": "Atlético Madrid",
+                "goals": 12,
+                "team_logo": "https://crests.football-data.org/78.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Hugo Duro",
+                "team": "Valencia CF",
+                "goals": 12,
+                "team_logo": "https://crests.football-data.org/95.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Jude Bellingham",
+                "team": "Real Madrid CF",
+                "goals": 11,
+                "team_logo": "https://crests.football-data.org/86.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Gorka Guruzeta",
+                "team": "Athletic Bilbao",
+                "goals": 11,
+                "team_logo": "https://crests.football-data.org/77.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Gerard Moreno",
+                "team": "Villarreal CF",
+                "goals": 11,
+                "team_logo": "https://crests.football-data.org/94.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Viktor Tsygankov",
+                "team": "Girona FC",
+                "goals": 11,
+                "team_logo": "https://crests.football-data.org/298.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Sergio Camello",
+                "team": "Rayo Vallecano",
+                "goals": 11,
+                "team_logo": "https://crests.football-data.org/87.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Álvaro García",
+                "team": "Rayo Vallecano",
+                "goals": 11,
+                "team_logo": "https://crests.football-data.org/87.svg"
+            },
+            {
+                "rank": 16,
+                "player": "Mikel Oyarzabal",
+                "team": "Real Sociedad",
+                "goals": 10,
+                "team_logo": "https://crests.football-data.org/92.svg"
+            }
+        ],
+        "top_assists": [
+            {
+                "rank": 1,
+                "player": "Frenkie de Jong",
+                "team": "FC Barcelona",
+                "assists": 16,
+                "team_logo": "https://crests.football-data.org/81.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Eduardo Camavinga",
+                "team": "Real Madrid CF",
+                "assists": 12,
+                "team_logo": "https://crests.football-data.org/86.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Pepelu",
+                "team": "Valencia CF",
+                "assists": 9,
+                "team_logo": "https://crests.football-data.org/95.svg"
+            },
+            {
+                "rank": 4,
+                "player": "T. Alexander-Arnold",
+                "team": "Real Madrid CF",
+                "assists": 8,
+                "team_logo": "https://crests.football-data.org/86.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Pablo Barrios",
+                "team": "Atlético Madrid",
+                "assists": 8,
+                "team_logo": "https://crests.football-data.org/78.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Pape Gueye",
+                "team": "Villarreal CF",
+                "assists": 8,
+                "team_logo": "https://crests.football-data.org/94.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Dion Lopy",
+                "team": "UD Almería",
+                "assists": 8,
+                "team_logo": "https://crests.football-data.org/267.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Koke",
+                "team": "Atlético Madrid",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/78.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Álex Baena",
+                "team": "Atlético Madrid",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/78.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Carlos Soler",
+                "team": "Real Sociedad",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/92.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Baptiste Santamaria",
+                "team": "Valencia CF",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/95.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Sergi Altimira",
+                "team": "Real Betis",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/90.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Leander Dendoncker",
+                "team": "Real Oviedo",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/4975.svg"
+            },
+            {
+                "rank": 8,
+                "player": "Ander Guevara",
+                "team": "Deportivo Alavés",
+                "assists": 7,
+                "team_logo": "https://crests.football-data.org/263.svg"
+            },
+            {
+                "rank": 15,
+                "player": "Pedri",
+                "team": "FC Barcelona",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/81.svg"
+            },
+            {
+                "rank": 15,
+                "player": "Lamine Yamal",
+                "team": "FC Barcelona",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/81.svg"
+            }
+        ]
+    }
+]
