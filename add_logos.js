@@ -26,6 +26,7 @@ const TEAM_IDS = {
     "Southampton FC": 340,
     "Leicester City": 338,
     "Ipswich Town": 349,
+    "Hull City": 322,
 
     // La Liga
     "Athletic Bilbao": 77,
@@ -48,6 +49,7 @@ const TEAM_IDS = {
     "Girona FC": 298,
     "Elche CF": 285,
     "Real Oviedo": 4975,
+    "Deportivo La Coruña": 560,
 
     // Ligue 1
     "Paris Saint-Germain": 524,
@@ -96,6 +98,7 @@ const TEAM_IDS = {
     "FC Empoli": 445,
     "UC Sampdoria": 584,
     "Calcio Padova": 5004,
+    "Mantova 1911": 7060,
     "Cádiz CF": 264,
     "Real Valladolid": 250,
     "UD Almería": 267,
@@ -215,7 +218,9 @@ const TEAM_IDS = {
     "Stoke City": 70,
     "Coventry City": 1076,
     "Blackburn Rovers": 59,
-    "Norwich City": 68
+    "Norwich City": 68,
+    "CA River Plate": 7050,
+    "Al Qadsiah FC": 7051
 };
 
 function addLogos(filename) {

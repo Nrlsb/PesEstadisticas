@@ -127,7 +127,8 @@
                         "away": "Manchester United",
                         "homeScore": 0,
                         "awayScore": 2,
-                        "awayLogo": "https://crests.football-data.org/66.svg"
+                        "awayLogo": "https://crests.football-data.org/66.svg",
+                        "homeLogo": "https://crests.football-data.org/322.svg"
                     }
                 ]
             },

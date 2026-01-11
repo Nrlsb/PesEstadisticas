@@ -1874,5 +1874,474 @@
                 "team_logo": "https://crests.football-data.org/721.svg"
             }
         ]
+    },
+    {
+        "league": "Bundesliga",
+        "season": "27/28",
+        "round": "Mid-season",
+        "standings": [
+            {
+                "rank": 1,
+                "team": "Eintracht Frankfurt",
+                "points": 40,
+                "matches_played": 16,
+                "wins": 13,
+                "draws": 1,
+                "losses": 2,
+                "goals_for": 35,
+                "goals_against": 8,
+                "goal_diff": 27,
+                "logo": "https://crests.football-data.org/19.svg"
+            },
+            {
+                "rank": 2,
+                "team": "Bayern München",
+                "points": 33,
+                "matches_played": 16,
+                "wins": 10,
+                "draws": 3,
+                "losses": 3,
+                "goals_for": 31,
+                "goals_against": 13,
+                "goal_diff": 18,
+                "logo": "https://crests.football-data.org/5.svg"
+            },
+            {
+                "rank": 3,
+                "team": "SC Freiburg",
+                "points": 27,
+                "matches_played": 16,
+                "wins": 8,
+                "draws": 3,
+                "losses": 5,
+                "goals_for": 28,
+                "goals_against": 21,
+                "goal_diff": 7,
+                "logo": "https://crests.football-data.org/17.svg"
+            },
+            {
+                "rank": 4,
+                "team": "VfL Wolfsburg",
+                "points": 26,
+                "matches_played": 16,
+                "wins": 8,
+                "draws": 2,
+                "losses": 6,
+                "goals_for": 23,
+                "goals_against": 19,
+                "goal_diff": 4,
+                "logo": "https://crests.football-data.org/11.svg"
+            },
+            {
+                "rank": 5,
+                "team": "Bayer 04 Leverkusen",
+                "points": 25,
+                "matches_played": 16,
+                "wins": 7,
+                "draws": 4,
+                "losses": 5,
+                "goals_for": 22,
+                "goals_against": 16,
+                "goal_diff": 6,
+                "logo": "https://crests.football-data.org/3.svg"
+            },
+            {
+                "rank": 6,
+                "team": "VfB Stuttgart",
+                "points": 25,
+                "matches_played": 16,
+                "wins": 7,
+                "draws": 4,
+                "losses": 5,
+                "goals_for": 30,
+                "goals_against": 27,
+                "goal_diff": 3,
+                "logo": "https://crests.football-data.org/10.svg"
+            },
+            {
+                "rank": 7,
+                "team": "FC Heidenheim 1846",
+                "points": 24,
+                "matches_played": 16,
+                "wins": 7,
+                "draws": 3,
+                "losses": 6,
+                "goals_for": 21,
+                "goals_against": 20,
+                "goal_diff": 1,
+                "logo": "https://crests.football-data.org/44.svg"
+            },
+            {
+                "rank": 8,
+                "team": "RB Leipzig",
+                "points": 24,
+                "matches_played": 16,
+                "wins": 6,
+                "draws": 6,
+                "losses": 4,
+                "goals_for": 15,
+                "goals_against": 13,
+                "goal_diff": 2,
+                "logo": "https://crests.football-data.org/721.svg"
+            },
+            {
+                "rank": 9,
+                "team": "FC Köln",
+                "points": 24,
+                "matches_played": 16,
+                "wins": 7,
+                "draws": 3,
+                "losses": 6,
+                "goals_for": 23,
+                "goals_against": 23,
+                "goal_diff": 0,
+                "logo": "https://crests.football-data.org/1.svg"
+            },
+            {
+                "rank": 10,
+                "team": "Hamburger SV",
+                "points": 21,
+                "matches_played": 16,
+                "wins": 6,
+                "draws": 3,
+                "losses": 7,
+                "goals_for": 19,
+                "goals_against": 28,
+                "goal_diff": -9,
+                "logo": "https://crests.football-data.org/6.svg"
+            },
+            {
+                "rank": 11,
+                "team": "SV Werder Bremen",
+                "points": 21,
+                "matches_played": 16,
+                "wins": 5,
+                "draws": 6,
+                "losses": 5,
+                "goals_for": 18,
+                "goals_against": 18,
+                "goal_diff": 0,
+                "logo": "https://crests.football-data.org/12.svg"
+            },
+            {
+                "rank": 12,
+                "team": "TSG 1899 Hoffenheim",
+                "points": 19,
+                "matches_played": 16,
+                "wins": 5,
+                "draws": 4,
+                "losses": 7,
+                "goals_for": 16,
+                "goals_against": 24,
+                "goal_diff": -8,
+                "logo": "https://crests.football-data.org/2.svg"
+            },
+            {
+                "rank": 13,
+                "team": "FC St. Pauli",
+                "points": 19,
+                "matches_played": 16,
+                "wins": 6,
+                "draws": 1,
+                "losses": 9,
+                "goals_for": 19,
+                "goals_against": 25,
+                "goal_diff": -6,
+                "logo": "https://crests.football-data.org/20.svg"
+            },
+            {
+                "rank": 14,
+                "team": "Borussia Dortmund",
+                "points": 18,
+                "matches_played": 16,
+                "wins": 5,
+                "draws": 3,
+                "losses": 8,
+                "goals_for": 19,
+                "goals_against": 29,
+                "goal_diff": -10,
+                "logo": "https://crests.football-data.org/4.svg"
+            },
+            {
+                "rank": 15,
+                "team": "FSV Mainz 05",
+                "points": 16,
+                "matches_played": 16,
+                "wins": 4,
+                "draws": 4,
+                "losses": 8,
+                "goals_for": 14,
+                "goals_against": 15,
+                "goal_diff": -1,
+                "logo": "https://crests.football-data.org/15.svg"
+            },
+            {
+                "rank": 16,
+                "team": "Borussia Mönchengladbach",
+                "points": 16,
+                "matches_played": 16,
+                "wins": 5,
+                "draws": 1,
+                "losses": 10,
+                "goals_for": 17,
+                "goals_against": 23,
+                "goal_diff": -6,
+                "logo": "https://crests.football-data.org/18.svg"
+            },
+            {
+                "rank": 17,
+                "team": "FC Union Berlin",
+                "points": 13,
+                "matches_played": 16,
+                "wins": 3,
+                "draws": 4,
+                "losses": 9,
+                "goals_for": 16,
+                "goals_against": 30,
+                "goal_diff": -14,
+                "logo": "https://crests.football-data.org/28.svg"
+            },
+            {
+                "rank": 18,
+                "team": "FC Augsburg",
+                "points": 13,
+                "matches_played": 16,
+                "wins": 4,
+                "draws": 1,
+                "losses": 11,
+                "goals_for": 11,
+                "goals_against": 25,
+                "goal_diff": -14,
+                "logo": "https://crests.football-data.org/16.svg"
+            }
+        ],
+        "top_scorers": [
+            {
+                "rank": 1,
+                "player": "Deniz Undav",
+                "team": "VfB Stuttgart",
+                "goals": 9,
+                "team_logo": "https://crests.football-data.org/10.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Elye Wahi",
+                "team": "Eintracht Frankfurt",
+                "goals": 8,
+                "team_logo": "https://crests.football-data.org/19.svg"
+            },
+            {
+                "rank": 2,
+                "player": "Nicolas Jackson",
+                "team": "Bayern München",
+                "goals": 8,
+                "team_logo": "https://crests.football-data.org/5.svg"
+            },
+            {
+                "rank": 4,
+                "player": "Karim Adeyemi",
+                "team": "Borussia Dortmund",
+                "goals": 7,
+                "team_logo": "https://crests.football-data.org/4.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Michael Olise",
+                "team": "Bayern München",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/5.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Harry Kane",
+                "team": "Bayern München",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/5.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Junior Adamu",
+                "team": "SC Freiburg",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/17.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Eren Dinkçi",
+                "team": "SC Freiburg",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/17.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Marvin Pieringer",
+                "team": "FC Heidenheim 1846",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/44.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Andréas Hountondji",
+                "team": "FC St. Pauli",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/20.svg"
+            },
+            {
+                "rank": 5,
+                "player": "Andrej Ilić",
+                "team": "FC Union Berlin",
+                "goals": 6,
+                "team_logo": "https://crests.football-data.org/28.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Jessic Ngankam",
+                "team": "Eintracht Frankfurt",
+                "goals": 5,
+                "team_logo": "https://crests.football-data.org/19.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Mattias Svanberg",
+                "team": "VfL Wolfsburg",
+                "goals": 5,
+                "team_logo": "https://crests.football-data.org/11.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Mohamed Sankoh",
+                "team": "VfB Stuttgart",
+                "goals": 5,
+                "team_logo": "https://crests.football-data.org/10.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Otto Stange",
+                "team": "Hamburger SV",
+                "goals": 5,
+                "team_logo": "https://crests.football-data.org/6.svg"
+            },
+            {
+                "rank": 12,
+                "player": "Victor Boniface",
+                "team": "SV Werder Bremen",
+                "goals": 5,
+                "team_logo": "https://crests.football-data.org/12.svg"
+            }
+        ],
+        "top_assists": [
+            {
+                "rank": 1,
+                "player": "Johan Manzambi",
+                "team": "SC Freiburg",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/17.svg"
+            },
+            {
+                "rank": 1,
+                "player": "Lee Jae-Sung",
+                "team": "FSV Mainz 05",
+                "assists": 6,
+                "team_logo": "https://crests.football-data.org/15.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Oscar Højlund",
+                "team": "Eintracht Frankfurt",
+                "assists": 5,
+                "team_logo": "https://crests.football-data.org/19.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Exequiel Palacios",
+                "team": "Bayer 04 Leverkusen",
+                "assists": 5,
+                "team_logo": "https://crests.football-data.org/3.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Robert Andrich",
+                "team": "Bayer 04 Leverkusen",
+                "assists": 5,
+                "team_logo": "https://crests.football-data.org/3.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Jan Thielmann",
+                "team": "FC Köln",
+                "assists": 5,
+                "team_logo": "https://crests.football-data.org/1.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Fayssal Harchaoui",
+                "team": "FC Köln",
+                "assists": 5,
+                "team_logo": "https://crests.football-data.org/1.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Umut Tohumcu",
+                "team": "TSG 1899 Hoffenheim",
+                "assists": 5,
+                "team_logo": "https://crests.football-data.org/2.svg"
+            },
+            {
+                "rank": 3,
+                "player": "Florian Neuhaus",
+                "team": "Borussia Mönchengladbach",
+                "assists": 5,
+                "team_logo": "https://crests.football-data.org/18.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Ellyes Skhiri",
+                "team": "Eintracht Frankfurt",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/19.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Aleksandar Pavlović",
+                "team": "Bayern München",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/5.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Jesper Lindstrøm",
+                "team": "VfL Wolfsburg",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/11.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Angelo Stiller",
+                "team": "VfB Stuttgart",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/10.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Eric Martel",
+                "team": "FC Köln",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/1.svg"
+            },
+            {
+                "rank": 10,
+                "player": "Robert Skov",
+                "team": "FC Union Berlin",
+                "assists": 4,
+                "team_logo": "https://crests.football-data.org/28.svg"
+            },
+            {
+                "rank": 16,
+                "player": "Hugo Larsson",
+                "team": "Eintracht Frankfurt",
+                "assists": 3,
+                "team_logo": "https://crests.football-data.org/19.svg"
+            }
+        ]
     }
 ]
